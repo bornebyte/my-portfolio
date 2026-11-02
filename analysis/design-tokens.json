@@ -1,0 +1,2393 @@
+{
+  "customProperties": {
+    "--font": "'Onest',ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif",
+    "--chip-bg": "rgba(242,238,235,.5)",
+    "--base": "#EAE6E2",
+    "--wall-hi": "#E4DFDB",
+    "--scrim": "rgba(26,24,24,.3)",
+    "--text-watermark": "13rem",
+    "--surface-2": "#D3CBC8",
+    "--lift": "rgba(26,24,24,.3)",
+    "--accent": "#6B5C5C",
+    "--e-soft": "cubic-bezier(.16,1,.3,1)",
+    "--floor": "#C2AE98",
+    "--bar-h": "3.5rem",
+    "--hero-from": "#EEEAE6",
+    "--radius-card-sm": "1.25rem",
+    "--paint": "#1A1818",
+    "--radius-control": ".875rem",
+    "--line": "#D5CDCA",
+    "--radius-pill": "9999px",
+    "--vig": "rgba(240,236,232,.35)",
+    "--ink": "#1A1818",
+    "--floor-2": "#A8937E",
+    "--room": "#FBFAF8",
+    "--room-in": "#ffdcae",
+    "--panel": "#F0ECE9",
+    "--accent-to": "#6B5C5C",
+    "--room-out": "#22160d",
+    "--muted": "#857878",
+    "--background": "#E8E4E0",
+    "--outline-h": "rgba(196,176,176,.18)",
+    "--hero-mid": "#E8E4E0",
+    "--fg-rgb": "26,24,24",
+    "--cord-shadow": ".2",
+    "--radius-card": "2rem",
+    "--btn-badge-bg": "#E8E4E0",
+    "--e-line": "cubic-bezier(.215,.61,.355,1)",
+    "--gut-lg": "5.5rem",
+    "--field": "rgba(196,176,176,.12)",
+    "--room-mid": "#c98447",
+    "--e-spring": "cubic-bezier(.22,1,.36,1)",
+    "--casing": "#F2EFEC",
+    "--subtle": "#B5A8A8",
+    "--hero-to": "#D8CDCA",
+    "--e-snap": "cubic-bezier(.2,.8,.2,1)",
+    "--spill": "255,196,128",
+    "--surface": "#DED8D4",
+    "--rim": "rgba(255,255,255,.95)",
+    "--btn-bg": "#1A1818",
+    "--container-shell": "88rem",
+    "--btn-badge-fg": "#1A1818",
+    "--wall": "#DAD4CF",
+    "--accent-from": "#C4B0B0",
+    "--chip-bg-h": "rgba(242,238,235,.85)",
+    "--room-sh": "rgba(26,24,24,.1)",
+    "--btn-fg": "#E8E4E0",
+    "--foreground": "#1A1818",
+    "--chip-line": "rgba(196,176,176,.45)",
+    "--lamp": "rgba(255,250,242,.9)"
+  },
+  "colors": {
+    "text": [
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 311,
+        "examples": [
+          "body.ready",
+          "a.skip",
+          "header.hdr.rv"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 33,
+        "examples": [
+          "span.pill__in",
+          "footer#contact-footer",
+          "div.sf__in"
+        ]
+      },
+      {
+        "value": "rgb(255, 255, 255)",
+        "count": 18,
+        "examples": [
+          "div.shell.navm__top",
+          "span.brand",
+          "nav.shell.navm__nav"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.85)",
+        "count": 12,
+        "examples": [
+          "a",
+          "button",
+          "li.st"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.7)",
+        "count": 11,
+        "examples": [
+          "button#navClose",
+          "svg",
+          "path"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.9)",
+        "count": 10,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.6)",
+        "count": 8,
+        "examples": [
+          "svg",
+          "path",
+          "button#mClose"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.72)",
+        "count": 7,
+        "examples": [
+          "div.shell.hero__bar",
+          "span",
+          "span.mid"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.3)",
+        "count": 7,
+        "examples": [
+          "small"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.68)",
+        "count": 6,
+        "examples": [
+          "div.sf__bot",
+          "span",
+          "span.sf__legal"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.78)",
+        "count": 5,
+        "examples": [
+          "p.ch__date"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.82)",
+        "count": 5,
+        "examples": [
+          "p.ch__org"
+        ]
+      },
+      {
+        "value": "rgb(196, 176, 176)",
+        "count": 5,
+        "examples": [
+          "svg",
+          "path",
+          "div.msuccess__badge"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.7)",
+        "count": 4,
+        "examples": [
+          "div.chip.clock",
+          "span.clock__date",
+          "p.eyebrow.rv"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.5)",
+        "count": 4,
+        "examples": [
+          "span.soft",
+          "span"
+        ]
+      },
+      {
+        "value": "rgb(43, 33, 18)",
+        "count": 4,
+        "examples": [
+          "span.plate"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.66)",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.45)",
+        "count": 3,
+        "examples": [
+          "div.shell.navm__bot",
+          "span"
+        ]
+      },
+      {
+        "value": "rgb(10, 10, 10)",
+        "count": 2,
+        "examples": [
+          "span.cal__word"
+        ]
+      },
+      {
+        "value": "rgba(10, 10, 10, 0.42)",
+        "count": 2,
+        "examples": [
+          "span.cal__no"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.6)",
+        "count": 2,
+        "examples": [
+          "p.sf__eye",
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(0, 0, 0)",
+        "count": 1,
+        "examples": [
+          "html.lenis"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.66)",
+        "count": 1,
+        "examples": [
+          "span.clock__lbl"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.3)",
+        "count": 1,
+        "examples": [
+          "span.clock__sep"
+        ]
+      },
+      {
+        "value": "rgb(243, 238, 236)",
+        "count": 1,
+        "examples": [
+          "button#holoOpen"
+        ]
+      },
+      {
+        "value": "rgb(107, 79, 79)",
+        "count": 1,
+        "examples": [
+          "p.dinfo__t"
+        ]
+      },
+      {
+        "value": "rgb(92, 66, 66)",
+        "count": 1,
+        "examples": [
+          "p.story__when"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.55)",
+        "count": 1,
+        "examples": [
+          "span.story__of"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.42)",
+        "count": 1,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.7)",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      }
+    ],
+    "background": [
+      {
+        "value": "rgb(27, 27, 27)",
+        "count": 48,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 10,
+        "examples": [
+          "html.lenis",
+          "span.pill__in",
+          "b"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 5,
+        "examples": [
+          "body.ready",
+          "span.pill__badge",
+          "button.sf__btn"
+        ]
+      },
+      {
+        "value": "rgb(242, 239, 236)",
+        "count": 4,
+        "examples": [
+          "span.casing"
+        ]
+      },
+      {
+        "value": "rgb(251, 250, 248)",
+        "count": 4,
+        "examples": [
+          "span.room"
+        ]
+      },
+      {
+        "value": "rgb(0, 0, 0)",
+        "count": 4,
+        "examples": [
+          "span.door__shade"
+        ]
+      },
+      {
+        "value": "rgba(196, 176, 176, 0.12)",
+        "count": 4,
+        "examples": [
+          "input",
+          "input#f-name",
+          "input#f-email"
+        ]
+      },
+      {
+        "value": "rgba(242, 238, 235, 0.5)",
+        "count": 1,
+        "examples": [
+          "div.chip.clock"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.72)",
+        "count": 1,
+        "examples": [
+          "button#holoOpen"
+        ]
+      },
+      {
+        "value": "rgb(34, 48, 74)",
+        "count": 1,
+        "examples": [
+          "span.door"
+        ]
+      },
+      {
+        "value": "rgb(74, 53, 64)",
+        "count": 1,
+        "examples": [
+          "span.door"
+        ]
+      },
+      {
+        "value": "rgb(122, 134, 112)",
+        "count": 1,
+        "examples": [
+          "span.door"
+        ]
+      },
+      {
+        "value": "rgb(164, 85, 44)",
+        "count": 1,
+        "examples": [
+          "span.door"
+        ]
+      },
+      {
+        "value": "rgb(244, 241, 238)",
+        "count": 1,
+        "examples": [
+          "section#about"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.12)",
+        "count": 1,
+        "examples": [
+          "i.story__bar"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.14)",
+        "count": 1,
+        "examples": [
+          "span.story__rail"
+        ]
+      },
+      {
+        "value": "rgb(127, 176, 105)",
+        "count": 1,
+        "examples": [
+          "span.story__dot"
+        ]
+      },
+      {
+        "value": "rgb(143, 191, 122)",
+        "count": 1,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(240, 236, 233)",
+        "count": 1,
+        "examples": [
+          "div#mPanel"
+        ]
+      },
+      {
+        "value": "rgb(222, 216, 212)",
+        "count": 1,
+        "examples": [
+          "button#mClose"
+        ]
+      }
+    ],
+    "border": [
+      {
+        "value": "rgb(213, 205, 202)",
+        "count": 5,
+        "examples": [
+          "span.pill__in",
+          "input",
+          "input#f-name"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.1)",
+        "count": 2,
+        "examples": [
+          "div.shell.hero__bar",
+          "section#about"
+        ]
+      },
+      {
+        "value": "rgba(196, 176, 176, 0.45)",
+        "count": 1,
+        "examples": [
+          "div.chip.clock"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.22)",
+        "count": 1,
+        "examples": [
+          "button#holoOpen"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.2)",
+        "count": 1,
+        "examples": [
+          "button.sf__ghost"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.sf__cols"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.15)",
+        "count": 1,
+        "examples": [
+          "button#navClose"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.1)",
+        "count": 1,
+        "examples": [
+          "div.shell.navm__bot"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.25)",
+        "count": 1,
+        "examples": [
+          "button"
+        ]
+      }
+    ],
+    "all": [
+      {
+        "value": "rgb(0, 0, 0)",
+        "count": 457,
+        "examples": [
+          "html.lenis",
+          "body.ready",
+          "a.skip"
+        ]
+      },
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 327,
+        "examples": [
+          "html.lenis",
+          "body.ready",
+          "a.skip"
+        ]
+      },
+      {
+        "value": "rgb(27, 27, 27)",
+        "count": 48,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 40,
+        "examples": [
+          "body.ready",
+          "span.pill__in",
+          "span.pill__badge"
+        ]
+      },
+      {
+        "value": "rgb(255, 255, 255)",
+        "count": 18,
+        "examples": [
+          "div.shell.navm__top",
+          "span.brand",
+          "nav.shell.navm__nav"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.6)",
+        "count": 14,
+        "examples": [
+          "svg",
+          "path",
+          "button#mClose"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.7)",
+        "count": 13,
+        "examples": [
+          "button#navClose",
+          "svg",
+          "path"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.85)",
+        "count": 12,
+        "examples": [
+          "a",
+          "button",
+          "li.st"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.9)",
+        "count": 10,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "rgb(196, 176, 176)",
+        "count": 9,
+        "examples": [
+          "svg",
+          "path",
+          "div.msuccess__badge"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.72)",
+        "count": 8,
+        "examples": [
+          "button#holoOpen",
+          "div.shell.hero__bar",
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.3)",
+        "count": 7,
+        "examples": [
+          "small"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.68)",
+        "count": 6,
+        "examples": [
+          "div.sf__bot",
+          "span",
+          "span.sf__legal"
+        ]
+      },
+      {
+        "value": "rgb(213, 205, 202)",
+        "count": 5,
+        "examples": [
+          "span.pill__in",
+          "input",
+          "input#f-name"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.78)",
+        "count": 5,
+        "examples": [
+          "p.ch__date"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.82)",
+        "count": 5,
+        "examples": [
+          "p.ch__org"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.7)",
+        "count": 4,
+        "examples": [
+          "div.chip.clock",
+          "span.clock__date",
+          "p.eyebrow.rv"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.5)",
+        "count": 4,
+        "examples": [
+          "span.soft",
+          "span"
+        ]
+      },
+      {
+        "value": "rgb(242, 239, 236)",
+        "count": 4,
+        "examples": [
+          "span.casing"
+        ]
+      },
+      {
+        "value": "rgb(251, 250, 248)",
+        "count": 4,
+        "examples": [
+          "span.room"
+        ]
+      },
+      {
+        "value": "rgb(43, 33, 18)",
+        "count": 4,
+        "examples": [
+          "span.plate"
+        ]
+      },
+      {
+        "value": "rgba(196, 176, 176, 0.12)",
+        "count": 4,
+        "examples": [
+          "input",
+          "input#f-name",
+          "input#f-email"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.66)",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.45)",
+        "count": 3,
+        "examples": [
+          "div.shell.navm__bot",
+          "span"
+        ]
+      },
+      {
+        "value": "rgb(10, 10, 10)",
+        "count": 2,
+        "examples": [
+          "span.cal__word"
+        ]
+      },
+      {
+        "value": "rgba(10, 10, 10, 0.42)",
+        "count": 2,
+        "examples": [
+          "span.cal__no"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.1)",
+        "count": 2,
+        "examples": [
+          "div.shell.hero__bar",
+          "section#about"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.6)",
+        "count": 2,
+        "examples": [
+          "p.sf__eye",
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(242, 238, 235, 0.5)",
+        "count": 1,
+        "examples": [
+          "div.chip.clock"
+        ]
+      },
+      {
+        "value": "rgba(196, 176, 176, 0.45)",
+        "count": 1,
+        "examples": [
+          "div.chip.clock"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.66)",
+        "count": 1,
+        "examples": [
+          "span.clock__lbl"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.3)",
+        "count": 1,
+        "examples": [
+          "span.clock__sep"
+        ]
+      },
+      {
+        "value": "rgb(243, 238, 236)",
+        "count": 1,
+        "examples": [
+          "button#holoOpen"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.22)",
+        "count": 1,
+        "examples": [
+          "button#holoOpen"
+        ]
+      },
+      {
+        "value": "rgb(107, 79, 79)",
+        "count": 1,
+        "examples": [
+          "p.dinfo__t"
+        ]
+      },
+      {
+        "value": "rgb(34, 48, 74)",
+        "count": 1,
+        "examples": [
+          "span.door"
+        ]
+      },
+      {
+        "value": "rgb(74, 53, 64)",
+        "count": 1,
+        "examples": [
+          "span.door"
+        ]
+      },
+      {
+        "value": "rgb(122, 134, 112)",
+        "count": 1,
+        "examples": [
+          "span.door"
+        ]
+      },
+      {
+        "value": "rgb(164, 85, 44)",
+        "count": 1,
+        "examples": [
+          "span.door"
+        ]
+      },
+      {
+        "value": "rgb(244, 241, 238)",
+        "count": 1,
+        "examples": [
+          "section#about"
+        ]
+      },
+      {
+        "value": "rgb(92, 66, 66)",
+        "count": 1,
+        "examples": [
+          "p.story__when"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.55)",
+        "count": 1,
+        "examples": [
+          "span.story__of"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.12)",
+        "count": 1,
+        "examples": [
+          "i.story__bar"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.14)",
+        "count": 1,
+        "examples": [
+          "span.story__rail"
+        ]
+      },
+      {
+        "value": "rgb(127, 176, 105)",
+        "count": 1,
+        "examples": [
+          "span.story__dot"
+        ]
+      },
+      {
+        "value": "rgb(143, 191, 122)",
+        "count": 1,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.42)",
+        "count": 1,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.7)",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.2)",
+        "count": 1,
+        "examples": [
+          "button.sf__ghost"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.sf__cols"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.15)",
+        "count": 1,
+        "examples": [
+          "button#navClose"
+        ]
+      },
+      {
+        "value": "rgba(255, 255, 255, 0.1)",
+        "count": 1,
+        "examples": [
+          "div.shell.navm__bot"
+        ]
+      },
+      {
+        "value": "rgb(240, 236, 233)",
+        "count": 1,
+        "examples": [
+          "div#mPanel"
+        ]
+      },
+      {
+        "value": "rgb(222, 216, 212)",
+        "count": 1,
+        "examples": [
+          "button#mClose"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.45)",
+        "count": 1,
+        "examples": [
+          "small"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.25)",
+        "count": 1,
+        "examples": [
+          "button"
+        ]
+      }
+    ]
+  },
+  "typography": {
+    "families": [
+      {
+        "value": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "count": 155,
+        "examples": [
+          "a.skip",
+          "span",
+          "span.clock__lbl"
+        ]
+      },
+      {
+        "value": "ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+        "count": 6,
+        "examples": [
+          "p.story__when",
+          "p.ch__date"
+        ]
+      },
+      {
+        "value": "Onest, ui-sans-serif, system-ui, sans-serif",
+        "count": 5,
+        "examples": [
+          "button#holoOpen",
+          "p",
+          "a"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "value": "184px",
+        "count": 40,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "16px",
+        "count": 28,
+        "examples": [
+          "a.skip",
+          "span",
+          "li"
+        ]
+      },
+      {
+        "value": "12px",
+        "count": 20,
+        "examples": [
+          "span",
+          "span.mid",
+          "span.scroll"
+        ]
+      },
+      {
+        "value": "14px",
+        "count": 17,
+        "examples": [
+          "span.clock__lbl",
+          "span.clock__time.tnum",
+          "span.clock__sep"
+        ]
+      },
+      {
+        "value": "13px",
+        "count": 12,
+        "examples": [
+          "button#holoOpen",
+          "p.story__when",
+          "p.sf__eye"
+        ]
+      },
+      {
+        "value": "15px",
+        "count": 12,
+        "examples": [
+          "a",
+          "button",
+          "li.st"
+        ]
+      },
+      {
+        "value": "60px",
+        "count": 7,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "17px",
+        "count": 6,
+        "examples": [
+          "p.ch__org",
+          "p.sf__p"
+        ]
+      },
+      {
+        "value": "34.4px",
+        "count": 5,
+        "examples": [
+          "h3.ch__t"
+        ]
+      },
+      {
+        "value": "76px",
+        "count": 4,
+        "examples": [
+          "span.sr-only",
+          "span",
+          "span.soft"
+        ]
+      },
+      {
+        "value": "14.6888px",
+        "count": 4,
+        "examples": [
+          "span.plate"
+        ]
+      },
+      {
+        "value": "68.4px",
+        "count": 2,
+        "examples": [
+          "span.cal__word"
+        ]
+      },
+      {
+        "value": "10.26px",
+        "count": 2,
+        "examples": [
+          "span.cal__no"
+        ]
+      },
+      {
+        "value": "24px",
+        "count": 2,
+        "examples": [
+          "h2#doorsTitle",
+          "h2#mOkT"
+        ]
+      },
+      {
+        "value": "104px",
+        "count": 2,
+        "examples": [
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "value": "54.4px",
+        "count": 1,
+        "examples": [
+          "h2#storyTitle"
+        ]
+      },
+      {
+        "value": "22px",
+        "count": 1,
+        "examples": [
+          "span.brand"
+        ]
+      },
+      {
+        "value": "30px",
+        "count": 1,
+        "examples": [
+          "h2#mTitle"
+        ]
+      }
+    ],
+    "weights": [
+      {
+        "value": "400",
+        "count": 46,
+        "examples": [
+          "a.skip",
+          "span",
+          "span.clock__lbl"
+        ]
+      },
+      {
+        "value": "700",
+        "count": 45,
+        "examples": [
+          "span.cal__word",
+          "h2#doorsTitle",
+          "p.paint"
+        ]
+      },
+      {
+        "value": "600",
+        "count": 39,
+        "examples": [
+          "button#holoOpen",
+          "span.sr-only",
+          "span"
+        ]
+      },
+      {
+        "value": "500",
+        "count": 36,
+        "examples": [
+          "span.clock__time.tnum",
+          "span.clock__date",
+          "span.word"
+        ]
+      }
+    ],
+    "lineHeights": [
+      {
+        "value": "184px",
+        "count": 40,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "24.8px",
+        "count": 10,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "37.152px",
+        "count": 5,
+        "examples": [
+          "h3.ch__t"
+        ]
+      },
+      {
+        "value": "16.8922px",
+        "count": 4,
+        "examples": [
+          "span.plate"
+        ]
+      },
+      {
+        "value": "13px",
+        "count": 3,
+        "examples": [
+          "button#holoOpen",
+          "button"
+        ]
+      },
+      {
+        "value": "74.48px",
+        "count": 3,
+        "examples": [
+          "span.sr-only",
+          "span",
+          "span.soft"
+        ]
+      },
+      {
+        "value": "68.4px",
+        "count": 2,
+        "examples": [
+          "span.cal__word"
+        ]
+      },
+      {
+        "value": "10.0548px",
+        "count": 2,
+        "examples": [
+          "span.cal__no"
+        ]
+      },
+      {
+        "value": "98.8px",
+        "count": 2,
+        "examples": [
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "value": "20.3px",
+        "count": 2,
+        "examples": [
+          "p",
+          "a"
+        ]
+      },
+      {
+        "value": "72.2px",
+        "count": 1,
+        "examples": [
+          "p.paint"
+        ]
+      },
+      {
+        "value": "53.312px",
+        "count": 1,
+        "examples": [
+          "h2#storyTitle"
+        ]
+      },
+      {
+        "value": "27.2px",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      }
+    ],
+    "letterSpacings": [
+      {
+        "value": "-11.04px",
+        "count": 40,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "-1.2px",
+        "count": 14,
+        "examples": [
+          "small",
+          "span"
+        ]
+      },
+      {
+        "value": "0.3px",
+        "count": 10,
+        "examples": [
+          "span",
+          "span.mid",
+          "span.scroll"
+        ]
+      },
+      {
+        "value": "1.44px",
+        "count": 5,
+        "examples": [
+          "p.ch__date"
+        ]
+      },
+      {
+        "value": "-0.688px",
+        "count": 5,
+        "examples": [
+          "h3.ch__t"
+        ]
+      },
+      {
+        "value": "1.322px",
+        "count": 4,
+        "examples": [
+          "span.plate"
+        ]
+      },
+      {
+        "value": "-1.52px",
+        "count": 3,
+        "examples": [
+          "span.sr-only",
+          "span",
+          "span.soft"
+        ]
+      },
+      {
+        "value": "1.2px",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "0.13px",
+        "count": 2,
+        "examples": [
+          "button#holoOpen",
+          "div#doorCursor"
+        ]
+      },
+      {
+        "value": "-2.394px",
+        "count": 2,
+        "examples": [
+          "span.cal__word"
+        ]
+      }
+    ],
+    "styles": [
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "184px",
+        "fontWeight": "700",
+        "lineHeight": "184px",
+        "letterSpacing": "-11.04px",
+        "count": 40,
+        "examples": [
+          "i",
+          "i",
+          "i"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24.8px",
+        "letterSpacing": "normal",
+        "count": 10,
+        "examples": [
+          "li",
+          "li",
+          "li"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 9,
+        "examples": [
+          "a.skip",
+          "span",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 9,
+        "examples": [
+          "span.clock__time.tnum",
+          "span.clock__date",
+          "p.eyebrow.rv"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 8,
+        "examples": [
+          "a",
+          "a",
+          "a"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "0.3px",
+        "count": 7,
+        "examples": [
+          "span",
+          "span.mid",
+          "span.scroll"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "-1.2px",
+        "count": 7,
+        "examples": [
+          "small",
+          "small",
+          "small"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "60px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "-1.2px",
+        "count": 7,
+        "examples": [
+          "span",
+          "span",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 6,
+        "examples": [
+          "span",
+          "span",
+          "a"
+        ]
+      },
+      {
+        "fontFamily": "ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "1.44px",
+        "count": 5,
+        "examples": [
+          "p.ch__date",
+          "p.ch__date",
+          "p.ch__date"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "34.4px",
+        "fontWeight": "600",
+        "lineHeight": "37.152px",
+        "letterSpacing": "-0.688px",
+        "count": 5,
+        "examples": [
+          "h3.ch__t",
+          "h3.ch__t",
+          "h3.ch__t"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 5,
+        "examples": [
+          "p.ch__org",
+          "p.ch__org",
+          "p.ch__org"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "14.6888px",
+        "fontWeight": "600",
+        "lineHeight": "16.8922px",
+        "letterSpacing": "1.322px",
+        "count": 4,
+        "examples": [
+          "span.plate",
+          "span.plate",
+          "span.plate"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 4,
+        "examples": [
+          "li.st",
+          "li.st",
+          "li.st"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 3,
+        "examples": [
+          "span.clock__lbl",
+          "span.clock__sep",
+          "p#mOkP"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "76px",
+        "fontWeight": "600",
+        "lineHeight": "74.48px",
+        "letterSpacing": "-1.52px",
+        "count": 3,
+        "examples": [
+          "span.sr-only",
+          "span",
+          "span.soft"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "1.2px",
+        "count": 3,
+        "examples": [
+          "h3",
+          "h3",
+          "h3"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "0.3px",
+        "count": 3,
+        "examples": [
+          "span",
+          "span",
+          "button#navStart"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "68.4px",
+        "fontWeight": "700",
+        "lineHeight": "68.4px",
+        "letterSpacing": "-2.394px",
+        "count": 2,
+        "examples": [
+          "span.cal__word",
+          "span.cal__word"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "10.26px",
+        "fontWeight": "500",
+        "lineHeight": "10.0548px",
+        "letterSpacing": "0.8208px",
+        "count": 2,
+        "examples": [
+          "span.cal__no",
+          "span.cal__no"
+        ]
+      }
+    ]
+  },
+  "spacing": [
+    {
+      "value": "16px",
+      "count": 56,
+      "examples": [
+        "button#holoOpen",
+        "p.ch__org",
+        "h3"
+      ]
+    },
+    {
+      "value": "8px",
+      "count": 44,
+      "examples": [
+        "span",
+        "p.eyebrow.rv",
+        "span.scroll"
+      ]
+    },
+    {
+      "value": "12px",
+      "count": 41,
+      "examples": [
+        "div.hdr__right",
+        "div.chip.clock",
+        "div.ctas.rv"
+      ]
+    },
+    {
+      "value": "4px",
+      "count": 24,
+      "examples": [
+        "span",
+        "ul#navList"
+      ]
+    },
+    {
+      "value": "9.6px",
+      "count": 20,
+      "examples": [
+        "div.chip.clock",
+        "span",
+        "h2#storyTitle"
+      ]
+    },
+    {
+      "value": "24px",
+      "count": 18,
+      "examples": [
+        "div.shell.hdr__in",
+        "span.pill__in",
+        "div.story__yr"
+      ]
+    },
+    {
+      "value": "88px",
+      "count": 18,
+      "examples": [
+        "div.shell.hdr__in",
+        "div.shell.hero__content",
+        "div.shell.hero__bar"
+      ]
+    },
+    {
+      "value": "8.8px",
+      "count": 16,
+      "examples": [
+        "ul.ch__b",
+        "button.sf__btn"
+      ]
+    },
+    {
+      "value": "48px",
+      "count": 14,
+      "examples": [
+        "ul.doors__row",
+        "div.story__clock",
+        "li.ch.ch--now"
+      ]
+    },
+    {
+      "value": "17.6px",
+      "count": 12,
+      "examples": [
+        "span",
+        "li"
+      ]
+    },
+    {
+      "value": "6.4px",
+      "count": 12,
+      "examples": [
+        "label"
+      ]
+    },
+    {
+      "value": "28px",
+      "count": 9,
+      "examples": [
+        "div.hero__left",
+        "span.pill__in",
+        "div.sf__in"
+      ]
+    },
+    {
+      "value": "6px",
+      "count": 9,
+      "examples": [
+        "span.pill__in",
+        "div.mhead"
+      ]
+    },
+    {
+      "value": "7.07241px",
+      "count": 8,
+      "examples": [
+        "span.plate"
+      ]
+    },
+    {
+      "value": "10.8806px",
+      "count": 8,
+      "examples": [
+        "span.plate"
+      ]
+    },
+    {
+      "value": "14.4px",
+      "count": 6,
+      "examples": [
+        "div.chip.clock",
+        "p.story__when",
+        "div#ck"
+      ]
+    },
+    {
+      "value": "7.2px",
+      "count": 6,
+      "examples": [
+        "button#holoOpen",
+        "h3.dinfo__h",
+        "span.story__dtrack"
+      ]
+    },
+    {
+      "value": "40px",
+      "count": 5,
+      "examples": [
+        "div.shell.hero__content",
+        "div.story__pin",
+        "div.sf__cols"
+      ]
+    },
+    {
+      "value": "11.2px",
+      "count": 5,
+      "examples": [
+        "p.ch__date"
+      ]
+    },
+    {
+      "value": "5.6px",
+      "count": 5,
+      "examples": [
+        "h3.ch__t"
+      ]
+    },
+    {
+      "value": "22.4px",
+      "count": 4,
+      "examples": [
+        "ul.nav",
+        "h2#sfTitle"
+      ]
+    },
+    {
+      "value": "-1px",
+      "count": 4,
+      "examples": [
+        "span.sr-only",
+        "h2#doorsTitle"
+      ]
+    },
+    {
+      "value": "27.36px",
+      "count": 4,
+      "examples": [
+        "span.cal__word"
+      ]
+    },
+    {
+      "value": "14px",
+      "count": 4,
+      "examples": [
+        "span.pill__in"
+      ]
+    },
+    {
+      "value": "3.68px",
+      "count": 4,
+      "examples": [
+        "span.dg"
+      ]
+    },
+    {
+      "value": "32px",
+      "count": 4,
+      "examples": [
+        "div#mPanel"
+      ]
+    },
+    {
+      "value": "-32px",
+      "count": 3,
+      "examples": [
+        "button#cordHit",
+        "section#works",
+        "div.sfw"
+      ]
+    },
+    {
+      "value": "112px",
+      "count": 3,
+      "examples": [
+        "div.shell.hero__content",
+        "div.story__pin",
+        "div.sf__in"
+      ]
+    },
+    {
+      "value": "57.6px",
+      "count": 3,
+      "examples": [
+        "div.shell.doors__wall"
+      ]
+    },
+    {
+      "value": "56px",
+      "count": 3,
+      "examples": [
+        "div.shell.story__stage"
+      ]
+    }
+  ],
+  "borderRadius": [
+    {
+      "value": "50%",
+      "count": 56,
+      "examples": [
+        "button#cordHit",
+        "i",
+        "span.handle"
+      ]
+    },
+    {
+      "value": "9999px",
+      "count": 13,
+      "examples": [
+        "button.pill.pill--dark",
+        "span.pill__in",
+        "span.pill__badge"
+      ]
+    },
+    {
+      "value": "115.607px 115.607px 0px 0px",
+      "count": 12,
+      "examples": [
+        "span.room",
+        "span.door",
+        "span.door__shade"
+      ]
+    },
+    {
+      "value": "136.008px 136.008px 0px 0px",
+      "count": 8,
+      "examples": [
+        "button.doorway",
+        "span.casing"
+      ]
+    },
+    {
+      "value": "14px",
+      "count": 6,
+      "examples": [
+        "div.chip.clock",
+        "button#navClose",
+        "input"
+      ]
+    },
+    {
+      "value": "13.68px",
+      "count": 6,
+      "examples": [
+        "span.cal__back",
+        "span.cal__page",
+        "span.cal__shade"
+      ]
+    },
+    {
+      "value": "999px",
+      "count": 5,
+      "examples": [
+        "button#holoOpen",
+        "button.sf__btn",
+        "button.sf__ghost"
+      ]
+    },
+    {
+      "value": "93.8454px 93.8454px 3.26419px 3.26419px",
+      "count": 4,
+      "examples": [
+        "span.door__flute"
+      ]
+    },
+    {
+      "value": "2.44814px",
+      "count": 4,
+      "examples": [
+        "span.plate"
+      ]
+    },
+    {
+      "value": "6.52838px 4.35225px 4.35225px 6.52838px",
+      "count": 4,
+      "examples": [
+        "span.handle__lever"
+      ]
+    },
+    {
+      "value": "7.34442px",
+      "count": 4,
+      "examples": [
+        "span.handle__lock"
+      ]
+    },
+    {
+      "value": "2.72016px",
+      "count": 4,
+      "examples": [
+        "span.sill"
+      ]
+    },
+    {
+      "value": "2px",
+      "count": 2,
+      "examples": [
+        "i.story__bar",
+        "span.story__rail"
+      ]
+    },
+    {
+      "value": "0px 0px 32px 32px",
+      "count": 1,
+      "examples": [
+        "section#home"
+      ]
+    },
+    {
+      "value": "17.784px",
+      "count": 1,
+      "examples": [
+        "span.cal__stand"
+      ]
+    }
+  ],
+  "shadows": [
+    {
+      "value": "rgba(255, 255, 255, 0.3) 0px 0.684px 0.684px 0px inset",
+      "count": 48,
+      "examples": [
+        "i"
+      ]
+    },
+    {
+      "value": "rgba(255, 255, 255, 0.28) 0px 0px 0px 2.99217px inset, rgba(0, 0, 0, 0.07) 0px 0px 0px 4.08023px inset, rgba(255, 255, 255, 0.12) 0px 0px 0px 9.79256px inset, rgba(0, 0, 0, 0.08) 0px 0px 0px 11.1526px inset, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px, rgba(26, 24, 24, 0.2) 4.08023px 6.80039px 12.2407px 0px, rgba(26, 24, 24, 0.08) -1.36008px 2.72016px 8.16047px 0px",
+      "count": 4,
+      "examples": [
+        "span.casing"
+      ]
+    },
+    {
+      "value": "rgba(26, 24, 24, 0.1) 5.44031px 0px 10.8806px 0px inset, rgba(26, 24, 24, 0.1) 0px 5.44031px 10.8806px 0px inset",
+      "count": 4,
+      "examples": [
+        "span.room"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.28) 0px 0px 0px 0.816047px inset, rgba(255, 255, 255, 0.05) 1.63209px 0px 0px 0px inset",
+      "count": 4,
+      "examples": [
+        "span.door"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.16) 0px 0px 0px 0.816047px inset, rgba(0, 0, 0, 0.28) 2.72016px 3.26419px 5.44031px 0px inset, rgba(255, 255, 255, 0.07) -1.63209px -1.63209px 2.72016px 0px inset",
+      "count": 4,
+      "examples": [
+        "span.door__flute"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.4) 0px 1.36008px 2.72016px 0px, rgba(255, 250, 228, 0.7) 0px 0.816047px 0px 0px inset, rgba(88, 62, 22, 0.45) 0px -0.816047px 0px 0px inset",
+      "count": 4,
+      "examples": [
+        "span.plate"
+      ]
+    },
+    {
+      "value": "rgba(255, 238, 196, 0.55) 0px 0.761644px 0px, rgba(0, 0, 0, 0.25) 0px -0.408023px 0px",
+      "count": 4,
+      "examples": [
+        "span.plate"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.22) 0px 0px 0px 0.952055px, rgba(0, 0, 0, 0.45) 2.44814px 4.08023px 5.44031px 0px, rgba(40, 26, 6, 0.55) -1.90411px -2.44814px 2.99217px 0px inset, rgba(255, 248, 222, 0.5) 1.36008px 1.63209px 2.17613px 0px inset",
+      "count": 4,
+      "examples": [
+        "span.handle"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.38) 0.816047px 6.52838px 5.98434px 0px, rgba(0, 0, 0, 0.25) 0px 1.08806px 1.08806px 0px, rgba(50, 32, 8, 0.45) 0px -0.816047px 1.08806px 0px inset",
+      "count": 4,
+      "examples": [
+        "span.handle__lever"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.2) 0px 0px 0px 0.816047px, rgba(0, 0, 0, 0.42) 1.63209px 2.72016px 3.80822px 0px, rgba(40, 26, 6, 0.5) -1.08806px -1.63209px 2.17613px 0px inset, rgba(255, 248, 222, 0.45) 0.816047px 1.08806px 1.36008px 0px inset",
+      "count": 4,
+      "examples": [
+        "span.handle__lock"
+      ]
+    },
+    {
+      "value": "rgba(26, 24, 24, 0.1) 0px 1px 0px 0px, rgba(26, 24, 24, 0.3) 0px 28px 48px -24px",
+      "count": 1,
+      "examples": [
+        "section#home"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.6) 0px 10px 24px -12px",
+      "count": 1,
+      "examples": [
+        "button#holoOpen"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.55) 0px 34.2px 61.56px -23.94px, rgba(255, 255, 255, 0.12) 0px 1.368px 0px 0px inset",
+      "count": 1,
+      "examples": [
+        "span.cal__stand"
+      ]
+    },
+    {
+      "value": "rgb(216, 212, 203) 0px 3.078px 0px 0px, rgb(246, 244, 239) 0px 5.472px 0px 0px, rgb(208, 203, 193) 0px 7.866px 0px 0px, rgb(242, 240, 234) 0px 10.26px 0px 0px, rgb(200, 195, 184) 0px 12.654px 0px 0px, rgb(233, 230, 223) 0px 15.048px 0px 0px, rgb(170, 164, 152) 0px 17.442px 0px 0px, rgba(0, 0, 0, 0.35) 0px 30.78px 41.04px -13.68px",
+      "count": 1,
+      "examples": [
+        "span.cal__page"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.06) 0px -1.026px 0px 0px inset",
+      "count": 1,
+      "examples": [
+        "span.cal__face"
+      ]
+    }
+  ],
+  "easings": [
+    {
+      "value": "ease",
+      "count": 37,
+      "examples": [
+        "div.shell.hdr__in",
+        "div#cord",
+        "div.doors__tex"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+      "count": 15,
+      "examples": [
+        "span.cal__body",
+        "span.casing",
+        "span.door"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.16, 1, 0.3, 1), cubic-bezier(0.16, 1, 0.3, 1)",
+      "count": 13,
+      "examples": [
+        "div#fig",
+        "p.eyebrow.rv",
+        "span#cal"
+      ]
+    },
+    {
+      "value": "ease-out",
+      "count": 8,
+      "examples": [
+        "i",
+        "button.navm__item"
+      ]
+    },
+    {
+      "value": "ease, ease",
+      "count": 7,
+      "examples": [
+        "span.story__dot",
+        "button#navClose",
+        "button#mClose"
+      ]
+    },
+    {
+      "value": "ease-in-out",
+      "count": 5,
+      "examples": [
+        "i"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.3, 0.7, 0.4, 1)",
+      "count": 4,
+      "examples": [
+        "span.handle__lever"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.65, 0, 0.2, 1)",
+      "count": 4,
+      "examples": [
+        "span.dg__c"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.215, 0.61, 0.355, 1), cubic-bezier(0.215, 0.61, 0.355, 1)",
+      "count": 2,
+      "examples": [
+        "span",
+        "span.soft"
+      ]
+    },
+    {
+      "value": "ease, ease, ease, cubic-bezier(0.16, 1, 0.3, 1)",
+      "count": 1,
+      "examples": [
+        "header.hdr.rv"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.16, 1, 0.3, 1), ease",
+      "count": 1,
+      "examples": [
+        "button#holoOpen"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.2, 0.8, 0.2, 1)",
+      "count": 1,
+      "examples": [
+        "i"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.65, 0, 0.25, 1)",
+      "count": 1,
+      "examples": [
+        "p.paint"
+      ]
+    },
+    {
+      "value": "ease, cubic-bezier(0.16, 1, 0.3, 1)",
+      "count": 1,
+      "examples": [
+        "div#dinfo"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.65, 0, 0.35, 1)",
+      "count": 1,
+      "examples": [
+        "ul.doors__row"
+      ]
+    }
+  ],
+  "durations": [
+    {
+      "value": "0.5s",
+      "count": 16,
+      "examples": [
+        "span.cal__body",
+        "span.casing",
+        "span.door"
+      ]
+    },
+    {
+      "value": "0.3s",
+      "count": 14,
+      "examples": [
+        "small",
+        "span"
+      ]
+    },
+    {
+      "value": "0.2s",
+      "count": 8,
+      "examples": [
+        "a",
+        "button"
+      ]
+    },
+    {
+      "value": "0.18s",
+      "count": 5,
+      "examples": [
+        "span.handle__lever",
+        "div#doorCursor"
+      ]
+    },
+    {
+      "value": "1.2s",
+      "count": 5,
+      "examples": [
+        "i"
+      ]
+    },
+    {
+      "value": "24s",
+      "count": 5,
+      "examples": [
+        "i"
+      ]
+    },
+    {
+      "value": "0.45s",
+      "count": 5,
+      "examples": [
+        "li.ch.ch--now",
+        "li.ch"
+      ]
+    },
+    {
+      "value": "0.2s, 0.2s",
+      "count": 5,
+      "examples": [
+        "button#mClose",
+        "input",
+        "input#f-name"
+      ]
+    },
+    {
+      "value": "0.9s, 1.1s",
+      "count": 4,
+      "examples": [
+        "li.unit"
+      ]
+    },
+    {
+      "value": "0.5s, 0.5s",
+      "count": 4,
+      "examples": [
+        "button.doorway"
+      ]
+    },
+    {
+      "value": "0.6s",
+      "count": 4,
+      "examples": [
+        "span.sill"
+      ]
+    },
+    {
+      "value": "0.9s",
+      "count": 4,
+      "examples": [
+        "span.dg__c"
+      ]
+    },
+    {
+      "value": "0.35s",
+      "count": 3,
+      "examples": [
+        "div.shell.hdr__in",
+        "button.sf__btn",
+        "svg"
+      ]
+    },
+    {
+      "value": "0.8s, 0.8s",
+      "count": 3,
+      "examples": [
+        "p.eyebrow.rv",
+        "div.ctas.rv",
+        "div.shell.hero__bar"
+      ]
+    },
+    {
+      "value": "0.9s, 0.9s",
+      "count": 2,
+      "examples": [
+        "span",
+        "span.soft"
+      ]
+    }
+  ],
+  "zIndices": [
+    {
+      "value": "1",
+      "count": 13,
+      "examples": [
+        "section#works",
+        "span.plate",
+        "span.handle"
+      ]
+    },
+    {
+      "value": "2",
+      "count": 11,
+      "examples": [
+        "section#home",
+        "div.hero__stage",
+        "ul.doors__row"
+      ]
+    },
+    {
+      "value": "3",
+      "count": 3,
+      "examples": [
+        "button#holoOpen",
+        "p.paint",
+        "div#dinfo"
+      ]
+    },
+    {
+      "value": "0",
+      "count": 2,
+      "examples": [
+        "div.hero__vig",
+        "div.story__amb"
+      ]
+    },
+    {
+      "value": "20",
+      "count": 2,
+      "examples": [
+        "div.shell.hero__content",
+        "div.shell.hero__bar"
+      ]
+    },
+    {
+      "value": "90",
+      "count": 2,
+      "examples": [
+        "div#doorCursor",
+        "div#ck"
+      ]
+    },
+    {
+      "value": "50",
+      "count": 1,
+      "examples": [
+        "header.hdr.rv"
+      ]
+    },
+    {
+      "value": "70",
+      "count": 1,
+      "examples": [
+        "div#cord"
+      ]
+    },
+    {
+      "value": "-1",
+      "count": 1,
+      "examples": [
+        "canvas.story__bg"
+      ]
+    },
+    {
+      "value": "2147483645",
+      "count": 1,
+      "examples": [
+        "iframe#nl-badge-frame"
+      ]
+    }
+  ],
+  "breakpoints": [
+    "539.98px",
+    "639.98px",
+    "640px",
+    "767.98px",
+    "768px",
+    "1023.98px",
+    "1024px",
+    "1199.98px",
+    "1200px",
+    "1280px",
+    "1440px",
+    "1920px"
+  ],
+  "stats": {
+    "elementsSampled": 472,
+    "elementsTotal": 602
+  }
+}

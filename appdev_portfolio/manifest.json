@@ -1,0 +1,158 @@
+{
+  "source": "https://therishithakor.com/app-developer/",
+  "capturedAt": "2026-11-02T11:55:32.324Z",
+  "summary": {
+    "domElements": 320,
+    "imagesFound": 4,
+    "animationsDetected": 0,
+    "keyframesFound": 3,
+    "scrollTriggersFound": 0,
+    "mediaFound": 4,
+    "technologiesDetected": [
+      "Netlify"
+    ],
+    "estimatedLoadTimeMs": 32973,
+    "totalArtefacts": 25,
+    "networkRequests": 20,
+    "networkBytes": 540706,
+    "apiCallsFound": 0,
+    "assetsFound": 18,
+    "designTokensFound": 86,
+    "fontsFound": 2,
+    "cssAnimationsFound": 4,
+    "sourceMapsFound": 0,
+    "keyframeRulesFound": 3,
+    "videosFound": 4,
+    "ocrWordsFound": 252,
+    "textOnlyInPixels": 1,
+    "viewportsMeasured": 4,
+    "responsiveChanges": 192,
+    "interactionStates": 14,
+    "motionTechDetected": 0,
+    "webSocketsFound": 0,
+    "graphqlOperations": 0,
+    "cssUsedPercent": 57,
+    "scrollMotionTracks": 14,
+    "sceneMeshesExported": 0,
+    "gpuTexturesRecovered": 0,
+    "pageTransitionKind": "hard-navigation"
+  },
+  "full": true,
+  "recoveredSourceFiles": 0,
+  "styleRecovery": {
+    "ghostStyleTags": 0,
+    "ghostStyleBytes": 0,
+    "adoptedSheets": 0,
+    "adoptedBytes": 0,
+    "shadowRoots": 0,
+    "shadowBytes": 0,
+    "blockedSheets": 0,
+    "declarativeShadow": false
+  },
+  "assets": {
+    "downloaded": [
+      {
+        "url": "https://therishithakor.com/app-developer/app-expense.mp4",
+        "path": "assets/media/3a61c453d1-app-expense.mp4",
+        "bytes": 287892
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/app-dice.mp4",
+        "path": "assets/media/8c35ef514f-app-dice.mp4",
+        "bytes": 64074
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/app-brick.webp",
+        "path": "assets/images/5b0830eef6-app-brick.webp",
+        "bytes": 49104
+      },
+      {
+        "url": "https://therishithakor.com/fonts/onest-latin.woff2",
+        "path": "assets/fonts/4db55ed39c-onest-latin.woff2",
+        "bytes": 33760
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/app-expense.webp",
+        "path": "assets/images/3bab4de2cf-app-expense.webp",
+        "bytes": 24978
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/app-vault.webp",
+        "path": "assets/images/96627dd6db-app-vault.webp",
+        "bytes": 19056
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/icon-brick.webp",
+        "path": "assets/images/632f05aa89-icon-brick.webp",
+        "bytes": 8998
+      },
+      {
+        "url": "https://therishithakor.com/icon-192.png",
+        "path": "assets/images/1fb19b3185-icon-192.png",
+        "bytes": 7744
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/app-dice.webp",
+        "path": "assets/images/ab419f6a4c-app-dice.webp",
+        "bytes": 4726
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/icon-vault.webp",
+        "path": "assets/images/0c8fa292b1-icon-vault.webp",
+        "bytes": 2572
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/icon-dice.webp",
+        "path": "assets/images/2a9dead616-icon-dice.webp",
+        "bytes": 2364
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/icon-expense.webp",
+        "path": "assets/images/42f632f617-icon-expense.webp",
+        "bytes": 2340
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/app-vault.mp4",
+        "path": "assets/media/c3ec15be64-app-vault.mp4",
+        "bytes": 373761
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/app-brick.mp4",
+        "path": "assets/media/27892ebb9e-app-brick.mp4",
+        "bytes": 161964
+      },
+      {
+        "url": "https://therishithakor.com/app-developer/",
+        "path": "assets/other/8f640a0991-asset.html",
+        "bytes": 75666
+      },
+      {
+        "url": "https://therishithakor.com/favicon.ico",
+        "path": "assets/images/6bd58decad-favicon.ico",
+        "bytes": 4037
+      },
+      {
+        "url": "https://therishithakor.com/apple-touch-icon.png",
+        "path": "assets/images/d5e0e4f20c-apple-touch-icon.png",
+        "bytes": 7138
+      },
+      {
+        "url": "https://therishithakor.com/fonts/onest-latin-ext.woff2",
+        "path": "assets/fonts/bf623844de-onest-latin-ext.woff2",
+        "bytes": 28452
+      }
+    ],
+    "skipped": [],
+    "fromPageLoad": 12,
+    "refetched": 6
+  },
+  "pacing": [
+    {
+      "origin": "therishithakor.com",
+      "provider": "netlify",
+      "requestsPerSecond": 6,
+      "requests": 6,
+      "limited": 0
+    }
+  ]
+}

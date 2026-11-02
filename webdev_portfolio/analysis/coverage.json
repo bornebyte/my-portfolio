@@ -1,0 +1,98 @@
+{
+  "totals": {
+    "cssTotalBytes": 31364,
+    "cssUsedBytes": 16693,
+    "cssUsedPercent": 53,
+    "jsTotalBytes": 58924,
+    "jsUsedBytes": 35772,
+    "jsUsedPercent": 61
+  },
+  "css": [
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 25067,
+      "usedBytes": 14559,
+      "usedPercent": 58
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    }
+  ],
+  "js": [
+    {
+      "url": "https://therishithakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20076,
+      "usedPercent": 56
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 9364,
+      "usedBytes": 7563,
+      "usedPercent": 81
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 4114,
+      "usedBytes": 3386,
+      "usedPercent": 82
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 3712,
+      "usedBytes": 1670,
+      "usedPercent": 45
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 1395,
+      "usedBytes": 1349,
+      "usedPercent": 97
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 1387,
+      "usedBytes": 120,
+      "usedPercent": 9
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 1136,
+      "usedBytes": 222,
+      "usedPercent": 20
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 1078,
+      "usedBytes": 1023,
+      "usedPercent": 95
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 818,
+      "usedBytes": 272,
+      "usedPercent": 33
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/",
+      "totalBytes": 193,
+      "usedBytes": 91,
+      "usedPercent": 47
+    }
+  ]
+}

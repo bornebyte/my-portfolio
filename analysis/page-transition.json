@@ -1,0 +1,654 @@
+{
+  "kind": "client-side-swap",
+  "from": "https://theBornebytethakor.com/home",
+  "to": "https://theBornebytethakor.com/web-developer/",
+  "linkSelector": "ul.work > li > a",
+  "linkText": "Web Developer",
+  "durationMs": 3042,
+  "usedViewTransitionApi": false,
+  "viewTransitionNames": [
+    "root",
+    "cord",
+    "cal"
+  ],
+  "overlay": {
+    "selector": "section#home > div.hero__stage",
+    "from": {
+      "opacity": "1",
+      "transform": "none",
+      "clipPath": "none"
+    },
+    "peak": {
+      "opacity": "0",
+      "transform": "none",
+      "clipPath": "none"
+    }
+  },
+  "persisted": [
+    "html.lenis > body.ready > header.hdr",
+    "header.hdr > div.shell > nav",
+    "div#cord",
+    "button#cordHit",
+    "main#main",
+    "section#home",
+    "div#fig",
+    "img#figBase",
+    "canvas#figCanvas",
+    "button#holoOpen",
+    "span#cal",
+    "section#works",
+    "div#dinfo",
+    "section#about",
+    "h2#storyTitle",
+    "footer#contact-footer",
+    "h2#sfTitle",
+    "div#doorCursor",
+    "div#wallv",
+    "div#ck",
+    "iframe#nl-badge-frame"
+  ],
+  "replaced": [],
+  "scrollReset": false,
+  "samples": [
+    {
+      "atMs": 65,
+      "url": "https://theBornebytethakor.com/home",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 100,
+      "url": "https://theBornebytethakor.com/home",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 150,
+      "url": "https://theBornebytethakor.com/home",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 204,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 260,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 300,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 363,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 402,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 456,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 510,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 550,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 600,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 651,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 702,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 750,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 800,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 853,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 900,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 950,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1000,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1050,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1100,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1150,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1200,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1250,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1300,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1350,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1400,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1450,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1500,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1550,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1600,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1650,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1700,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1750,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1800,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1850,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1903,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 1950,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2000,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2050,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2100,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2150,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2200,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2250,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2300,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2350,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2400,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2450,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2504,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2550,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2600,
+      "url": "https://theBornebytethakor.com/work",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 9.6)",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2650,
+      "url": "https://theBornebytethakor.com/web-developer/",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2700,
+      "url": "https://theBornebytethakor.com/web-developer/",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0.0500553",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2750,
+      "url": "https://theBornebytethakor.com/web-developer/",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0.444485",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2800,
+      "url": "https://theBornebytethakor.com/web-developer/",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0.767009",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2850,
+      "url": "https://theBornebytethakor.com/web-developer/",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0.924759",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2900,
+      "url": "https://theBornebytethakor.com/web-developer/",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "0.975557",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 2950,
+      "url": "https://theBornebytethakor.com/web-developer/",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    },
+    {
+      "atMs": 3000,
+      "url": "https://theBornebytethakor.com/web-developer/",
+      "bodyChildren": 24,
+      "overlay": {
+        "opacity": "1",
+        "transform": "none",
+        "clipPath": "none"
+      }
+    }
+  ]
+}

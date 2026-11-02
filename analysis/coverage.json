@@ -1,0 +1,398 @@
+{
+  "totals": {
+    "cssTotalBytes": 283784,
+    "cssUsedBytes": 173014,
+    "cssUsedPercent": 61,
+    "jsTotalBytes": 548075,
+    "jsUsedBytes": 363918,
+    "jsUsedPercent": 66
+  },
+  "css": [
+    {
+      "url": "https://theBornebytethakor.com/",
+      "totalBytes": 138291,
+      "usedBytes": 99209,
+      "usedPercent": 72
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 26320,
+      "usedBytes": 14643,
+      "usedPercent": 56
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 25067,
+      "usedBytes": 14112,
+      "usedPercent": 56
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 25067,
+      "usedBytes": 14112,
+      "usedPercent": 56
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 25049,
+      "usedBytes": 14772,
+      "usedPercent": 59
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/?embed",
+      "totalBytes": 6214,
+      "usedBytes": 3362,
+      "usedPercent": 54
+    },
+    {
+      "url": "https://theBornebytethakor.com/",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/?embed",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://theBornebytethakor.com/",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/?embed",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/?embed",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    },
+    {
+      "url": "https://theBornebytethakor.com/",
+      "totalBytes": 636,
+      "usedBytes": 0,
+      "usedPercent": 0
+    }
+  ],
+  "js": [
+    {
+      "url": "https://theBornebytethakor.com/",
+      "totalBytes": 168749,
+      "usedBytes": 133260,
+      "usedPercent": 79
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20076,
+      "usedPercent": 56
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20518,
+      "usedPercent": 57
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20518,
+      "usedPercent": 57
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20518,
+      "usedPercent": 57
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20518,
+      "usedPercent": 57
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20518,
+      "usedPercent": 57
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/?embed",
+      "totalBytes": 20930,
+      "usedBytes": 12077,
+      "usedPercent": 58
+    },
+    {
+      "url": "https://theBornebytethakor.com/vendor/lenis.min.mjs",
+      "totalBytes": 18314,
+      "usedBytes": 10648,
+      "usedPercent": 58
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 14134,
+      "usedBytes": 10110,
+      "usedPercent": 72
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 12634,
+      "usedBytes": 8003,
+      "usedPercent": 63
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 9364,
+      "usedBytes": 6740,
+      "usedPercent": 72
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 9016,
+      "usedBytes": 6194,
+      "usedPercent": 69
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/photos.js",
+      "totalBytes": 8689,
+      "usedBytes": 8689,
+      "usedPercent": 100
+    },
+    {
+      "url": "https://theBornebytethakor.com/",
+      "totalBytes": 6660,
+      "usedBytes": 6582,
+      "usedPercent": 99
+    },
+    {
+      "url": "https://theBornebytethakor.com/",
+      "totalBytes": 4114,
+      "usedBytes": 3442,
+      "usedPercent": 84
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 4114,
+      "usedBytes": 3297,
+      "usedPercent": 80
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 4114,
+      "usedBytes": 3263,
+      "usedPercent": 79
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 4114,
+      "usedBytes": 3263,
+      "usedPercent": 79
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 4114,
+      "usedBytes": 3263,
+      "usedPercent": 79
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 3712,
+      "usedBytes": 1670,
+      "usedPercent": 45
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 3712,
+      "usedBytes": 1670,
+      "usedPercent": 45
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 3712,
+      "usedBytes": 1670,
+      "usedPercent": 45
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 3712,
+      "usedBytes": 1670,
+      "usedPercent": 45
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 1409,
+      "usedBytes": 665,
+      "usedPercent": 47
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 1395,
+      "usedBytes": 802,
+      "usedPercent": 57
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 1395,
+      "usedBytes": 1300,
+      "usedPercent": 93
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 1395,
+      "usedBytes": 1314,
+      "usedPercent": 94
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 1395,
+      "usedBytes": 1134,
+      "usedPercent": 81
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 1387,
+      "usedBytes": 607,
+      "usedPercent": 44
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 1387,
+      "usedBytes": 607,
+      "usedPercent": 44
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/?embed",
+      "totalBytes": 1382,
+      "usedBytes": 789,
+      "usedPercent": 57
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 1186,
+      "usedBytes": 607,
+      "usedPercent": 51
+    },
+    {
+      "url": "https://theBornebytethakor.com/",
+      "totalBytes": 1136,
+      "usedBytes": 222,
+      "usedPercent": 20
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/?embed",
+      "totalBytes": 1136,
+      "usedBytes": 192,
+      "usedPercent": 17
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 1136,
+      "usedBytes": 192,
+      "usedPercent": 17
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+      "totalBytes": 1136,
+      "usedBytes": 192,
+      "usedPercent": 17
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/?embed",
+      "totalBytes": 1136,
+      "usedBytes": 192,
+      "usedPercent": 17
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/?embed",
+      "totalBytes": 1136,
+      "usedBytes": 192,
+      "usedPercent": 17
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+      "totalBytes": 1078,
+      "usedBytes": 1023,
+      "usedPercent": 95
+    }
+  ]
+}

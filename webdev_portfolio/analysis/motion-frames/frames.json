@@ -1,0 +1,65 @@
+{
+  "note": "One frame per scroll stop, in order. Read these when the page renders into a canvas and analysis/scroll-motion.json is empty: the motion is in the pixels, not in the DOM. Each path is a file in this folder.",
+  "frames": [
+    {
+      "scrollY": 5684,
+      "fraction": 1,
+      "path": "00-scroll-100pct.png"
+    },
+    {
+      "scrollY": 517,
+      "fraction": 0.091,
+      "path": "01-scroll-9pct.png"
+    },
+    {
+      "scrollY": 1033,
+      "fraction": 0.182,
+      "path": "02-scroll-18pct.png"
+    },
+    {
+      "scrollY": 1550,
+      "fraction": 0.273,
+      "path": "03-scroll-27pct.png"
+    },
+    {
+      "scrollY": 2067,
+      "fraction": 0.364,
+      "path": "04-scroll-36pct.png"
+    },
+    {
+      "scrollY": 2584,
+      "fraction": 0.455,
+      "path": "05-scroll-46pct.png"
+    },
+    {
+      "scrollY": 3100,
+      "fraction": 0.545,
+      "path": "06-scroll-55pct.png"
+    },
+    {
+      "scrollY": 3617,
+      "fraction": 0.636,
+      "path": "07-scroll-64pct.png"
+    },
+    {
+      "scrollY": 4134,
+      "fraction": 0.727,
+      "path": "08-scroll-73pct.png"
+    },
+    {
+      "scrollY": 4651,
+      "fraction": 0.818,
+      "path": "09-scroll-82pct.png"
+    },
+    {
+      "scrollY": 5167,
+      "fraction": 0.909,
+      "path": "10-scroll-91pct.png"
+    },
+    {
+      "scrollY": 5684,
+      "fraction": 1,
+      "path": "11-scroll-100pct.png"
+    }
+  ]
+}

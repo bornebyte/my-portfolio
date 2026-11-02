@@ -1,0 +1,224 @@
+{
+  "motion": [],
+  "vitals": {
+    "lcp": 192,
+    "fcp": 192,
+    "cls": 0.0007533643746081694,
+    "ttfb": 57.60000038146973,
+    "dcl": 157,
+    "load": 231.70000076293945,
+    "longTasks": 0,
+    "longTaskMs": 0
+  },
+  "platform": {
+    "serviceWorkers": [],
+    "webWorkers": [],
+    "wasmModules": [],
+    "manifest": null,
+    "manifestUrl": null,
+    "storage": {
+      "localStorageKeys": [],
+      "sessionStorageKeys": [],
+      "indexedDbs": []
+    },
+    "features": [
+      "ServiceWorker API",
+      "WebGPU available",
+      "IntersectionObserver",
+      "ResizeObserver",
+      "Custom elements",
+      "MediaSource (MSE)"
+    ]
+  },
+  "accessibility": {
+    "landmarks": [
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "nav",
+        "name": "Primary"
+      },
+      {
+        "role": "main",
+        "name": ""
+      },
+      {
+        "role": "section",
+        "name": "Projects"
+      },
+      {
+        "role": "footer",
+        "name": "sfTitle"
+      },
+      {
+        "role": "region",
+        "name": "Analytics choice"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "DevOpsDesign"
+      },
+      {
+        "level": 2,
+        "text": "Cliq"
+      },
+      {
+        "level": 2,
+        "text": "Prime Hostel"
+      },
+      {
+        "level": 2,
+        "text": "WeBuildTech"
+      },
+      {
+        "level": 2,
+        "text": "Jordan One Take 4"
+      },
+      {
+        "level": 2,
+        "text": "P&L Page for Zerodha"
+      },
+      {
+        "level": 2,
+        "text": "Got a project?Let's build it together."
+      },
+      {
+        "level": 3,
+        "text": "Work"
+      },
+      {
+        "level": 3,
+        "text": "Navigate"
+      },
+      {
+        "level": 3,
+        "text": "Status"
+      }
+    ],
+    "controls": [
+      {
+        "role": "button",
+        "name": "Home",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Web Development",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "App Developer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "DevOpsDesign",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "BlockChain Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "My story",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Menu",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Close menu",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Home",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Web Development",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "App Developer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "DevOpsDesign",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "BlockChain Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "My story",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Start a project",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Back to top ↑",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Back to top",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "No thanks",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Allow",
+        "tag": "button"
+      }
+    ],
+    "imagesMissingAlt": 0,
+    "totalNodes": 269,
+    "language": "en"
+  },
+  "counts": {
+    "motionTechDetected": 0,
+    "serviceWorkers": 0,
+    "webWorkers": 0,
+    "wasmModules": 0
+  }
+}

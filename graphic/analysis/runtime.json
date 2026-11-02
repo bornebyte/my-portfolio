@@ -1,0 +1,354 @@
+{
+  "motion": [],
+  "vitals": {
+    "lcp": 244,
+    "fcp": 244,
+    "cls": 0.00035327021280924477,
+    "ttfb": 75.9000015258789,
+    "dcl": 204.10000038146973,
+    "load": 262.8000011444092,
+    "longTasks": 0,
+    "longTaskMs": 0
+  },
+  "platform": {
+    "serviceWorkers": [],
+    "webWorkers": [],
+    "wasmModules": [],
+    "manifest": null,
+    "manifestUrl": null,
+    "storage": {
+      "localStorageKeys": [],
+      "sessionStorageKeys": [],
+      "indexedDbs": []
+    },
+    "features": [
+      "ServiceWorker API",
+      "WebGPU available",
+      "IntersectionObserver",
+      "ResizeObserver",
+      "Custom elements",
+      "MediaSource (MSE)"
+    ]
+  },
+  "accessibility": {
+    "landmarks": [
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "nav",
+        "name": "Primary"
+      },
+      {
+        "role": "main",
+        "name": ""
+      },
+      {
+        "role": "section",
+        "name": "BlockChain Engineer work"
+      },
+      {
+        "role": "section",
+        "name": "Qodoro Realty"
+      },
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "section",
+        "name": "Himspring"
+      },
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "section",
+        "name": "Kallisto Miorah"
+      },
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "section",
+        "name": "WeBuildTech"
+      },
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "section",
+        "name": "Posters & logos"
+      },
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "footer",
+        "name": "sfTitle"
+      },
+      {
+        "role": "region",
+        "name": "Analytics choice"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "BlockChain Engineer"
+      },
+      {
+        "level": 2,
+        "text": "Qodoro Realty"
+      },
+      {
+        "level": 2,
+        "text": "Himspring"
+      },
+      {
+        "level": 2,
+        "text": "Kallisto Miorah"
+      },
+      {
+        "level": 2,
+        "text": "WeBuildTech"
+      },
+      {
+        "level": 2,
+        "text": "Posters & logos"
+      },
+      {
+        "level": 2,
+        "text": "Got a project?Let's build it together."
+      },
+      {
+        "level": 3,
+        "text": "Work"
+      },
+      {
+        "level": 3,
+        "text": "Navigate"
+      },
+      {
+        "level": 3,
+        "text": "Status"
+      }
+    ],
+    "controls": [
+      {
+        "role": "button",
+        "name": "Home",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Web Development",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "App Developer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "DevOps Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "BlockChain Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "My story",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Menu",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Close menu",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Home",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Web Development",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "App Developer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "DevOps Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "BlockChain Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "My story",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 1",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 2",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 3",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 4",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 5",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 6",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 7",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 8",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Qodoro Realty 9",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 1",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 2",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 3",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 4",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 5",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 6",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 7",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 8",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 9",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 10",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Himspring 11",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Kallisto Miorah 1",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Kallisto Miorah 2",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Kallisto Miorah 3",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open Kallisto Miorah 4",
+        "tag": "button"
+      }
+    ],
+    "imagesMissingAlt": 0,
+    "totalNodes": 444,
+    "language": "en"
+  },
+  "counts": {
+    "motionTechDetected": 0,
+    "serviceWorkers": 0,
+    "webWorkers": 0,
+    "wasmModules": 0
+  }
+}

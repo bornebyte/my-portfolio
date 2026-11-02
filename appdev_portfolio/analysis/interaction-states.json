@@ -1,0 +1,943 @@
+{
+  "elements": [
+    {
+      "selector": "a.backd.show",
+      "tag": "a",
+      "text": "Back to the doors",
+      "transition": "opacity 0.35s, transform 0.45s cubic-bezier(0.16, 1, 0.3, 1), background 0.25s, border-color 0.25s",
+      "hover": [
+        {
+          "target": "self",
+          "property": "backgroundColor",
+          "from": "rgba(26, 24, 24, 0.05)",
+          "to": "rgba(26, 24, 24, 0.1)"
+        },
+        {
+          "target": "self",
+          "property": "borderColor",
+          "from": "rgba(26, 24, 24, 0.14)",
+          "to": "rgba(26, 24, 24, 0.26)"
+        },
+        {
+          "target": "child[0] svg",
+          "property": "transform",
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, -2.98904, 0)"
+        }
+      ],
+      "focus": [
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgb(26, 24, 24) none 3px",
+          "to": "rgb(196, 176, 176) solid 2px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgb(26, 24, 24)",
+          "to": "rgb(196, 176, 176)"
+        },
+        {
+          "target": "self",
+          "property": "outlineOffset",
+          "from": "0px",
+          "to": "3px"
+        }
+      ],
+      "active": [
+        {
+          "target": "self",
+          "property": "backgroundColor",
+          "from": "rgba(26, 24, 24, 0.05)",
+          "to": "rgba(26, 24, 24, 0.1)"
+        },
+        {
+          "target": "self",
+          "property": "borderColor",
+          "from": "rgba(26, 24, 24, 0.14)",
+          "to": "rgba(26, 24, 24, 0.26)"
+        },
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgb(26, 24, 24) none 3px",
+          "to": "rgb(196, 176, 176) solid 2px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgb(26, 24, 24)",
+          "to": "rgb(196, 176, 176)"
+        },
+        {
+          "target": "self",
+          "property": "outlineOffset",
+          "from": "0px",
+          "to": "3px"
+        },
+        {
+          "target": "child[0] svg",
+          "property": "transform",
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, -2.96975, 0)"
+        }
+      ]
+    },
+    {
+      "selector": "button",
+      "tag": "button",
+      "text": "Home",
+      "transition": "opacity 0.2s",
+      "hover": [
+        {
+          "target": "self",
+          "property": "opacity",
+          "from": "0.8",
+          "to": "1"
+        }
+      ],
+      "focus": [
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgb(26, 24, 24) none 3px",
+          "to": "rgb(107, 92, 92) solid 2px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgb(26, 24, 24)",
+          "to": "rgb(107, 92, 92)"
+        },
+        {
+          "target": "self",
+          "property": "outlineOffset",
+          "from": "0px",
+          "to": "3px"
+        }
+      ],
+      "active": [
+        {
+          "target": "self",
+          "property": "opacity",
+          "from": "0.8",
+          "to": "1"
+        },
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgb(26, 24, 24) none 3px",
+          "to": "rgb(107, 92, 92) solid 2px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgb(26, 24, 24)",
+          "to": "rgb(107, 92, 92)"
+        },
+        {
+          "target": "self",
+          "property": "outlineOffset",
+          "from": "0px",
+          "to": "3px"
+        }
+      ]
+    },
+    {
+      "selector": "button.sf__btn",
+      "tag": "button",
+      "text": "Start a project",
+      "transition": "transform 0.35s cubic-bezier(0.16, 1, 0.3, 1)",
+      "hover": [
+        {
+          "target": "self",
+          "property": "transform",
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, 0, -1.96891)"
+        }
+      ],
+      "focus": [
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgb(26, 24, 24) none 3px",
+          "to": "rgb(107, 92, 92) solid 2px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgb(26, 24, 24)",
+          "to": "rgb(107, 92, 92)"
+        },
+        {
+          "target": "self",
+          "property": "outlineOffset",
+          "from": "0px",
+          "to": "3px"
+        }
+      ],
+      "active": [
+        {
+          "target": "self",
+          "property": "transform",
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, 0, -1.95339)"
+        },
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgb(26, 24, 24) none 3px",
+          "to": "rgb(107, 92, 92) solid 2px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgb(26, 24, 24)",
+          "to": "rgb(107, 92, 92)"
+        },
+        {
+          "target": "self",
+          "property": "outlineOffset",
+          "from": "0px",
+          "to": "3px"
+        }
+      ]
+    },
+    {
+      "selector": "a",
+      "tag": "a",
+      "text": "Web Development",
+      "transition": "color 0.2s",
+      "hover": [
+        {
+          "target": "self",
+          "property": "color",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(26, 24, 24)"
+        },
+        {
+          "target": "self",
+          "property": "backgroundColor",
+          "from": "rgba(0, 0, 0, 0)",
+          "to": "rgba(26, 24, 24, 0.1)"
+        },
+        {
+          "target": "self",
+          "property": "borderColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgba(26, 24, 24, 0.26)"
+        },
+        {
+          "target": "self",
+          "property": "borderWidth",
+          "from": "0px",
+          "to": "1px"
+        },
+        {
+          "target": "self",
+          "property": "borderRadius",
+          "from": "0px",
+          "to": "999px"
+        },
+        {
+          "target": "self",
+          "property": "boxShadow",
+          "from": "none",
+          "to": "rgba(0, 0, 0, 0.45) 0px 12px 30px -12px, rgba(255, 255, 255, 0.08) 0px 0px 0px 1px"
+        },
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgba(232, 228, 224, 0.85) none 3px",
+          "to": "rgb(26, 24, 24) none 3px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(26, 24, 24)"
+        },
+        {
+          "target": "self",
+          "property": "textDecorationColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(26, 24, 24)"
+        }
+      ],
+      "focus": [
+        {
+          "target": "self",
+          "property": "color",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(26, 24, 24)"
+        },
+        {
+          "target": "self",
+          "property": "backgroundColor",
+          "from": "rgba(0, 0, 0, 0)",
+          "to": "rgba(26, 24, 24, 0.05)"
+        },
+        {
+          "target": "self",
+          "property": "borderColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgba(26, 24, 24, 0.14)"
+        },
+        {
+          "target": "self",
+          "property": "borderWidth",
+          "from": "0px",
+          "to": "1px"
+        },
+        {
+          "target": "self",
+          "property": "borderRadius",
+          "from": "0px",
+          "to": "999px"
+        },
+        {
+          "target": "self",
+          "property": "boxShadow",
+          "from": "none",
+          "to": "rgba(0, 0, 0, 0.45) 0px 12px 30px -12px, rgba(255, 255, 255, 0.08) 0px 0px 0px 1px"
+        },
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgba(232, 228, 224, 0.85) none 3px",
+          "to": "rgb(196, 176, 176) solid 2px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(196, 176, 176)"
+        },
+        {
+          "target": "self",
+          "property": "outlineOffset",
+          "from": "0px",
+          "to": "3px"
+        },
+        {
+          "target": "self",
+          "property": "textDecorationColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(26, 24, 24)"
+        }
+      ],
+      "active": [
+        {
+          "target": "self",
+          "property": "color",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(26, 24, 24)"
+        },
+        {
+          "target": "self",
+          "property": "backgroundColor",
+          "from": "rgba(0, 0, 0, 0)",
+          "to": "rgba(26, 24, 24, 0.1)"
+        },
+        {
+          "target": "self",
+          "property": "borderColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgba(26, 24, 24, 0.26)"
+        },
+        {
+          "target": "self",
+          "property": "borderWidth",
+          "from": "0px",
+          "to": "1px"
+        },
+        {
+          "target": "self",
+          "property": "borderRadius",
+          "from": "0px",
+          "to": "999px"
+        },
+        {
+          "target": "self",
+          "property": "boxShadow",
+          "from": "none",
+          "to": "rgba(0, 0, 0, 0.45) 0px 12px 30px -12px, rgba(255, 255, 255, 0.08) 0px 0px 0px 1px"
+        },
+        {
+          "target": "self",
+          "property": "outline",
+          "from": "rgba(232, 228, 224, 0.85) none 3px",
+          "to": "rgb(196, 176, 176) solid 2px"
+        },
+        {
+          "target": "self",
+          "property": "outlineColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(196, 176, 176)"
+        },
+        {
+          "target": "self",
+          "property": "outlineOffset",
+          "from": "0px",
+          "to": "3px"
+        },
+        {
+          "target": "self",
+          "property": "textDecorationColor",
+          "from": "rgba(232, 228, 224, 0.85)",
+          "to": "rgb(26, 24, 24)"
+        }
+      ]
+    },
+    {
+      "selector": "button.totop",
+      "tag": "button",
+      "text": "Back to top",
+      "transition": "opacity 0.35s, visibility 0s linear 0.35s, transform 0.45s cubic-bezier(0.16, 1, 0.3, 1), background 0.3s, color 0.3s, box-shadow 0.3s",
+      "hover": [],
+      "focus": [
+        {
+          "target": "self",
+          "property": "opacity",
+          "from": "0.00512097",
+          "to": "0"
+        },
+        {
+          "target": "self",
+          "property": "transform",
+          "from": "matrix(0.900413, 0, 0, 0.900413, 0, 11.9504)",
+          "to": "matrix(0.9, 0, 0, 0.9, 0, 12)"
+        }
+      ],
+      "active": [
+        {
+          "target": "self",
+          "property": "opacity",
+          "from": "0.00512097",
+          "to": "0"
+        },
+        {
+          "target": "self",
+          "property": "transform",
+          "from": "matrix(0.900413, 0, 0, 0.900413, 0, 11.9504)",
+          "to": "matrix(0.9, 0, 0, 0.9, 0, 12)"
+        }
+      ]
+    }
+  ],
+  "pseudoElements": [
+    {
+      "selector": "div#rnPanel",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "background": "radial-gradient(70% 55% at 12% 100%, rgba(164, 85, 44, 0.2), rgba(0, 0, 0, 0) 70%) repeat scroll 0% 0% / auto padding-box border-box, rgba(0, 0, 0, 0) radial-gradient(60% 50% at 95% 4%, rgba(196, 176, 176, 0.18), rgba(0, 0, 0, 0) 72%) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "radial-gradient(70% 55% at 12% 100%, rgba(164, 85, 44, 0.2), rgba(0, 0, 0, 0) 70%), radial-gradient(60% 50% at 95% 4%, rgba(196, 176, 176, 0.18), rgba(0, 0, 0, 0) 72%)",
+        "opacity": "0",
+        "borderRadius": "0px",
+        "inset": "0px",
+        "top": "0px",
+        "left": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "transition": "opacity 0.6s, transform 0.9s cubic-bezier(0.16, 1, 0.3, 1)",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "button",
+      "pseudo": "::before",
+      "content": "counter(rnc, decimal-leading-zero)",
+      "styles": {
+        "content": "counter(rnc, decimal-leading-zero)",
+        "display": "block",
+        "position": "static",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transition": "color 0.25s",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "button",
+      "pseudo": "::before",
+      "content": "counter(rnc, decimal-leading-zero)",
+      "styles": {
+        "content": "counter(rnc, decimal-leading-zero)",
+        "display": "block",
+        "position": "static",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transition": "color 0.25s",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "button",
+      "pseudo": "::before",
+      "content": "counter(rnc, decimal-leading-zero)",
+      "styles": {
+        "content": "counter(rnc, decimal-leading-zero)",
+        "display": "block",
+        "position": "static",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transition": "color 0.25s",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "button",
+      "pseudo": "::before",
+      "content": "counter(rnc, decimal-leading-zero)",
+      "styles": {
+        "content": "counter(rnc, decimal-leading-zero)",
+        "display": "block",
+        "position": "static",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transition": "color 0.25s",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "button",
+      "pseudo": "::before",
+      "content": "counter(rnc, decimal-leading-zero)",
+      "styles": {
+        "content": "counter(rnc, decimal-leading-zero)",
+        "display": "block",
+        "position": "static",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transition": "color 0.25s",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "button",
+      "pseudo": "::before",
+      "content": "counter(rnc, decimal-leading-zero)",
+      "styles": {
+        "content": "counter(rnc, decimal-leading-zero)",
+        "display": "block",
+        "position": "static",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transition": "color 0.25s",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "button",
+      "pseudo": "::before",
+      "content": "counter(rnc, decimal-leading-zero)",
+      "styles": {
+        "content": "counter(rnc, decimal-leading-zero)",
+        "display": "block",
+        "position": "static",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transition": "color 0.25s",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "span.note",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "static",
+        "width": "7px",
+        "height": "7px",
+        "background": "rgb(122, 134, 112) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgb(122, 134, 112)",
+        "opacity": "1",
+        "borderRadius": "50%",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.stage",
+      "pseudo": "::after",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "336px",
+        "height": "26px",
+        "background": "rgba(0, 0, 0, 0) radial-gradient(closest-side, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "radial-gradient(closest-side, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0))",
+        "transform": "matrix(1, 0, 0, 1, -168, 0)",
+        "opacity": "1",
+        "borderRadius": "50%",
+        "inset": "667.234px -19.25px 10px 316.75px",
+        "top": "667.234px",
+        "left": "316.75px",
+        "right": "-19.25px",
+        "bottom": "10px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.phone__body",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "16px",
+        "height": "560.859px",
+        "background": "rgba(0, 0, 0, 0) linear-gradient(rgb(207, 202, 197), rgb(140, 135, 131) 30%, rgb(109, 105, 101) 70%, rgb(185, 180, 175)) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(rgb(207, 202, 197), rgb(140, 135, 131) 30%, rgb(109, 105, 101) 70%, rgb(185, 180, 175))",
+        "transform": "matrix3d(0, 0, 1, 0, 0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 1)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "inset": "51.2px 0px 51.2px 304px",
+        "top": "51.2px",
+        "left": "304px",
+        "right": "0px",
+        "bottom": "51.2px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.phone__screen.vid",
+      "pseudo": "::after",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "294.344px",
+        "height": "637.578px",
+        "background": "rgba(0, 0, 0, 0) linear-gradient(118deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.03) 30%, rgba(0, 0, 0, 0) 44%) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(118deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.03) 30%, rgba(0, 0, 0, 0) 44%)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "inset": "0px",
+        "top": "0px",
+        "left": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "span.note",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "static",
+        "width": "7px",
+        "height": "7px",
+        "background": "rgb(122, 134, 112) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgb(122, 134, 112)",
+        "opacity": "1",
+        "borderRadius": "50%",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.stage",
+      "pseudo": "::after",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "336px",
+        "height": "26px",
+        "background": "rgba(0, 0, 0, 0) radial-gradient(closest-side, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "radial-gradient(closest-side, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0))",
+        "transform": "matrix(1, 0, 0, 1, -168, 0)",
+        "opacity": "1",
+        "borderRadius": "50%",
+        "inset": "667.234px -19.25px 10px 316.75px",
+        "top": "667.234px",
+        "left": "316.75px",
+        "right": "-19.25px",
+        "bottom": "10px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.phone__body",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "16px",
+        "height": "560.859px",
+        "background": "rgba(0, 0, 0, 0) linear-gradient(rgb(207, 202, 197), rgb(140, 135, 131) 30%, rgb(109, 105, 101) 70%, rgb(185, 180, 175)) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(rgb(207, 202, 197), rgb(140, 135, 131) 30%, rgb(109, 105, 101) 70%, rgb(185, 180, 175))",
+        "transform": "matrix3d(0, 0, -1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "inset": "51.2px 304px 51.2px 0px",
+        "top": "51.2px",
+        "left": "0px",
+        "right": "304px",
+        "bottom": "51.2px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.phone__screen.vid",
+      "pseudo": "::after",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "294.344px",
+        "height": "637.578px",
+        "background": "rgba(0, 0, 0, 0) linear-gradient(118deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.03) 30%, rgba(0, 0, 0, 0) 44%) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(118deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.03) 30%, rgba(0, 0, 0, 0) 44%)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "inset": "0px",
+        "top": "0px",
+        "left": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "span.note",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "static",
+        "width": "7px",
+        "height": "7px",
+        "background": "rgb(122, 134, 112) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgb(122, 134, 112)",
+        "opacity": "1",
+        "borderRadius": "50%",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.stage",
+      "pseudo": "::after",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "336px",
+        "height": "26px",
+        "background": "rgba(0, 0, 0, 0) radial-gradient(closest-side, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "radial-gradient(closest-side, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0))",
+        "transform": "matrix(1, 0, 0, 1, -168, 0)",
+        "opacity": "1",
+        "borderRadius": "50%",
+        "inset": "667.234px -19.25px 10px 316.75px",
+        "top": "667.234px",
+        "left": "316.75px",
+        "right": "-19.25px",
+        "bottom": "10px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.phone__body",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "16px",
+        "height": "560.859px",
+        "background": "rgba(0, 0, 0, 0) linear-gradient(rgb(207, 202, 197), rgb(140, 135, 131) 30%, rgb(109, 105, 101) 70%, rgb(185, 180, 175)) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(rgb(207, 202, 197), rgb(140, 135, 131) 30%, rgb(109, 105, 101) 70%, rgb(185, 180, 175))",
+        "transform": "matrix3d(0, 0, 1, 0, 0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 0, 1)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "inset": "51.2px 0px 51.2px 304px",
+        "top": "51.2px",
+        "left": "304px",
+        "right": "0px",
+        "bottom": "51.2px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.phone__screen.vid",
+      "pseudo": "::after",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "294.344px",
+        "height": "637.578px",
+        "background": "rgba(0, 0, 0, 0) linear-gradient(118deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.03) 30%, rgba(0, 0, 0, 0) 44%) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(118deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.03) 30%, rgba(0, 0, 0, 0) 44%)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "inset": "0px",
+        "top": "0px",
+        "left": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "span.note",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "static",
+        "width": "7px",
+        "height": "7px",
+        "background": "rgb(122, 134, 112) none repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgb(122, 134, 112)",
+        "opacity": "1",
+        "borderRadius": "50%",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.stage",
+      "pseudo": "::after",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "336px",
+        "height": "26px",
+        "background": "rgba(0, 0, 0, 0) radial-gradient(closest-side, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "radial-gradient(closest-side, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0))",
+        "transform": "matrix(1, 0, 0, 1, -168, 0)",
+        "opacity": "1",
+        "borderRadius": "50%",
+        "inset": "667.234px -19.25px 10px 316.75px",
+        "top": "667.234px",
+        "left": "316.75px",
+        "right": "-19.25px",
+        "bottom": "10px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.phone__body",
+      "pseudo": "::before",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "16px",
+        "height": "560.859px",
+        "background": "rgba(0, 0, 0, 0) linear-gradient(rgb(207, 202, 197), rgb(140, 135, 131) 30%, rgb(109, 105, 101) 70%, rgb(185, 180, 175)) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(rgb(207, 202, 197), rgb(140, 135, 131) 30%, rgb(109, 105, 101) 70%, rgb(185, 180, 175))",
+        "transform": "matrix3d(0, 0, -1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "inset": "51.2px 304px 51.2px 0px",
+        "top": "51.2px",
+        "left": "0px",
+        "right": "304px",
+        "bottom": "51.2px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    },
+    {
+      "selector": "div.phone__screen.vid",
+      "pseudo": "::after",
+      "content": "\"\"",
+      "styles": {
+        "content": "\"\"",
+        "display": "block",
+        "position": "absolute",
+        "width": "294.344px",
+        "height": "637.578px",
+        "background": "rgba(0, 0, 0, 0) linear-gradient(118deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.03) 30%, rgba(0, 0, 0, 0) 44%) repeat scroll 0% 0% / auto padding-box border-box",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(118deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.03) 30%, rgba(0, 0, 0, 0) 44%)",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "inset": "0px",
+        "top": "0px",
+        "left": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "transition": "all",
+        "mixBlendMode": "normal"
+      }
+    }
+  ],
+  "cursors": [
+    "pointer"
+  ],
+  "counts": {
+    "probed": 5,
+    "withHover": 4,
+    "withFocus": 5,
+    "withActive": 5,
+    "pseudoElements": 24
+  }
+}

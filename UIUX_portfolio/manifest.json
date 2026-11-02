@@ -1,0 +1,148 @@
+{
+  "source": "https://therishithakor.com/ui-ux-designer/",
+  "capturedAt": "2026-11-02T11:58:03.542Z",
+  "summary": {
+    "domElements": 269,
+    "imagesFound": 1,
+    "animationsDetected": 0,
+    "keyframesFound": 3,
+    "scrollTriggersFound": 0,
+    "mediaFound": 4,
+    "technologiesDetected": [
+      "Netlify"
+    ],
+    "estimatedLoadTimeMs": 36908,
+    "totalArtefacts": 23,
+    "networkRequests": 18,
+    "networkBytes": 3554943,
+    "apiCallsFound": 0,
+    "assetsFound": 16,
+    "designTokensFound": 85,
+    "fontsFound": 2,
+    "cssAnimationsFound": 4,
+    "sourceMapsFound": 0,
+    "keyframeRulesFound": 3,
+    "videosFound": 4,
+    "ocrWordsFound": 256,
+    "textOnlyInPixels": 3,
+    "viewportsMeasured": 4,
+    "responsiveChanges": 182,
+    "interactionStates": 17,
+    "motionTechDetected": 0,
+    "webSocketsFound": 0,
+    "graphqlOperations": 0,
+    "cssUsedPercent": 53,
+    "scrollMotionTracks": 17,
+    "sceneMeshesExported": 0,
+    "gpuTexturesRecovered": 0,
+    "pageTransitionKind": "hard-navigation"
+  },
+  "full": true,
+  "recoveredSourceFiles": 0,
+  "styleRecovery": {
+    "ghostStyleTags": 0,
+    "ghostStyleBytes": 0,
+    "adoptedSheets": 0,
+    "adoptedBytes": 0,
+    "shadowRoots": 0,
+    "shadowBytes": 0,
+    "blockedSheets": 0,
+    "declarativeShadow": false
+  },
+  "assets": {
+    "downloaded": [
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-1.mp4",
+        "path": "assets/media/a99cf103a6-ux-1.mp4",
+        "bytes": 1738262
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-2.mp4",
+        "path": "assets/media/ac8cb2f72c-ux-2.mp4",
+        "bytes": 640262
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-3.mp4",
+        "path": "assets/media/96a6e983a0-ux-3.mp4",
+        "bytes": 518135
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-cliq.mp4",
+        "path": "assets/media/14a29cb86f-ux-cliq.mp4",
+        "bytes": 295308
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-pnl.webp",
+        "path": "assets/images/1ce68e0318-ux-pnl.webp",
+        "bytes": 119614
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-1.webp",
+        "path": "assets/images/368a9b8005-ux-1.webp",
+        "bytes": 48636
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-3.webp",
+        "path": "assets/images/5dba7a49f0-ux-3.webp",
+        "bytes": 40204
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-2.webp",
+        "path": "assets/images/cb4b31dc0c-ux-2.webp",
+        "bytes": 33954
+      },
+      {
+        "url": "https://therishithakor.com/fonts/onest-latin.woff2",
+        "path": "assets/fonts/4db55ed39c-onest-latin.woff2",
+        "bytes": 33760
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/ux-cliq.webp",
+        "path": "assets/images/fe6f1ba9d6-ux-cliq.webp",
+        "bytes": 24202
+      },
+      {
+        "url": "https://therishithakor.com/.netlify/scripts/hud?variant=public",
+        "path": "assets/js/d22aba5433-hud.js",
+        "bytes": 35855
+      },
+      {
+        "url": "https://therishithakor.com/icon-192.png",
+        "path": "assets/images/1fb19b3185-icon-192.png",
+        "bytes": 7744
+      },
+      {
+        "url": "https://therishithakor.com/ui-ux-designer/",
+        "path": "assets/other/0d12958f8d-asset.html",
+        "bytes": 65853
+      },
+      {
+        "url": "https://therishithakor.com/favicon.ico",
+        "path": "assets/images/6bd58decad-favicon.ico",
+        "bytes": 4037
+      },
+      {
+        "url": "https://therishithakor.com/apple-touch-icon.png",
+        "path": "assets/images/d5e0e4f20c-apple-touch-icon.png",
+        "bytes": 7138
+      },
+      {
+        "url": "https://therishithakor.com/fonts/onest-latin-ext.woff2",
+        "path": "assets/fonts/bf623844de-onest-latin-ext.woff2",
+        "bytes": 28452
+      }
+    ],
+    "skipped": [],
+    "fromPageLoad": 12,
+    "refetched": 4
+  },
+  "pacing": [
+    {
+      "origin": "therishithakor.com",
+      "provider": "netlify",
+      "requestsPerSecond": 6,
+      "requests": 4,
+      "limited": 0
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "source": "https://therishithakor.com/web-developer/",
+  "capturedAt": "2026-11-02T11:52:32.514Z",
+  "summary": {
+    "domElements": 319,
+    "imagesFound": 5,
+    "animationsDetected": 0,
+    "keyframesFound": 3,
+    "scrollTriggersFound": 0,
+    "mediaFound": 2,
+    "technologiesDetected": [
+      "Netlify",
+      "p5.js"
+    ],
+    "estimatedLoadTimeMs": 39803,
+    "totalArtefacts": 23,
+    "networkRequests": 14,
+    "networkBytes": 1816521,
+    "apiCallsFound": 0,
+    "assetsFound": 16,
+    "designTokensFound": 84,
+    "fontsFound": 2,
+    "cssAnimationsFound": 4,
+    "sourceMapsFound": 0,
+    "keyframeRulesFound": 3,
+    "videosFound": 2,
+    "ocrWordsFound": 211,
+    "textOnlyInPixels": 2,
+    "viewportsMeasured": 4,
+    "responsiveChanges": 192,
+    "interactionStates": 17,
+    "motionTechDetected": 1,
+    "webSocketsFound": 0,
+    "graphqlOperations": 0,
+    "cssUsedPercent": 53,
+    "scrollMotionTracks": 24,
+    "sceneMeshesExported": 0,
+    "gpuTexturesRecovered": 0,
+    "pageTransitionKind": "hard-navigation"
+  },
+  "full": true,
+  "recoveredSourceFiles": 0,
+  "styleRecovery": {
+    "ghostStyleTags": 0,
+    "ghostStyleBytes": 0,
+    "adoptedSheets": 0,
+    "adoptedBytes": 0,
+    "shadowRoots": 0,
+    "shadowBytes": 0,
+    "blockedSheets": 0,
+    "declarativeShadow": false
+  },
+  "assets": {
+    "downloaded": [
+      {
+        "url": "https://therishithakor.com/web-developer/project-2.mp4",
+        "path": "assets/media/5d8ee86c25-project-2.mp4",
+        "bytes": 1072723
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/2-tax-pnl.webp",
+        "path": "assets/images/9911322a3c-2-tax-pnl.webp",
+        "bytes": 161198
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/3-capital-gains.webp",
+        "path": "assets/images/7459e71a32-3-capital-gains.webp",
+        "bytes": 147140
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/1-zerodha.webp",
+        "path": "assets/images/6388140fc5-1-zerodha.webp",
+        "bytes": 119614
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/5-sandbox-cost.webp",
+        "path": "assets/images/579100a513-5-sandbox-cost.webp",
+        "bytes": 100402
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/4-quicko-cg.webp",
+        "path": "assets/images/0fd7d64385-4-quicko-cg.webp",
+        "bytes": 88388
+      },
+      {
+        "url": "https://therishithakor.com/fonts/onest-latin.woff2",
+        "path": "assets/fonts/4db55ed39c-onest-latin.woff2",
+        "bytes": 33760
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/project-2.webp",
+        "path": "assets/images/9192857dfc-project-2.webp",
+        "bytes": 24804
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/project-4.webp",
+        "path": "assets/images/b32a0bac2e-project-4.webp",
+        "bytes": 8972
+      },
+      {
+        "url": "https://therishithakor.com/.netlify/scripts/hud?variant=public",
+        "path": "assets/js/d22aba5433-hud.js",
+        "bytes": 35855
+      },
+      {
+        "url": "https://therishithakor.com/icon-192.png",
+        "path": "assets/images/1fb19b3185-icon-192.png",
+        "bytes": 7744
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/project-4.mp4",
+        "path": "assets/media/3a9d5a171c-project-4.mp4",
+        "bytes": 177208
+      },
+      {
+        "url": "https://therishithakor.com/web-developer/",
+        "path": "assets/other/666d07be96-asset.html",
+        "bytes": 69163
+      },
+      {
+        "url": "https://therishithakor.com/favicon.ico",
+        "path": "assets/images/6bd58decad-favicon.ico",
+        "bytes": 4037
+      },
+      {
+        "url": "https://therishithakor.com/apple-touch-icon.png",
+        "path": "assets/images/d5e0e4f20c-apple-touch-icon.png",
+        "bytes": 7138
+      },
+      {
+        "url": "https://therishithakor.com/fonts/onest-latin-ext.woff2",
+        "path": "assets/fonts/bf623844de-onest-latin-ext.woff2",
+        "bytes": 28452
+      }
+    ],
+    "skipped": [],
+    "fromPageLoad": 11,
+    "refetched": 5
+  },
+  "pacing": [
+    {
+      "origin": "therishithakor.com",
+      "provider": "netlify",
+      "requestsPerSecond": 6,
+      "requests": 5,
+      "limited": 0
+    }
+  ]
+}

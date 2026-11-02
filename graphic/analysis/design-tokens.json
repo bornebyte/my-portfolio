@@ -1,0 +1,1620 @@
+{
+  "customProperties": {
+    "--font": "'Onest',ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif",
+    "--room": "#FBFAF8",
+    "--fg": "#1A1818",
+    "--serif": "'Playfair Display',Georgia,'Times New Roman',serif",
+    "--fg-rgb": "26,24,24",
+    "--accent": "#6B4F4F",
+    "--bg": "#E8E4E0",
+    "--nav-h": "74px",
+    "--rn-h": "74px"
+  },
+  "colors": {
+    "text": [
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 158,
+        "examples": [
+          "body",
+          "header#rn",
+          "div.rn__in"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 122,
+        "examples": [
+          "div.pin",
+          "header.w-head",
+          "h2.w-name"
+        ]
+      },
+      {
+        "value": "rgb(243, 238, 236)",
+        "count": 31,
+        "examples": [
+          "div.pin",
+          "header.w-head",
+          "h2.w-name"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.85)",
+        "count": 12,
+        "examples": [
+          "a",
+          "button",
+          "li.st"
+        ]
+      },
+      {
+        "value": "rgb(196, 176, 176)",
+        "count": 8,
+        "examples": [
+          "p.w-kicker",
+          "span",
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(107, 79, 79)",
+        "count": 6,
+        "examples": [
+          "span.how",
+          "i",
+          "p.w-kicker"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.68)",
+        "count": 6,
+        "examples": [
+          "div.sf__bot",
+          "span",
+          "span.sf__legal"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.68)",
+        "count": 4,
+        "examples": [
+          "span",
+          "span.d",
+          "p"
+        ]
+      },
+      {
+        "value": "rgb(74, 60, 60)",
+        "count": 4,
+        "examples": [
+          "p.w-kicker",
+          "span",
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(232, 214, 214)",
+        "count": 4,
+        "examples": [
+          "p.w-kicker",
+          "span",
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(255, 255, 255)",
+        "count": 4,
+        "examples": [
+          "span.badge"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.66)",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.6)",
+        "count": 2,
+        "examples": [
+          "p.sf__eye",
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(0, 0, 0)",
+        "count": 1,
+        "examples": [
+          "html"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.42)",
+        "count": 1,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.7)",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      }
+    ],
+    "background": [
+      {
+        "value": "rgb(221, 221, 221)",
+        "count": 41,
+        "examples": [
+          "img"
+        ]
+      },
+      {
+        "value": "rgb(251, 250, 247)",
+        "count": 38,
+        "examples": [
+          "button.paper"
+        ]
+      },
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 6,
+        "examples": [
+          "html",
+          "div.pin",
+          "footer#contact-footer"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 5,
+        "examples": [
+          "body",
+          "header#rn",
+          "div.pin"
+        ]
+      },
+      {
+        "value": "rgb(196, 176, 176)",
+        "count": 5,
+        "examples": [
+          "i",
+          "div.pin"
+        ]
+      },
+      {
+        "value": "rgba(10, 10, 10, 0.82)",
+        "count": 4,
+        "examples": [
+          "span.badge"
+        ]
+      },
+      {
+        "value": "rgb(107, 79, 79)",
+        "count": 3,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(21, 20, 20)",
+        "count": 3,
+        "examples": [
+          "button.paper"
+        ]
+      },
+      {
+        "value": "color(srgb 0.909804 0.894118 0.878431 / 0.16)",
+        "count": 2,
+        "examples": [
+          "div.w-bar"
+        ]
+      },
+      {
+        "value": "color(srgb 0.101961 0.0941176 0.0941176 / 0.16)",
+        "count": 2,
+        "examples": [
+          "div.w-bar"
+        ]
+      },
+      {
+        "value": "rgb(74, 60, 60)",
+        "count": 2,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(232, 214, 214)",
+        "count": 2,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.05)",
+        "count": 1,
+        "examples": [
+          "a.backd.show"
+        ]
+      },
+      {
+        "value": "rgb(107, 92, 92)",
+        "count": 1,
+        "examples": [
+          "div.pin"
+        ]
+      },
+      {
+        "value": "color(srgb 0.952941 0.933333 0.92549 / 0.16)",
+        "count": 1,
+        "examples": [
+          "div.w-bar"
+        ]
+      },
+      {
+        "value": "rgb(143, 191, 122)",
+        "count": 1,
+        "examples": [
+          "i"
+        ]
+      }
+    ],
+    "border": [
+      {
+        "value": "color(srgb 0.909804 0.894118 0.878431 / 0.22)",
+        "count": 6,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "color(srgb 0.101961 0.0941176 0.0941176 / 0.22)",
+        "count": 6,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "color(srgb 0.952941 0.933333 0.92549 / 0.22)",
+        "count": 3,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.14)",
+        "count": 1,
+        "examples": [
+          "a.backd.show"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.rn__clock"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.sf__cols"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.25)",
+        "count": 1,
+        "examples": [
+          "button"
+        ]
+      }
+    ],
+    "all": [
+      {
+        "value": "rgb(0, 0, 0)",
+        "count": 362,
+        "examples": [
+          "html",
+          "body",
+          "header#rn"
+        ]
+      },
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 168,
+        "examples": [
+          "html",
+          "body",
+          "header#rn"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 129,
+        "examples": [
+          "body",
+          "header#rn",
+          "div.pin"
+        ]
+      },
+      {
+        "value": "rgb(221, 221, 221)",
+        "count": 41,
+        "examples": [
+          "img"
+        ]
+      },
+      {
+        "value": "rgb(251, 250, 247)",
+        "count": 38,
+        "examples": [
+          "button.paper"
+        ]
+      },
+      {
+        "value": "rgb(243, 238, 236)",
+        "count": 31,
+        "examples": [
+          "div.pin",
+          "header.w-head",
+          "h2.w-name"
+        ]
+      },
+      {
+        "value": "rgb(196, 176, 176)",
+        "count": 13,
+        "examples": [
+          "p.w-kicker",
+          "span",
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.85)",
+        "count": 12,
+        "examples": [
+          "a",
+          "button",
+          "li.st"
+        ]
+      },
+      {
+        "value": "rgb(107, 79, 79)",
+        "count": 9,
+        "examples": [
+          "span.how",
+          "i",
+          "p.w-kicker"
+        ]
+      },
+      {
+        "value": "color(srgb 0.909804 0.894118 0.878431 / 0.22)",
+        "count": 6,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "color(srgb 0.101961 0.0941176 0.0941176 / 0.22)",
+        "count": 6,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "rgb(74, 60, 60)",
+        "count": 6,
+        "examples": [
+          "p.w-kicker",
+          "span",
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(232, 214, 214)",
+        "count": 6,
+        "examples": [
+          "p.w-kicker",
+          "span",
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.68)",
+        "count": 6,
+        "examples": [
+          "div.sf__bot",
+          "span",
+          "span.sf__legal"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.68)",
+        "count": 4,
+        "examples": [
+          "span",
+          "span.d",
+          "p"
+        ]
+      },
+      {
+        "value": "rgb(255, 255, 255)",
+        "count": 4,
+        "examples": [
+          "span.badge"
+        ]
+      },
+      {
+        "value": "rgba(10, 10, 10, 0.82)",
+        "count": 4,
+        "examples": [
+          "span.badge"
+        ]
+      },
+      {
+        "value": "color(srgb 0.952941 0.933333 0.92549 / 0.22)",
+        "count": 3,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "rgb(21, 20, 20)",
+        "count": 3,
+        "examples": [
+          "button.paper"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.66)",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "color(srgb 0.909804 0.894118 0.878431 / 0.16)",
+        "count": 2,
+        "examples": [
+          "div.w-bar"
+        ]
+      },
+      {
+        "value": "color(srgb 0.101961 0.0941176 0.0941176 / 0.16)",
+        "count": 2,
+        "examples": [
+          "div.w-bar"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.6)",
+        "count": 2,
+        "examples": [
+          "p.sf__eye",
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.05)",
+        "count": 1,
+        "examples": [
+          "a.backd.show"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.14)",
+        "count": 1,
+        "examples": [
+          "a.backd.show"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.rn__clock"
+        ]
+      },
+      {
+        "value": "rgb(107, 92, 92)",
+        "count": 1,
+        "examples": [
+          "div.pin"
+        ]
+      },
+      {
+        "value": "color(srgb 0.952941 0.933333 0.92549 / 0.16)",
+        "count": 1,
+        "examples": [
+          "div.w-bar"
+        ]
+      },
+      {
+        "value": "rgb(143, 191, 122)",
+        "count": 1,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.42)",
+        "count": 1,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.7)",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.sf__cols"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.25)",
+        "count": 1,
+        "examples": [
+          "button"
+        ]
+      }
+    ]
+  },
+  "typography": {
+    "families": [
+      {
+        "value": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "count": 70,
+        "examples": [
+          "span",
+          "button",
+          "b"
+        ]
+      },
+      {
+        "value": "ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+        "count": 16,
+        "examples": [
+          "span.how",
+          "span",
+          "span.w-hint"
+        ]
+      },
+      {
+        "value": "Onest, ui-sans-serif, system-ui, sans-serif",
+        "count": 4,
+        "examples": [
+          "p",
+          "a",
+          "button"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "value": "12.5px",
+        "count": 15,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "15px",
+        "count": 14,
+        "examples": [
+          "span",
+          "a",
+          "button"
+        ]
+      },
+      {
+        "value": "12px",
+        "count": 14,
+        "examples": [
+          "span.how",
+          "span",
+          "h3"
+        ]
+      },
+      {
+        "value": "16px",
+        "count": 8,
+        "examples": [
+          "button",
+          "button.sf__btn"
+        ]
+      },
+      {
+        "value": "92px",
+        "count": 7,
+        "examples": [
+          "h2.w-name",
+          "em"
+        ]
+      },
+      {
+        "value": "13px",
+        "count": 7,
+        "examples": [
+          "p.sf__eye",
+          "span",
+          "a"
+        ]
+      },
+      {
+        "value": "14px",
+        "count": 6,
+        "examples": [
+          "span",
+          "b",
+          "span.d"
+        ]
+      },
+      {
+        "value": "15.5px",
+        "count": 5,
+        "examples": [
+          "p.w-desc"
+        ]
+      },
+      {
+        "value": "11px",
+        "count": 5,
+        "examples": [
+          "span.w-hint"
+        ]
+      },
+      {
+        "value": "11.5px",
+        "count": 4,
+        "examples": [
+          "span.badge"
+        ]
+      },
+      {
+        "value": "104px",
+        "count": 3,
+        "examples": [
+          "h1",
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "value": "17px",
+        "count": 2,
+        "examples": [
+          "p",
+          "p.sf__p"
+        ]
+      }
+    ],
+    "weights": [
+      {
+        "value": "500",
+        "count": 36,
+        "examples": [
+          "span",
+          "button",
+          "span.d"
+        ]
+      },
+      {
+        "value": "600",
+        "count": 29,
+        "examples": [
+          "h1",
+          "span.how",
+          "span"
+        ]
+      },
+      {
+        "value": "400",
+        "count": 17,
+        "examples": [
+          "p",
+          "p.w-desc",
+          "p.sf__p"
+        ]
+      },
+      {
+        "value": "700",
+        "count": 8,
+        "examples": [
+          "b",
+          "h2.w-name",
+          "em"
+        ]
+      }
+    ],
+    "lineHeights": [
+      {
+        "value": "84.64px",
+        "count": 7,
+        "examples": [
+          "h2.w-name",
+          "em"
+        ]
+      },
+      {
+        "value": "24.025px",
+        "count": 5,
+        "examples": [
+          "p.w-desc"
+        ]
+      },
+      {
+        "value": "98.8px",
+        "count": 3,
+        "examples": [
+          "h1",
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "value": "15px",
+        "count": 2,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "20.3px",
+        "count": 2,
+        "examples": [
+          "p",
+          "a"
+        ]
+      },
+      {
+        "value": "13px",
+        "count": 2,
+        "examples": [
+          "button"
+        ]
+      },
+      {
+        "value": "26.35px",
+        "count": 1,
+        "examples": [
+          "p"
+        ]
+      },
+      {
+        "value": "27.2px",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      }
+    ],
+    "letterSpacings": [
+      {
+        "value": "1.68px",
+        "count": 10,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "-3.68px",
+        "count": 7,
+        "examples": [
+          "h2.w-name",
+          "em"
+        ]
+      },
+      {
+        "value": "1.54px",
+        "count": 5,
+        "examples": [
+          "span.w-hint"
+        ]
+      },
+      {
+        "value": "0.23px",
+        "count": 4,
+        "examples": [
+          "span.badge"
+        ]
+      },
+      {
+        "value": "1.2px",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "-3.64px",
+        "count": 2,
+        "examples": [
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "value": "-2.6px",
+        "count": 1,
+        "examples": [
+          "h1"
+        ]
+      },
+      {
+        "value": "1.44px",
+        "count": 1,
+        "examples": [
+          "span.how"
+        ]
+      },
+      {
+        "value": "0.78px",
+        "count": 1,
+        "examples": [
+          "p.sf__eye"
+        ]
+      }
+    ],
+    "styles": [
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "12.5px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 15,
+        "examples": [
+          "li",
+          "li",
+          "li"
+        ]
+      },
+      {
+        "fontFamily": "ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "1.68px",
+        "count": 10,
+        "examples": [
+          "span",
+          "span",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 8,
+        "examples": [
+          "a",
+          "a",
+          "a"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 7,
+        "examples": [
+          "button",
+          "button",
+          "button"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "92px",
+        "fontWeight": "700",
+        "lineHeight": "84.64px",
+        "letterSpacing": "-3.68px",
+        "count": 7,
+        "examples": [
+          "h2.w-name",
+          "em",
+          "em"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15.5px",
+        "fontWeight": "400",
+        "lineHeight": "24.025px",
+        "letterSpacing": "normal",
+        "count": 5,
+        "examples": [
+          "p.w-desc",
+          "p.w-desc",
+          "p.w-desc"
+        ]
+      },
+      {
+        "fontFamily": "ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+        "fontSize": "11px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "1.54px",
+        "count": 5,
+        "examples": [
+          "span.w-hint",
+          "span.w-hint",
+          "span.w-hint"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "11.5px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "0.23px",
+        "count": 4,
+        "examples": [
+          "span.badge",
+          "span.badge",
+          "span.badge"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 4,
+        "examples": [
+          "li.st",
+          "li.st",
+          "li.st"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 4,
+        "examples": [
+          "span",
+          "span",
+          "a"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 3,
+        "examples": [
+          "span",
+          "span.d",
+          "span.d"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "1.2px",
+        "count": 3,
+        "examples": [
+          "h3",
+          "h3",
+          "h3"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "15px",
+        "letterSpacing": "normal",
+        "count": 2,
+        "examples": [
+          "span",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "104px",
+        "fontWeight": "600",
+        "lineHeight": "98.8px",
+        "letterSpacing": "-3.64px",
+        "count": 2,
+        "examples": [
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.3px",
+        "letterSpacing": "normal",
+        "count": 2,
+        "examples": [
+          "p",
+          "a"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "600",
+        "lineHeight": "13px",
+        "letterSpacing": "normal",
+        "count": 2,
+        "examples": [
+          "button",
+          "button"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 1,
+        "examples": [
+          "b"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "104px",
+        "fontWeight": "600",
+        "lineHeight": "98.8px",
+        "letterSpacing": "-2.6px",
+        "count": 1,
+        "examples": [
+          "h1"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "26.35px",
+        "letterSpacing": "normal",
+        "count": 1,
+        "examples": [
+          "p"
+        ]
+      },
+      {
+        "fontFamily": "ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "1.44px",
+        "count": 1,
+        "examples": [
+          "span.how"
+        ]
+      }
+    ]
+  },
+  "spacing": [
+    {
+      "value": "8px",
+      "count": 186,
+      "examples": [
+        "a.backd.show",
+        "span.how",
+        "ul.w-tags"
+      ]
+    },
+    {
+      "value": "6px",
+      "count": 43,
+      "examples": [
+        "ul.w-tags",
+        "li",
+        "span.badge"
+      ]
+    },
+    {
+      "value": "2px",
+      "count": 41,
+      "examples": [
+        "figure.print",
+        "figure.print.deck",
+        "figure.print.dark"
+      ]
+    },
+    {
+      "value": "14px",
+      "count": 41,
+      "examples": [
+        "button.paper"
+      ]
+    },
+    {
+      "value": "11px",
+      "count": 30,
+      "examples": [
+        "li"
+      ]
+    },
+    {
+      "value": "88px",
+      "count": 26,
+      "examples": [
+        "div.rn__in",
+        "div.wrap",
+        "header.w-head"
+      ]
+    },
+    {
+      "value": "16px",
+      "count": 25,
+      "examples": [
+        "div.w-foot",
+        "h3",
+        "div#ck"
+      ]
+    },
+    {
+      "value": "12px",
+      "count": 21,
+      "examples": [
+        "p.w-kicker",
+        "div.sf__cta",
+        "div.sf__bot"
+      ]
+    },
+    {
+      "value": "10px",
+      "count": 16,
+      "examples": [
+        "span.how",
+        "header.w-head",
+        "span.badge"
+      ]
+    },
+    {
+      "value": "9.6px",
+      "count": 15,
+      "examples": [
+        "div.rn__clock",
+        "p.sf__eye",
+        "ul.work"
+      ]
+    },
+    {
+      "value": "46px",
+      "count": 15,
+      "examples": [
+        "div.track"
+      ]
+    },
+    {
+      "value": "134.4px",
+      "count": 10,
+      "examples": [
+        "div.track"
+      ]
+    },
+    {
+      "value": "24px",
+      "count": 6,
+      "examples": [
+        "div.rn__in",
+        "div.wrap",
+        "div.sf__cols"
+      ]
+    },
+    {
+      "value": "14.4px",
+      "count": 5,
+      "examples": [
+        "div.rn__clock",
+        "div#ck"
+      ]
+    },
+    {
+      "value": "43.2px",
+      "count": 5,
+      "examples": [
+        "header.w-head"
+      ]
+    },
+    {
+      "value": "10px 56px",
+      "count": 5,
+      "examples": [
+        "header.w-head"
+      ]
+    },
+    {
+      "value": "56px",
+      "count": 5,
+      "examples": [
+        "header.w-head"
+      ]
+    },
+    {
+      "value": "26px",
+      "count": 5,
+      "examples": [
+        "div.w-foot"
+      ]
+    },
+    {
+      "value": "22.4px",
+      "count": 4,
+      "examples": [
+        "ul",
+        "h2#sfTitle"
+      ]
+    },
+    {
+      "value": "20px",
+      "count": 4,
+      "examples": [
+        "section.intro",
+        "h2#sfTitle"
+      ]
+    },
+    {
+      "value": "17.6px",
+      "count": 3,
+      "examples": [
+        "div.rn__in",
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "12.8px",
+      "count": 3,
+      "examples": [
+        "button.sf__btn"
+      ]
+    },
+    {
+      "value": "28px",
+      "count": 2,
+      "examples": [
+        "div.sf__in",
+        "div.sf__bot"
+      ]
+    },
+    {
+      "value": "36px",
+      "count": 2,
+      "examples": [
+        "div.sf__cta",
+        "div.sf__cols"
+      ]
+    },
+    {
+      "value": "13.6px",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "44px",
+      "count": 1,
+      "examples": [
+        "section.intro"
+      ]
+    },
+    {
+      "value": "-32px",
+      "count": 1,
+      "examples": [
+        "div.sfw.sfw--dark"
+      ]
+    },
+    {
+      "value": "112px",
+      "count": 1,
+      "examples": [
+        "div.sf__in"
+      ]
+    },
+    {
+      "value": "25.6px",
+      "count": 1,
+      "examples": [
+        "button.sf__btn"
+      ]
+    },
+    {
+      "value": "8.8px",
+      "count": 1,
+      "examples": [
+        "button.sf__btn"
+      ]
+    }
+  ],
+  "borderRadius": [
+    {
+      "value": "2px",
+      "count": 46,
+      "examples": [
+        "button.paper",
+        "div.w-bar"
+      ]
+    },
+    {
+      "value": "3px 3px 2px 2px",
+      "count": 41,
+      "examples": [
+        "span.peg"
+      ]
+    },
+    {
+      "value": "999px",
+      "count": 24,
+      "examples": [
+        "a.backd.show",
+        "div.rn__clock",
+        "li"
+      ]
+    },
+    {
+      "value": "50%",
+      "count": 2,
+      "examples": [
+        "i",
+        "b"
+      ]
+    },
+    {
+      "value": "32px 32px 0px 0px",
+      "count": 1,
+      "examples": [
+        "footer#contact-footer"
+      ]
+    },
+    {
+      "value": "20px",
+      "count": 1,
+      "examples": [
+        "div#ck"
+      ]
+    }
+  ],
+  "shadows": [
+    {
+      "value": "rgba(0, 0, 0, 0.35) 0px 2px 4px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px inset",
+      "count": 41,
+      "examples": [
+        "span.peg"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, rgba(0, 0, 0, 0.45) 0px 24px 40px -18px, rgba(0, 0, 0, 0.35) 0px 50px 80px -40px",
+      "count": 41,
+      "examples": [
+        "button.paper"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.45) 0px 12px 30px -12px, rgba(255, 255, 255, 0.08) 0px 0px 0px 1px",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "rgba(232, 228, 224, 0.12) 0px 1px 0px 0px inset",
+      "count": 1,
+      "examples": [
+        "footer#contact-footer"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0) 0px 0px 0px 7.86986px",
+      "count": 1,
+      "examples": [
+        "i"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.55) 0px 18px 40px -16px, rgba(232, 228, 224, 0.12) 0px 0px 0px 1px",
+      "count": 1,
+      "examples": [
+        "div#ck"
+      ]
+    }
+  ],
+  "easings": [
+    {
+      "value": "cubic-bezier(0.16, 1, 0.3, 1), ease",
+      "count": 41,
+      "examples": [
+        "button.paper"
+      ]
+    },
+    {
+      "value": "ease",
+      "count": 16,
+      "examples": [
+        "div.rn__in",
+        "button",
+        "a"
+      ]
+    },
+    {
+      "value": "ease, ease",
+      "count": 6,
+      "examples": [
+        "header#rn",
+        "div.pin"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+      "count": 3,
+      "examples": [
+        "svg",
+        "button.sf__btn"
+      ]
+    },
+    {
+      "value": "ease, cubic-bezier(0.16, 1, 0.3, 1), ease, ease",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "ease-out",
+      "count": 1,
+      "examples": [
+        "i"
+      ]
+    }
+  ],
+  "durations": [
+    {
+      "value": "0.45s, 0.45s",
+      "count": 41,
+      "examples": [
+        "button.paper"
+      ]
+    },
+    {
+      "value": "0.2s",
+      "count": 15,
+      "examples": [
+        "button",
+        "a"
+      ]
+    },
+    {
+      "value": "0.6s, 0.6s",
+      "count": 5,
+      "examples": [
+        "div.pin"
+      ]
+    },
+    {
+      "value": "0.35s",
+      "count": 4,
+      "examples": [
+        "div.rn__in",
+        "svg",
+        "button.sf__btn"
+      ]
+    },
+    {
+      "value": "0.35s, 0.35s",
+      "count": 1,
+      "examples": [
+        "header#rn"
+      ]
+    },
+    {
+      "value": "0.35s, 0.45s, 0.25s, 0.25s",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "2.2s",
+      "count": 1,
+      "examples": [
+        "i"
+      ]
+    }
+  ],
+  "zIndices": [
+    {
+      "value": "2",
+      "count": 43,
+      "examples": [
+        "span.peg",
+        "div.sfw.sfw--dark",
+        "footer#contact-footer"
+      ]
+    },
+    {
+      "value": "3",
+      "count": 10,
+      "examples": [
+        "header.w-head",
+        "div.w-foot"
+      ]
+    },
+    {
+      "value": "40",
+      "count": 1,
+      "examples": [
+        "header#rn"
+      ]
+    },
+    {
+      "value": "60",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "1",
+      "count": 1,
+      "examples": [
+        "div.sf__in"
+      ]
+    },
+    {
+      "value": "90",
+      "count": 1,
+      "examples": [
+        "div#ck"
+      ]
+    },
+    {
+      "value": "2147483645",
+      "count": 1,
+      "examples": [
+        "iframe#nl-badge-frame"
+      ]
+    }
+  ],
+  "breakpoints": [
+    "359.98px",
+    "539.98px",
+    "767.98px",
+    "768px",
+    "1024px",
+    "1199.98px",
+    "1200px"
+  ],
+  "stats": {
+    "elementsSampled": 367,
+    "elementsTotal": 444
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "totals": {
+    "cssTotalBytes": 27888,
+    "cssUsedBytes": 15886,
+    "cssUsedPercent": 57,
+    "jsTotalBytes": 26489,
+    "jsUsedBytes": 17544,
+    "jsUsedPercent": 66
+  },
+  "css": [
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 26320,
+      "usedBytes": 15090,
+      "usedPercent": 57
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    }
+  ],
+  "js": [
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 12634,
+      "usedBytes": 9591,
+      "usedPercent": 76
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 4114,
+      "usedBytes": 3386,
+      "usedPercent": 82
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 3712,
+      "usedBytes": 1670,
+      "usedPercent": 45
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 1409,
+      "usedBytes": 120,
+      "usedPercent": 9
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 1395,
+      "usedBytes": 1169,
+      "usedPercent": 84
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 1136,
+      "usedBytes": 222,
+      "usedPercent": 20
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 1078,
+      "usedBytes": 1023,
+      "usedPercent": 95
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 818,
+      "usedBytes": 272,
+      "usedPercent": 33
+    },
+    {
+      "url": "https://therishithakor.com/app-developer/",
+      "totalBytes": 193,
+      "usedBytes": 91,
+      "usedPercent": 47
+    }
+  ]
+}

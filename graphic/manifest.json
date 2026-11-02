@@ -1,0 +1,308 @@
+{
+  "source": "https://therishithakor.com/graphic-designer/",
+  "capturedAt": "2026-11-02T13:37:46.630Z",
+  "summary": {
+    "domElements": 444,
+    "imagesFound": 42,
+    "animationsDetected": 0,
+    "keyframesFound": 4,
+    "scrollTriggersFound": 0,
+    "mediaFound": 0,
+    "technologiesDetected": [
+      "Netlify"
+    ],
+    "estimatedLoadTimeMs": 48821,
+    "totalArtefacts": 54,
+    "networkRequests": 46,
+    "networkBytes": 1831753,
+    "apiCallsFound": 0,
+    "assetsFound": 48,
+    "designTokensFound": 92,
+    "fontsFound": 2,
+    "cssAnimationsFound": 4,
+    "sourceMapsFound": 0,
+    "keyframeRulesFound": 4,
+    "videosFound": 0,
+    "ocrWordsFound": 254,
+    "textOnlyInPixels": 3,
+    "viewportsMeasured": 4,
+    "responsiveChanges": 174,
+    "interactionStates": 15,
+    "motionTechDetected": 0,
+    "webSocketsFound": 0,
+    "graphqlOperations": 0,
+    "cssUsedPercent": 54,
+    "scrollMotionTracks": 54,
+    "sceneMeshesExported": 0,
+    "gpuTexturesRecovered": 0,
+    "pageTransitionKind": "hard-navigation"
+  },
+  "full": true,
+  "recoveredSourceFiles": 0,
+  "styleRecovery": {
+    "ghostStyleTags": 0,
+    "ghostStyleBytes": 0,
+    "adoptedSheets": 0,
+    "adoptedBytes": 0,
+    "shadowRoots": 0,
+    "shadowBytes": 0,
+    "blockedSheets": 0,
+    "declarativeShadow": false
+  },
+  "assets": {
+    "downloaded": [
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-post-1.webp",
+        "path": "assets/images/fc6cf8d63b-kal-post-1.webp",
+        "bytes": 106204
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-31.webp",
+        "path": "assets/images/a281eca0a9-him-31.webp",
+        "bytes": 105122
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-32.webp",
+        "path": "assets/images/3e2b086a21-him-32.webp",
+        "bytes": 80376
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/wbt-kumbh-1.webp",
+        "path": "assets/images/7186d093ef-wbt-kumbh-1.webp",
+        "bytes": 80790
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/wbt-railway-1.webp",
+        "path": "assets/images/e86244e7e6-wbt-railway-1.webp",
+        "bytes": 76850
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-45.webp",
+        "path": "assets/images/82084c0bdc-him-45.webp",
+        "bytes": 74736
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/wbt-stadium-1.webp",
+        "path": "assets/images/e3181b02d5-wbt-stadium-1.webp",
+        "bytes": 70794
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-16.webp",
+        "path": "assets/images/91ba76767e-qod-16.webp",
+        "bytes": 57408
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-post-3.webp",
+        "path": "assets/images/238e24ad16-kal-post-3.webp",
+        "bytes": 58438
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-47.webp",
+        "path": "assets/images/007d5c58a3-him-47.webp",
+        "bytes": 52654
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/pos-theme.webp",
+        "path": "assets/images/a1f577eb83-pos-theme.webp",
+        "bytes": 50640
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-1.webp",
+        "path": "assets/images/4c49a63f8c-qod-1.webp",
+        "bytes": 44584
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-44.webp",
+        "path": "assets/images/49c3aff06e-him-44.webp",
+        "bytes": 42804
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/pos-wbt-26-jan.webp",
+        "path": "assets/images/161b583d2f-pos-wbt-26-jan.webp",
+        "bytes": 42048
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-28.webp",
+        "path": "assets/images/d12c3187a4-him-28.webp",
+        "bytes": 41570
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/pos-recruitment-poster.webp",
+        "path": "assets/images/69dbdc7da4-pos-recruitment-poster.webp",
+        "bytes": 41392
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-left.webp",
+        "path": "assets/images/ab7342ae90-qod-left.webp",
+        "bytes": 39574
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-27.webp",
+        "path": "assets/images/3b59769f20-him-27.webp",
+        "bytes": 38676
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-49.webp",
+        "path": "assets/images/3625d422c9-him-49.webp",
+        "bytes": 37986
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-32.webp",
+        "path": "assets/images/9ed342bc4d-qod-32.webp",
+        "bytes": 37404
+      },
+      {
+        "url": "https://therishithakor.com/fonts/onest-latin.woff2",
+        "path": "assets/fonts/4db55ed39c-onest-latin.woff2",
+        "bytes": 33760
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-post-4.webp",
+        "path": "assets/images/e9e9f57433-kal-post-4.webp",
+        "bytes": 33558
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-37.webp",
+        "path": "assets/images/940dbc6db0-him-37.webp",
+        "bytes": 33314
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-26.webp",
+        "path": "assets/images/3a275118ce-qod-26.webp",
+        "bytes": 30478
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-post-2.webp",
+        "path": "assets/images/01aa58cfd9-kal-post-2.webp",
+        "bytes": 29884
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-33.webp",
+        "path": "assets/images/84a9796687-him-33.webp",
+        "bytes": 29730
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-story-7.webp",
+        "path": "assets/images/d662e8590d-kal-story-7.webp",
+        "bytes": 29808
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-center.webp",
+        "path": "assets/images/2e191908c7-qod-center.webp",
+        "bytes": 27334
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-17.webp",
+        "path": "assets/images/7e71002b7a-qod-17.webp",
+        "bytes": 29286
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-31.webp",
+        "path": "assets/images/f247045c56-qod-31.webp",
+        "bytes": 28646
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-story-2.webp",
+        "path": "assets/images/5588aa5630-kal-story-2.webp",
+        "bytes": 26194
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-2.webp",
+        "path": "assets/images/5701ef01b4-kal-2.webp",
+        "bytes": 27222
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/qod-27.webp",
+        "path": "assets/images/41a5823ee3-qod-27.webp",
+        "bytes": 23642
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-story-9.webp",
+        "path": "assets/images/01bb74f1ab-kal-story-9.webp",
+        "bytes": 25374
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-story-4.webp",
+        "path": "assets/images/34737c4c46-kal-story-4.webp",
+        "bytes": 23026
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/kal-story-8.webp",
+        "path": "assets/images/65a74b2701-kal-story-8.webp",
+        "bytes": 24486
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/wbt-edtech-1.webp",
+        "path": "assets/images/d60c5a69e7-wbt-edtech-1.webp",
+        "bytes": 23924
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/pos-club-showcase.webp",
+        "path": "assets/images/92997f922b-pos-club-showcase.webp",
+        "bytes": 22234
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/him-43.webp",
+        "path": "assets/images/82066a77b5-him-43.webp",
+        "bytes": 22428
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/logo-foodicted.webp",
+        "path": "assets/images/aebe1dc5dc-logo-foodicted.webp",
+        "bytes": 17068
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/logo-rishi-photography.webp",
+        "path": "assets/images/5ce2c04947-logo-rishi-photography.webp",
+        "bytes": 16312
+      },
+      {
+        "url": "https://therishithakor.com/.netlify/scripts/hud?variant=public",
+        "path": "assets/js/d22aba5433-hud.js",
+        "bytes": 35855
+      },
+      {
+        "url": "https://therishithakor.com/icon-192.png",
+        "path": "assets/images/1fb19b3185-icon-192.png",
+        "bytes": 7744
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/logo-wbt-logo.webp",
+        "path": "assets/images/c83864da4f-logo-wbt-logo.webp",
+        "bytes": 8874
+      },
+      {
+        "url": "https://therishithakor.com/graphic-designer/",
+        "path": "assets/other/224f6fab9e-asset.html",
+        "bytes": 81778
+      },
+      {
+        "url": "https://therishithakor.com/favicon.ico",
+        "path": "assets/images/6bd58decad-favicon.ico",
+        "bytes": 4037
+      },
+      {
+        "url": "https://therishithakor.com/apple-touch-icon.png",
+        "path": "assets/images/d5e0e4f20c-apple-touch-icon.png",
+        "bytes": 7138
+      },
+      {
+        "url": "https://therishithakor.com/fonts/onest-latin-ext.woff2",
+        "path": "assets/fonts/bf623844de-onest-latin-ext.woff2",
+        "bytes": 28452
+      }
+    ],
+    "skipped": [],
+    "fromPageLoad": 44,
+    "refetched": 4
+  },
+  "pacing": [
+    {
+      "origin": "therishithakor.com",
+      "provider": "netlify",
+      "requestsPerSecond": 6,
+      "requests": 4,
+      "limited": 0
+    }
+  ]
+}

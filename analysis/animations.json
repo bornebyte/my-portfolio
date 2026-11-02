@@ -1,0 +1,409 @@
+{
+  "css": {
+    "animations": [
+      {
+        "kind": "css-animation",
+        "name": "nudge",
+        "target": "i",
+        "durationMs": 1800,
+        "delayMs": 0,
+        "iterations": "infinite",
+        "direction": "normal",
+        "fill": "none",
+        "easing": "cubic-bezier(0.2, 0.8, 0.2, 1)",
+        "playState": "running",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.2, 0.8, 0.2, 1)",
+            "composite": "auto",
+            "transform": "translateY(0px)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.5,
+            "easing": "cubic-bezier(0.2, 0.8, 0.2, 1)",
+            "composite": "auto",
+            "transform": "translateY(3px)",
+            "computedOffset": 0.5
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.2, 0.8, 0.2, 1)",
+            "composite": "auto",
+            "transform": "translateY(0px)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "kind": "css-animation",
+        "name": "ambDrift",
+        "target": "i",
+        "durationMs": 24000,
+        "delayMs": 0,
+        "iterations": "infinite",
+        "direction": "alternate",
+        "fill": "none",
+        "easing": "ease-in-out",
+        "playState": "running",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(-2%, -1.5%, 0px) scale(1)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(2.5%, 2%, 0px) scale(1.06)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "kind": "css-animation",
+        "name": "ambDrift",
+        "target": "i",
+        "durationMs": 24000,
+        "delayMs": 0,
+        "iterations": "infinite",
+        "direction": "alternate",
+        "fill": "none",
+        "easing": "ease-in-out",
+        "playState": "paused",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(-2%, -1.5%, 0px) scale(1)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(2.5%, 2%, 0px) scale(1.06)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "kind": "css-animation",
+        "name": "ambDrift",
+        "target": "i",
+        "durationMs": 24000,
+        "delayMs": 0,
+        "iterations": "infinite",
+        "direction": "alternate",
+        "fill": "none",
+        "easing": "ease-in-out",
+        "playState": "paused",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(-2%, -1.5%, 0px) scale(1)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(2.5%, 2%, 0px) scale(1.06)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "kind": "css-animation",
+        "name": "ambDrift",
+        "target": "i",
+        "durationMs": 24000,
+        "delayMs": 0,
+        "iterations": "infinite",
+        "direction": "alternate",
+        "fill": "none",
+        "easing": "ease-in-out",
+        "playState": "paused",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(-2%, -1.5%, 0px) scale(1)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(2.5%, 2%, 0px) scale(1.06)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "kind": "css-animation",
+        "name": "ambDrift",
+        "target": "i",
+        "durationMs": 24000,
+        "delayMs": 0,
+        "iterations": "infinite",
+        "direction": "alternate",
+        "fill": "none",
+        "easing": "ease-in-out",
+        "playState": "paused",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(-2%, -1.5%, 0px) scale(1)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease-in-out",
+            "composite": "auto",
+            "transform": "translate3d(2.5%, 2%, 0px) scale(1.06)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "kind": "css-animation",
+        "name": "sfPulse",
+        "target": "i",
+        "durationMs": 2200,
+        "delayMs": 0,
+        "iterations": "infinite",
+        "direction": "normal",
+        "fill": "none",
+        "easing": "ease-out",
+        "playState": "running",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease-out",
+            "composite": "replace",
+            "boxShadow": "rgba(143, 191, 122, 0.6) 0px 0px 0px 0px",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.7,
+            "easing": "ease-out",
+            "composite": "auto",
+            "boxShadow": "rgba(143, 191, 122, 0) 0px 0px 0px 8.8px",
+            "computedOffset": 0.7
+          },
+          {
+            "offset": 1,
+            "easing": "ease-out",
+            "composite": "auto",
+            "boxShadow": "rgba(143, 191, 122, 0) 0px 0px 0px 0px",
+            "computedOffset": 1
+          }
+        ]
+      }
+    ],
+    "declaredAnimations": [
+      {
+        "name": "ambDrift",
+        "count": 5,
+        "duration": "24s",
+        "delay": "0s",
+        "easing": "ease-in-out",
+        "iterations": "infinite",
+        "direction": "alternate",
+        "fill": "none",
+        "playState": "running"
+      },
+      {
+        "name": "nudge",
+        "count": 1,
+        "duration": "1.8s",
+        "delay": "0s",
+        "easing": "cubic-bezier(0.2, 0.8, 0.2, 1)",
+        "iterations": "infinite",
+        "direction": "normal",
+        "fill": "none",
+        "playState": "running"
+      },
+      {
+        "name": "sfPulse",
+        "count": 1,
+        "duration": "2.2s",
+        "delay": "0s",
+        "easing": "ease-out",
+        "iterations": "infinite",
+        "direction": "normal",
+        "fill": "none",
+        "playState": "running"
+      }
+    ],
+    "keyframeRules": [
+      {
+        "name": "clIn",
+        "steps": [
+          {
+            "offset": "0%",
+            "declarations": {
+              "opacity": "0",
+              "transform": "translateY(10px) scale(0.96)"
+            }
+          }
+        ]
+      },
+      {
+        "name": "ambDrift",
+        "steps": [
+          {
+            "offset": "0%",
+            "declarations": {
+              "transform": "translate3d(-2%, -1.5%, 0px) scale(1)"
+            }
+          },
+          {
+            "offset": "100%",
+            "declarations": {
+              "transform": "translate3d(2.5%, 2%, 0px) scale(1.06)"
+            }
+          }
+        ]
+      },
+      {
+        "name": "nudge",
+        "steps": [
+          {
+            "offset": "0%, 100%",
+            "declarations": {
+              "transform": "translateY(0px)"
+            }
+          },
+          {
+            "offset": "50%",
+            "declarations": {
+              "transform": "translateY(3px)"
+            }
+          }
+        ]
+      },
+      {
+        "name": "liIn",
+        "steps": [
+          {
+            "offset": "0%",
+            "declarations": {
+              "opacity": "0",
+              "transform": "translateX(-0.5rem)"
+            }
+          }
+        ]
+      },
+      {
+        "name": "sfPulse",
+        "steps": [
+          {
+            "offset": "70%",
+            "declarations": {
+              "box-shadow": "rgba(143, 191, 122, 0) 0px 0px 0px 0.55rem"
+            }
+          },
+          {
+            "offset": "100%",
+            "declarations": {
+              "box-shadow": "rgba(143, 191, 122, 0) 0px 0px 0px 0px"
+            }
+          }
+        ]
+      }
+    ],
+    "inaccessibleSheets": [],
+    "transitionProperties": [
+      {
+        "property": "opacity",
+        "count": 56
+      },
+      {
+        "property": "transform",
+        "count": 32
+      },
+      {
+        "property": "color",
+        "count": 25
+      },
+      {
+        "property": "box-shadow",
+        "count": 13
+      },
+      {
+        "property": "background",
+        "count": 12
+      },
+      {
+        "property": "all",
+        "count": 7
+      },
+      {
+        "property": "border-color",
+        "count": 6
+      },
+      {
+        "property": "filter",
+        "count": 5
+      },
+      {
+        "property": "visibility",
+        "count": 5
+      },
+      {
+        "property": "clip-path",
+        "count": 2
+      },
+      {
+        "property": "translate",
+        "count": 1
+      },
+      {
+        "property": "padding",
+        "count": 1
+      },
+      {
+        "property": "width",
+        "count": 1
+      },
+      {
+        "property": "stroke-dashoffset",
+        "count": 1
+      }
+    ],
+    "counts": {
+      "cssAnimations": 7,
+      "cssTransitions": 0,
+      "scripted": 0,
+      "declared": 7
+    }
+  },
+  "gsap": {
+    "libraries": [
+      "lenis"
+    ],
+    "animationCount": 0,
+    "animations": [],
+    "keyframes": [],
+    "scrollTriggers": [],
+    "captured": [
+      "Lenis"
+    ],
+    "screenshot": "/captures/extract-1793551144260-j0kyllsb-layer2.png",
+    "timing": {
+      "durationMs": 6808
+    }
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "motion": [
+    {
+      "name": "Canvas 2D animation",
+      "detected": true,
+      "evidence": "intercepted draw calls",
+      "count": 15835
+    }
+  ],
+  "vitals": {
+    "lcp": 364,
+    "fcp": 364,
+    "cls": 0.000035733776328004436,
+    "ttfb": 89.89999961853027,
+    "dcl": 291.5,
+    "load": 418,
+    "longTasks": 1,
+    "longTaskMs": 60
+  },
+  "platform": {
+    "serviceWorkers": [],
+    "webWorkers": [],
+    "wasmModules": [],
+    "manifest": null,
+    "manifestUrl": null,
+    "storage": {
+      "localStorageKeys": [
+        "Bornebyte-mode"
+      ],
+      "sessionStorageKeys": [],
+      "indexedDbs": []
+    },
+    "features": [
+      "ServiceWorker API",
+      "WebGPU available",
+      "IntersectionObserver",
+      "ResizeObserver",
+      "Custom elements",
+      "MediaSource (MSE)"
+    ]
+  },
+  "accessibility": {
+    "landmarks": [
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "nav",
+        "name": "Primary"
+      },
+      {
+        "role": "main",
+        "name": ""
+      },
+      {
+        "role": "section",
+        "name": "Introduction"
+      },
+      {
+        "role": "section",
+        "name": "doorsTitle"
+      },
+      {
+        "role": "section",
+        "name": "storyTitle"
+      },
+      {
+        "role": "footer",
+        "name": "sfTitle"
+      },
+      {
+        "role": "nav",
+        "name": "Menu"
+      },
+      {
+        "role": "form",
+        "name": ""
+      },
+      {
+        "role": "region",
+        "name": "Analytics choice"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Hi, I'm Bornebyte. I am a Traveller, BlockChain Engineer, DevOps Engineer and developer.\n          \n     "
+      },
+      {
+        "level": 2,
+        "text": "My work, one door per skill"
+      },
+      {
+        "level": 3,
+        "text": ""
+      },
+      {
+        "level": 2,
+        "text": "Let's go back in time."
+      },
+      {
+        "level": 3,
+        "text": "Independent freelancer"
+      },
+      {
+        "level": 3,
+        "text": "BlockChain Engineer"
+      },
+      {
+        "level": 3,
+        "text": "DevOps Engineer"
+      },
+      {
+        "level": 3,
+        "text": "BlockChain Engineer intern"
+      },
+      {
+        "level": 3,
+        "text": "B.Tech, Computer Science"
+      },
+      {
+        "level": 2,
+        "text": "Got a project?Let's build it together."
+      },
+      {
+        "level": 3,
+        "text": "Work"
+      },
+      {
+        "level": 3,
+        "text": "Navigate"
+      },
+      {
+        "level": 3,
+        "text": "Status"
+      },
+      {
+        "level": 2,
+        "text": "Tell me what you're building."
+      },
+      {
+        "level": 2,
+        "text": "Almost there"
+      }
+    ],
+    "controls": [
+      {
+        "role": "button",
+        "name": "Home",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Web Developer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "AI Enginner",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "DevOps Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "BlockChain Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "My story",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Menu",
+        "tag": "button"
+      },
+      {
+        "role": "switch",
+        "name": "Dark mode (pull the cord)",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "My ability card",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Start a project",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "See my work",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open the Web Developer door",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open the AI Engineer door",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open the DevOps Engineer door",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open the BlockChain Engineer door",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Open the Traveller door",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Start a project",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "See my work",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Back to top ↑",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Back to top",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Close",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "01Home",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "02Web Developer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "03AI Enginner",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "04DevOps Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "05BlockChain Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "06My story",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "07Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Start a project →",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Flip the card",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Close",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Close",
+        "tag": "button"
+      },
+      {
+        "role": "hidden",
+        "name": "form-name",
+        "tag": "input"
+      },
+      {
+        "role": "input",
+        "name": "Leave this empty",
+        "tag": "input"
+      },
+      {
+        "role": "text",
+        "name": "Name",
+        "tag": "input"
+      },
+      {
+        "role": "email",
+        "name": "Email",
+        "tag": "input"
+      },
+      {
+        "role": "textarea",
+        "name": "Project",
+        "tag": "textarea"
+      },
+      {
+        "role": "submit",
+        "name": "Send message",
+        "tag": "button"
+      }
+    ],
+    "imagesMissingAlt": 0,
+    "totalNodes": 602,
+    "language": "en"
+  },
+  "counts": {
+    "motionTechDetected": 1,
+    "serviceWorkers": 0,
+    "webWorkers": 0,
+    "wasmModules": 0
+  }
+}

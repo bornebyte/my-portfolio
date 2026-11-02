@@ -1,0 +1,1464 @@
+{
+  "customProperties": {
+    "--nav-h": "74px",
+    "--font": "'Onest',ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif",
+    "--room": "#FBFAF8",
+    "--fg": "#1A1818",
+    "--card-line": "rgba(26,24,24,.08)",
+    "--card": "#F3F0EC",
+    "--fg-rgb": "26,24,24",
+    "--accent": "#6B4F4F",
+    "--bg": "#E8E4E0",
+    "--rn-h": "74px",
+    "--shadow": "0 -1px 0 rgba(255,255,255,.6) inset,0 30px 60px -30px rgba(26,24,24,.35),0 -12px 40px -24px rgba(26,24,24,.25)"
+  },
+  "colors": {
+    "text": [
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 108,
+        "examples": [
+          "body",
+          "header#rn",
+          "div.rn__in"
+        ]
+      },
+      {
+        "value": "rgb(255, 255, 255)",
+        "count": 56,
+        "examples": [
+          "div.sbar",
+          "span",
+          "svg"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 27,
+        "examples": [
+          "footer#contact-footer",
+          "div.sf__in",
+          "h2#sfTitle"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.8)",
+        "count": 12,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.85)",
+        "count": 12,
+        "examples": [
+          "a",
+          "button",
+          "li.st"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.68)",
+        "count": 8,
+        "examples": [
+          "span",
+          "span.d",
+          "p"
+        ]
+      },
+      {
+        "value": "rgb(107, 79, 79)",
+        "count": 8,
+        "examples": [
+          "p.card__meta",
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.68)",
+        "count": 6,
+        "examples": [
+          "div.sf__bot",
+          "span",
+          "span.sf__legal"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.7)",
+        "count": 4,
+        "examples": [
+          "p.sub"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.75)",
+        "count": 4,
+        "examples": [
+          "p.desc"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.66)",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.6)",
+        "count": 2,
+        "examples": [
+          "p.sf__eye",
+          "i"
+        ]
+      },
+      {
+        "value": "rgb(0, 0, 0)",
+        "count": 1,
+        "examples": [
+          "html"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.42)",
+        "count": 1,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.7)",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      }
+    ],
+    "background": [
+      {
+        "value": "rgb(0, 0, 0)",
+        "count": 8,
+        "examples": [
+          "div.island",
+          "div.card__dim"
+        ]
+      },
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 4,
+        "examples": [
+          "html",
+          "footer#contact-footer",
+          "b"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 4,
+        "examples": [
+          "body",
+          "header#rn",
+          "button.sf__btn"
+        ]
+      },
+      {
+        "value": "rgb(243, 240, 236)",
+        "count": 4,
+        "examples": [
+          "article.card.seen",
+          "article.card.flip"
+        ]
+      },
+      {
+        "value": "rgb(20, 20, 20)",
+        "count": 4,
+        "examples": [
+          "div.phone__screen.vid"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.05)",
+        "count": 1,
+        "examples": [
+          "a.backd.show"
+        ]
+      },
+      {
+        "value": "rgb(143, 191, 122)",
+        "count": 1,
+        "examples": [
+          "i"
+        ]
+      }
+    ],
+    "border": [
+      {
+        "value": "rgba(26, 24, 24, 0.14)",
+        "count": 13,
+        "examples": [
+          "a.backd.show",
+          "li"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.08)",
+        "count": 4,
+        "examples": [
+          "article.card.seen",
+          "article.card.flip"
+        ]
+      },
+      {
+        "value": "rgb(5, 5, 5)",
+        "count": 4,
+        "examples": [
+          "div.phone__screen.vid"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.rn__clock"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.sf__cols"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.25)",
+        "count": 1,
+        "examples": [
+          "button"
+        ]
+      }
+    ],
+    "all": [
+      {
+        "value": "rgb(0, 0, 0)",
+        "count": 212,
+        "examples": [
+          "html",
+          "body",
+          "header#rn"
+        ]
+      },
+      {
+        "value": "rgb(26, 24, 24)",
+        "count": 116,
+        "examples": [
+          "html",
+          "body",
+          "header#rn"
+        ]
+      },
+      {
+        "value": "rgb(255, 255, 255)",
+        "count": 96,
+        "examples": [
+          "div.sbar",
+          "span",
+          "svg"
+        ]
+      },
+      {
+        "value": "rgb(232, 228, 224)",
+        "count": 33,
+        "examples": [
+          "body",
+          "header#rn",
+          "footer#contact-footer"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.14)",
+        "count": 13,
+        "examples": [
+          "a.backd.show",
+          "li"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.8)",
+        "count": 12,
+        "examples": [
+          "li"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.85)",
+        "count": 12,
+        "examples": [
+          "a",
+          "button",
+          "li.st"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.68)",
+        "count": 8,
+        "examples": [
+          "span",
+          "span.d",
+          "p"
+        ]
+      },
+      {
+        "value": "rgb(107, 79, 79)",
+        "count": 8,
+        "examples": [
+          "p.card__meta",
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.68)",
+        "count": 6,
+        "examples": [
+          "div.sf__bot",
+          "span",
+          "span.sf__legal"
+        ]
+      },
+      {
+        "value": "rgb(243, 240, 236)",
+        "count": 4,
+        "examples": [
+          "article.card.seen",
+          "article.card.flip"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.08)",
+        "count": 4,
+        "examples": [
+          "article.card.seen",
+          "article.card.flip"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.7)",
+        "count": 4,
+        "examples": [
+          "p.sub"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.75)",
+        "count": 4,
+        "examples": [
+          "p.desc"
+        ]
+      },
+      {
+        "value": "rgb(20, 20, 20)",
+        "count": 4,
+        "examples": [
+          "div.phone__screen.vid"
+        ]
+      },
+      {
+        "value": "rgb(5, 5, 5)",
+        "count": 4,
+        "examples": [
+          "div.phone__screen.vid"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.66)",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.6)",
+        "count": 2,
+        "examples": [
+          "p.sf__eye",
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.05)",
+        "count": 1,
+        "examples": [
+          "a.backd.show"
+        ]
+      },
+      {
+        "value": "rgba(26, 24, 24, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.rn__clock"
+        ]
+      },
+      {
+        "value": "rgb(143, 191, 122)",
+        "count": 1,
+        "examples": [
+          "i"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.42)",
+        "count": 1,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.7)",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.12)",
+        "count": 1,
+        "examples": [
+          "div.sf__cols"
+        ]
+      },
+      {
+        "value": "rgba(232, 228, 224, 0.25)",
+        "count": 1,
+        "examples": [
+          "button"
+        ]
+      }
+    ]
+  },
+  "typography": {
+    "families": [
+      {
+        "value": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "count": 71,
+        "examples": [
+          "span",
+          "button",
+          "b"
+        ]
+      },
+      {
+        "value": "ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+        "count": 4,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "Onest, ui-sans-serif, system-ui, sans-serif",
+        "count": 4,
+        "examples": [
+          "p",
+          "a",
+          "button"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "value": "13px",
+        "count": 23,
+        "examples": [
+          "li",
+          "span.note",
+          "p.sf__eye"
+        ]
+      },
+      {
+        "value": "15px",
+        "count": 18,
+        "examples": [
+          "span",
+          "p.sub",
+          "a"
+        ]
+      },
+      {
+        "value": "16px",
+        "count": 12,
+        "examples": [
+          "button",
+          "p.desc",
+          "button.sf__btn"
+        ]
+      },
+      {
+        "value": "12px",
+        "count": 7,
+        "examples": [
+          "span",
+          "h3"
+        ]
+      },
+      {
+        "value": "14px",
+        "count": 6,
+        "examples": [
+          "span",
+          "b",
+          "span.d"
+        ]
+      },
+      {
+        "value": "46px",
+        "count": 4,
+        "examples": [
+          "h2#p0",
+          "h2#p1",
+          "h2#p2"
+        ]
+      },
+      {
+        "value": "12.6042px",
+        "count": 4,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "104px",
+        "count": 3,
+        "examples": [
+          "h1",
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "value": "17px",
+        "count": 2,
+        "examples": [
+          "p",
+          "p.sf__p"
+        ]
+      }
+    ],
+    "weights": [
+      {
+        "value": "500",
+        "count": 41,
+        "examples": [
+          "span",
+          "button",
+          "span.d"
+        ]
+      },
+      {
+        "value": "600",
+        "count": 21,
+        "examples": [
+          "h1",
+          "span",
+          "h2#p0"
+        ]
+      },
+      {
+        "value": "400",
+        "count": 16,
+        "examples": [
+          "p",
+          "p.desc",
+          "p.sf__p"
+        ]
+      },
+      {
+        "value": "700",
+        "count": 1,
+        "examples": [
+          "b"
+        ]
+      }
+    ],
+    "lineHeights": [
+      {
+        "value": "46.92px",
+        "count": 4,
+        "examples": [
+          "h2#p0",
+          "h2#p1",
+          "h2#p2"
+        ]
+      },
+      {
+        "value": "25.6px",
+        "count": 4,
+        "examples": [
+          "p.desc"
+        ]
+      },
+      {
+        "value": "98.8px",
+        "count": 3,
+        "examples": [
+          "h1",
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "value": "15px",
+        "count": 2,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "20.3px",
+        "count": 2,
+        "examples": [
+          "p",
+          "a"
+        ]
+      },
+      {
+        "value": "13px",
+        "count": 2,
+        "examples": [
+          "button"
+        ]
+      },
+      {
+        "value": "26.35px",
+        "count": 1,
+        "examples": [
+          "p"
+        ]
+      },
+      {
+        "value": "27.2px",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      }
+    ],
+    "letterSpacings": [
+      {
+        "value": "1.44px",
+        "count": 4,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "-0.92px",
+        "count": 4,
+        "examples": [
+          "h2#p0",
+          "h2#p1",
+          "h2#p2"
+        ]
+      },
+      {
+        "value": "-0.126042px",
+        "count": 4,
+        "examples": [
+          "span"
+        ]
+      },
+      {
+        "value": "1.2px",
+        "count": 3,
+        "examples": [
+          "h3"
+        ]
+      },
+      {
+        "value": "-3.64px",
+        "count": 2,
+        "examples": [
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "value": "-2.6px",
+        "count": 1,
+        "examples": [
+          "h1"
+        ]
+      },
+      {
+        "value": "0.78px",
+        "count": 1,
+        "examples": [
+          "p.sf__eye"
+        ]
+      }
+    ],
+    "styles": [
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 16,
+        "examples": [
+          "li",
+          "li",
+          "li"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 12,
+        "examples": [
+          "p.sub",
+          "p.sub",
+          "p.sub"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 7,
+        "examples": [
+          "button",
+          "button",
+          "button"
+        ]
+      },
+      {
+        "fontFamily": "ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "1.44px",
+        "count": 4,
+        "examples": [
+          "span",
+          "span",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "46px",
+        "fontWeight": "600",
+        "lineHeight": "46.92px",
+        "letterSpacing": "-0.92px",
+        "count": 4,
+        "examples": [
+          "h2#p0",
+          "h2#p1",
+          "h2#p2"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "letterSpacing": "normal",
+        "count": 4,
+        "examples": [
+          "p.desc",
+          "p.desc",
+          "p.desc"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "12.6042px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "-0.126042px",
+        "count": 4,
+        "examples": [
+          "span",
+          "span",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 4,
+        "examples": [
+          "li.st",
+          "li.st",
+          "li.st"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 4,
+        "examples": [
+          "span",
+          "span",
+          "a"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 3,
+        "examples": [
+          "span",
+          "span.d",
+          "span.d"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": "1.2px",
+        "count": 3,
+        "examples": [
+          "h3",
+          "h3",
+          "h3"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "15px",
+        "letterSpacing": "normal",
+        "count": 2,
+        "examples": [
+          "span",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "104px",
+        "fontWeight": "600",
+        "lineHeight": "98.8px",
+        "letterSpacing": "-3.64px",
+        "count": 2,
+        "examples": [
+          "h2#sfTitle",
+          "span"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.3px",
+        "letterSpacing": "normal",
+        "count": 2,
+        "examples": [
+          "p",
+          "a"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "600",
+        "lineHeight": "13px",
+        "letterSpacing": "normal",
+        "count": 2,
+        "examples": [
+          "button",
+          "button"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "count": 1,
+        "examples": [
+          "b"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "104px",
+        "fontWeight": "600",
+        "lineHeight": "98.8px",
+        "letterSpacing": "-2.6px",
+        "count": 1,
+        "examples": [
+          "h1"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "26.35px",
+        "letterSpacing": "normal",
+        "count": 1,
+        "examples": [
+          "p"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": "0.78px",
+        "count": 1,
+        "examples": [
+          "p.sf__eye"
+        ]
+      },
+      {
+        "fontFamily": "Onest, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "normal",
+        "count": 1,
+        "examples": [
+          "p.sf__p"
+        ]
+      }
+    ]
+  },
+  "spacing": [
+    {
+      "value": "12px",
+      "count": 42,
+      "examples": [
+        "p.card__meta",
+        "li",
+        "div.sf__cta"
+      ]
+    },
+    {
+      "value": "8px",
+      "count": 30,
+      "examples": [
+        "a.backd.show",
+        "ul.tags",
+        "span.note"
+      ]
+    },
+    {
+      "value": "7px",
+      "count": 24,
+      "examples": [
+        "li"
+      ]
+    },
+    {
+      "value": "3.84px",
+      "count": 16,
+      "examples": [
+        "div.phone__body"
+      ]
+    },
+    {
+      "value": "9.6px",
+      "count": 15,
+      "examples": [
+        "div.rn__clock",
+        "p.sf__eye",
+        "ul.work"
+      ]
+    },
+    {
+      "value": "40px",
+      "count": 13,
+      "examples": [
+        "div.card__in",
+        "div.sf__cols"
+      ]
+    },
+    {
+      "value": "14px",
+      "count": 12,
+      "examples": [
+        "div.app"
+      ]
+    },
+    {
+      "value": "4.10368px",
+      "count": 12,
+      "examples": [
+        "span"
+      ]
+    },
+    {
+      "value": "16px",
+      "count": 10,
+      "examples": [
+        "h3",
+        "div#ck",
+        "button"
+      ]
+    },
+    {
+      "value": "48px",
+      "count": 8,
+      "examples": [
+        "div.card__in"
+      ]
+    },
+    {
+      "value": "52px",
+      "count": 8,
+      "examples": [
+        "div.card__in"
+      ]
+    },
+    {
+      "value": "22px",
+      "count": 8,
+      "examples": [
+        "div.app",
+        "p.sub"
+      ]
+    },
+    {
+      "value": "88px",
+      "count": 6,
+      "examples": [
+        "div.rn__in",
+        "main.wrap",
+        "div.sf__in"
+      ]
+    },
+    {
+      "value": "24px",
+      "count": 6,
+      "examples": [
+        "div.rn__in",
+        "main.wrap",
+        "div.sf__cols"
+      ]
+    },
+    {
+      "value": "28px",
+      "count": 6,
+      "examples": [
+        "ul.tags",
+        "div.sf__in",
+        "div.sf__bot"
+      ]
+    },
+    {
+      "value": "14.4px",
+      "count": 5,
+      "examples": [
+        "div.rn__clock",
+        "div#ck"
+      ]
+    },
+    {
+      "value": "22.4px",
+      "count": 4,
+      "examples": [
+        "ul",
+        "h2#sfTitle"
+      ]
+    },
+    {
+      "value": "20px",
+      "count": 4,
+      "examples": [
+        "section.intro",
+        "h2#sfTitle"
+      ]
+    },
+    {
+      "value": "64.8px",
+      "count": 4,
+      "examples": [
+        "article.card.seen",
+        "article.card.flip"
+      ]
+    },
+    {
+      "value": "10px",
+      "count": 4,
+      "examples": [
+        "h2#p0",
+        "h2#p1",
+        "h2#p2"
+      ]
+    },
+    {
+      "value": "26px",
+      "count": 4,
+      "examples": [
+        "p.desc"
+      ]
+    },
+    {
+      "value": "6px",
+      "count": 4,
+      "examples": [
+        "div.stage"
+      ]
+    },
+    {
+      "value": "34px",
+      "count": 4,
+      "examples": [
+        "div.stage"
+      ]
+    },
+    {
+      "value": "33.7088px",
+      "count": 4,
+      "examples": [
+        "div.sbar"
+      ]
+    },
+    {
+      "value": "24.9152px",
+      "count": 4,
+      "examples": [
+        "div.sbar"
+      ]
+    },
+    {
+      "value": "17.6px",
+      "count": 3,
+      "examples": [
+        "div.rn__in",
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "12.8px",
+      "count": 3,
+      "examples": [
+        "button.sf__btn"
+      ]
+    },
+    {
+      "value": "36px",
+      "count": 2,
+      "examples": [
+        "div.sf__cta",
+        "div.sf__cols"
+      ]
+    },
+    {
+      "value": "13.6px",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "44px",
+      "count": 1,
+      "examples": [
+        "section.intro"
+      ]
+    }
+  ],
+  "borderRadius": [
+    {
+      "value": "999px",
+      "count": 21,
+      "examples": [
+        "a.backd.show",
+        "div.rn__clock",
+        "li"
+      ]
+    },
+    {
+      "value": "2px",
+      "count": 16,
+      "examples": [
+        "i.phone__btn.l",
+        "i.phone__btn.r"
+      ]
+    },
+    {
+      "value": "28px",
+      "count": 8,
+      "examples": [
+        "article.card.seen",
+        "div.card__dim",
+        "article.card.flip"
+      ]
+    },
+    {
+      "value": "13px",
+      "count": 4,
+      "examples": [
+        "img"
+      ]
+    },
+    {
+      "value": "53.76px",
+      "count": 4,
+      "examples": [
+        "div.phone__body"
+      ]
+    },
+    {
+      "value": "49.92px",
+      "count": 4,
+      "examples": [
+        "div.phone__screen.vid"
+      ]
+    },
+    {
+      "value": "40.32px",
+      "count": 4,
+      "examples": [
+        "video"
+      ]
+    },
+    {
+      "value": "50%",
+      "count": 2,
+      "examples": [
+        "i",
+        "b"
+      ]
+    },
+    {
+      "value": "32px 32px 0px 0px",
+      "count": 1,
+      "examples": [
+        "footer#contact-footer"
+      ]
+    },
+    {
+      "value": "20px",
+      "count": 1,
+      "examples": [
+        "div#ck"
+      ]
+    }
+  ],
+  "shadows": [
+    {
+      "value": "rgba(255, 255, 255, 0.6) 0px -1px 0px 0px inset, rgba(26, 24, 24, 0.35) 0px 30px 60px -30px, rgba(26, 24, 24, 0.25) 0px -12px 40px -24px",
+      "count": 4,
+      "examples": [
+        "article.card.seen",
+        "article.card.flip"
+      ]
+    },
+    {
+      "value": "rgba(26, 24, 24, 0.5) 0px 8px 18px -10px, rgba(26, 24, 24, 0.06) 0px 0px 0px 1px",
+      "count": 4,
+      "examples": [
+        "img"
+      ]
+    },
+    {
+      "value": "rgba(255, 255, 255, 0.35) 0px 0px 0px 1px inset, rgba(26, 24, 24, 0.55) 0px 50px 80px -40px, rgba(26, 24, 24, 0.35) 0px 18px 30px -18px",
+      "count": 4,
+      "examples": [
+        "div.phone__body"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.45) 0px 12px 30px -12px, rgba(255, 255, 255, 0.08) 0px 0px 0px 1px",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "rgba(143, 191, 122, 0.004) 0px 0px 0px 8.74644px",
+      "count": 1,
+      "examples": [
+        "i"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.55) 0px 18px 40px -16px, rgba(232, 228, 224, 0.12) 0px 0px 0px 1px",
+      "count": 1,
+      "examples": [
+        "div#ck"
+      ]
+    }
+  ],
+  "easings": [
+    {
+      "value": "ease, cubic-bezier(0.16, 1, 0.3, 1)",
+      "count": 28,
+      "examples": [
+        "div.app",
+        "h2#p0",
+        "p.sub"
+      ]
+    },
+    {
+      "value": "ease",
+      "count": 16,
+      "examples": [
+        "div.rn__in",
+        "button",
+        "a"
+      ]
+    },
+    {
+      "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+      "count": 7,
+      "examples": [
+        "svg",
+        "div.phone",
+        "button.sf__btn"
+      ]
+    },
+    {
+      "value": "ease, ease",
+      "count": 1,
+      "examples": [
+        "header#rn"
+      ]
+    },
+    {
+      "value": "ease, cubic-bezier(0.16, 1, 0.3, 1), ease, ease",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "ease-out",
+      "count": 1,
+      "examples": [
+        "i"
+      ]
+    }
+  ],
+  "durations": [
+    {
+      "value": "0.8s, 1s",
+      "count": 28,
+      "examples": [
+        "div.app",
+        "h2#p0",
+        "p.sub"
+      ]
+    },
+    {
+      "value": "0.2s",
+      "count": 15,
+      "examples": [
+        "button",
+        "a"
+      ]
+    },
+    {
+      "value": "0.35s",
+      "count": 4,
+      "examples": [
+        "div.rn__in",
+        "svg",
+        "button.sf__btn"
+      ]
+    },
+    {
+      "value": "1.2s",
+      "count": 4,
+      "examples": [
+        "div.phone"
+      ]
+    },
+    {
+      "value": "0.35s, 0.35s",
+      "count": 1,
+      "examples": [
+        "header#rn"
+      ]
+    },
+    {
+      "value": "0.35s, 0.45s, 0.25s, 0.25s",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "2.2s",
+      "count": 1,
+      "examples": [
+        "i"
+      ]
+    }
+  ],
+  "zIndices": [
+    {
+      "value": "2",
+      "count": 2,
+      "examples": [
+        "div.sfw",
+        "footer#contact-footer"
+      ]
+    },
+    {
+      "value": "40",
+      "count": 1,
+      "examples": [
+        "header#rn"
+      ]
+    },
+    {
+      "value": "60",
+      "count": 1,
+      "examples": [
+        "a.backd.show"
+      ]
+    },
+    {
+      "value": "1",
+      "count": 1,
+      "examples": [
+        "div.sf__in"
+      ]
+    },
+    {
+      "value": "90",
+      "count": 1,
+      "examples": [
+        "div#ck"
+      ]
+    }
+  ],
+  "breakpoints": [
+    "359.98px",
+    "539.98px",
+    "767.98px",
+    "768px",
+    "899.98px",
+    "900px",
+    "1024px",
+    "1199.98px",
+    "1200px"
+  ],
+  "stats": {
+    "elementsSampled": 253,
+    "elementsTotal": 320
+  }
+}

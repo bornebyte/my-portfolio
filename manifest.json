@@ -1,0 +1,388 @@
+{
+  "source": "https://theBornebytethakor.com/",
+  "capturedAt": "2026-11-01T16:39:44.815Z",
+  "summary": {
+    "domElements": 623,
+    "imagesFound": 5,
+    "animationsDetected": 0,
+    "keyframesFound": 5,
+    "scrollTriggersFound": 0,
+    "mediaFound": 0,
+    "technologiesDetected": [
+      "Animation: lenis",
+      "3D: custom-webgl",
+      "Netlify",
+      "Canvas 2D animation"
+    ],
+    "estimatedLoadTimeMs": 40550,
+    "totalArtefacts": 74,
+    "networkRequests": 79,
+    "networkBytes": 2357812,
+    "apiCallsFound": 0,
+    "assetsFound": 62,
+    "designTokensFound": 163,
+    "fontsFound": 2,
+    "cssAnimationsFound": 10,
+    "sourceMapsFound": 0,
+    "keyframeRulesFound": 5,
+    "videosFound": 0,
+    "ocrWordsFound": 63,
+    "textOnlyInPixels": 1,
+    "viewportsMeasured": 4,
+    "responsiveChanges": 253,
+    "interactionStates": 2,
+    "motionTechDetected": 1,
+    "webSocketsFound": 0,
+    "graphqlOperations": 0,
+    "cssUsedPercent": 61,
+    "scrollMotionTracks": 31,
+    "sceneMeshesExported": 0,
+    "gpuTexturesRecovered": 0,
+    "pageTransitionKind": "client-side-swap"
+  },
+  "full": true,
+  "recoveredSourceFiles": 0,
+  "styleRecovery": {
+    "ghostStyleTags": 0,
+    "ghostStyleBytes": 0,
+    "adoptedSheets": 0,
+    "adoptedBytes": 0,
+    "shadowRoots": 0,
+    "shadowBytes": 0,
+    "blockedSheets": 0,
+    "declarativeShadow": false
+  },
+  "assets": {
+    "downloaded": [
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/20.webp",
+        "path": "assets/images/cee2a604e1-20.webp",
+        "bytes": 189140
+      },
+      {
+        "url": "https://theBornebytethakor.com/card/plate.webp",
+        "path": "assets/images/0a478980cc-plate.webp",
+        "bytes": 148078
+      },
+      {
+        "url": "https://theBornebytethakor.com/web-developer/1-zerodha.webp",
+        "path": "assets/images/6388140fc5-1-zerodha.webp",
+        "bytes": 119614
+      },
+      {
+        "url": "https://theBornebytethakor.com/card/back.webp",
+        "path": "assets/images/183b31d617-back.webp",
+        "bytes": 94100
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/11.webp",
+        "path": "assets/images/5ce80046e5-11.webp",
+        "bytes": 90874
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/13.webp",
+        "path": "assets/images/62e8368ef0-13.webp",
+        "bytes": 72278
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-16.webp",
+        "path": "assets/images/91ba76767e-qod-16.webp",
+        "bytes": 57408
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/06.webp",
+        "path": "assets/images/e9cab15e6c-06.webp",
+        "bytes": 58490
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/03.webp",
+        "path": "assets/images/cc4283bc03-03.webp",
+        "bytes": 53120
+      },
+      {
+        "url": "https://theBornebytethakor.com/app-developer/app-brick.webp",
+        "path": "assets/images/5b0830eef6-app-brick.webp",
+        "bytes": 49104
+      },
+      {
+        "url": "https://theBornebytethakor.com/ui-ux-designer/ux-1.webp",
+        "path": "assets/images/368a9b8005-ux-1.webp",
+        "bytes": 48636
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-1.webp",
+        "path": "assets/images/4c49a63f8c-qod-1.webp",
+        "bytes": 44584
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/22.webp",
+        "path": "assets/images/26008e5b36-22.webp",
+        "bytes": 46198
+      },
+      {
+        "url": "https://theBornebytethakor.com/card/win_sub.webp",
+        "path": "assets/images/970419499e-win_sub.webp",
+        "bytes": 41994
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/08.webp",
+        "path": "assets/images/63df2df0c1-08.webp",
+        "bytes": 40448
+      },
+      {
+        "url": "https://theBornebytethakor.com/ui-ux-designer/ux-3.webp",
+        "path": "assets/images/5dba7a49f0-ux-3.webp",
+        "bytes": 40204
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-left.webp",
+        "path": "assets/images/ab7342ae90-qod-left.webp",
+        "bytes": 39574
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-32.webp",
+        "path": "assets/images/9ed342bc4d-qod-32.webp",
+        "bytes": 37404
+      },
+      {
+        "url": "https://theBornebytethakor.com/fonts/onest-latin.woff2",
+        "path": "assets/fonts/4db55ed39c-onest-latin.woff2",
+        "bytes": 33760
+      },
+      {
+        "url": "https://theBornebytethakor.com/ui-ux-designer/ux-2.webp",
+        "path": "assets/images/cb4b31dc0c-ux-2.webp",
+        "bytes": 33954
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/17.webp",
+        "path": "assets/images/8468a8339f-17.webp",
+        "bytes": 33708
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/15.webp",
+        "path": "assets/images/515bdc75ac-15.webp",
+        "bytes": 28282
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-26.webp",
+        "path": "assets/images/3a275118ce-qod-26.webp",
+        "bytes": 30478
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-17.webp",
+        "path": "assets/images/7e71002b7a-qod-17.webp",
+        "bytes": 29286
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-31.webp",
+        "path": "assets/images/f247045c56-qod-31.webp",
+        "bytes": 28646
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-center.webp",
+        "path": "assets/images/2e191908c7-qod-center.webp",
+        "bytes": 27334
+      },
+      {
+        "url": "https://theBornebytethakor.com/app-developer/app-expense.webp",
+        "path": "assets/images/3bab4de2cf-app-expense.webp",
+        "bytes": 24978
+      },
+      {
+        "url": "https://theBornebytethakor.com/web-developer/project-2.webp",
+        "path": "assets/images/9192857dfc-project-2.webp",
+        "bytes": 24804
+      },
+      {
+        "url": "https://theBornebytethakor.com/ui-ux-designer/ux-cliq.webp",
+        "path": "assets/images/fe6f1ba9d6-ux-cliq.webp",
+        "bytes": 24202
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/qod-27.webp",
+        "path": "assets/images/41a5823ee3-qod-27.webp",
+        "bytes": 23642
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/12.webp",
+        "path": "assets/images/23e10531fc-12.webp",
+        "bytes": 25454
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/18.webp",
+        "path": "assets/images/f7f24820e1-18.webp",
+        "bytes": 24490
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/10.webp",
+        "path": "assets/images/f8bac08a5e-10.webp",
+        "bytes": 20036
+      },
+      {
+        "url": "https://theBornebytethakor.com/app-developer/app-vault.webp",
+        "path": "assets/images/96627dd6db-app-vault.webp",
+        "bytes": 19056
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/07.webp",
+        "path": "assets/images/c3f6649f95-07.webp",
+        "bytes": 18212
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/21.webp",
+        "path": "assets/images/7ea482d718-21.webp",
+        "bytes": 15028
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/19.webp",
+        "path": "assets/images/9497f3119b-19.webp",
+        "bytes": 14676
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/25.webp",
+        "path": "assets/images/2c5d75919f-25.webp",
+        "bytes": 15160
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/p/14.webp",
+        "path": "assets/images/f8e525dc22-14.webp",
+        "bytes": 11262
+      },
+      {
+        "url": "https://theBornebytethakor.com/app-developer/icon-brick.webp",
+        "path": "assets/images/632f05aa89-icon-brick.webp",
+        "bytes": 8998
+      },
+      {
+        "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+        "path": "assets/js/d22aba5433-hud.js",
+        "bytes": 35855
+      },
+      {
+        "url": "https://theBornebytethakor.com/card/win_bg.webp",
+        "path": "assets/images/4c7752569d-win_bg.webp",
+        "bytes": 9162
+      },
+      {
+        "url": "https://theBornebytethakor.com/web-developer/project-4.webp",
+        "path": "assets/images/b32a0bac2e-project-4.webp",
+        "bytes": 8972
+      },
+      {
+        "url": "https://theBornebytethakor.com/icon-192.png",
+        "path": "assets/images/1fb19b3185-icon-192.png",
+        "bytes": 7744
+      },
+      {
+        "url": "https://theBornebytethakor.com/vendor/lenis.min.mjs",
+        "path": "assets/js/c5b02e1f1e-lenis.min.js",
+        "bytes": 18314
+      },
+      {
+        "url": "https://theBornebytethakor.com/app-developer/app-dice.webp",
+        "path": "assets/images/ab419f6a4c-app-dice.webp",
+        "bytes": 4726
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/photos.js",
+        "path": "assets/js/a3121cbf8e-photos.js",
+        "bytes": 8689
+      },
+      {
+        "url": "https://theBornebytethakor.com/app-developer/icon-vault.webp",
+        "path": "assets/images/0c8fa292b1-icon-vault.webp",
+        "bytes": 2572
+      },
+      {
+        "url": "https://theBornebytethakor.com/app-developer/icon-expense.webp",
+        "path": "assets/images/42f632f617-icon-expense.webp",
+        "bytes": 2340
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/npm/spectorjs@0.9.30/dist/spector.bundle.js",
+        "path": "assets/js/102b4059d0-spector.bundle.js",
+        "bytes": 682744
+      },
+      {
+        "url": "https://theBornebytethakor.com/",
+        "path": "assets/other/7b48714177-asset.html",
+        "bytes": 429498
+      },
+      {
+        "url": "https://theBornebytethakor.com/favicon.ico",
+        "path": "assets/images/6bd58decad-favicon.ico",
+        "bytes": 4037
+      },
+      {
+        "url": "https://theBornebytethakor.com/apple-touch-icon.png",
+        "path": "assets/images/d5e0e4f20c-apple-touch-icon.png",
+        "bytes": 7138
+      },
+      {
+        "url": "https://theBornebytethakor.com/Traveller/?embed",
+        "path": "assets/other/53239b1798-asset.html",
+        "bytes": 39088
+      },
+      {
+        "url": "https://theBornebytethakor.com/web-developer/?embed",
+        "path": "assets/other/306623c923-asset.html",
+        "bytes": 69163
+      },
+      {
+        "url": "https://theBornebytethakor.com/app-developer/?embed",
+        "path": "assets/other/3d2fc367c8-asset.html",
+        "bytes": 75666
+      },
+      {
+        "url": "https://theBornebytethakor.com/ui-ux-designer/?embed",
+        "path": "assets/other/173abe1736-asset.html",
+        "bytes": 65853
+      },
+      {
+        "url": "https://theBornebytethakor.com/graphic-designer/?embed",
+        "path": "assets/other/0f324ed715-asset.html",
+        "bytes": 81778
+      },
+      {
+        "url": "https://theBornebytethakor.com/fonts/onest-latin-ext.woff2",
+        "path": "assets/fonts/bf623844de-onest-latin-ext.woff2",
+        "bytes": 28452
+      },
+      {
+        "url": "https://theBornebytethakor.com/card/body.webp",
+        "path": "assets/images/84a56d1543-body.webp",
+        "bytes": 566
+      },
+      {
+        "url": "https://theBornebytethakor.com/card/sheen.webp",
+        "path": "assets/images/fe2619bb4f-sheen.webp",
+        "bytes": 21098
+      },
+      {
+        "url": "https://theBornebytethakor.com/%23w",
+        "path": "assets/other/1387edc5d4-_23w.html",
+        "bytes": 429498
+      }
+    ],
+    "skipped": [],
+    "fromPageLoad": 49,
+    "refetched": 13
+  },
+  "pacing": [
+    {
+      "origin": "theBornebytethakor.com",
+      "provider": "netlify",
+      "requestsPerSecond": 6,
+      "requests": 12,
+      "limited": 0
+    },
+    {
+      "origin": "cdn.jsdelivr.net",
+      "provider": "cloudflare",
+      "requestsPerSecond": 8,
+      "requests": 1,
+      "limited": 0
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "stops": 12,
+  "documentHeight": 4747,
+  "viewportHeight": 1080,
+  "tracks": [
+    {
+      "selector": "main.wrap > section.stack > article.card.seen",
+      "property": "transform",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "matrix(0.94, 0, 0, 0.94, 0, 0)"
+        },
+        {
+          "scrollY": 333,
+          "value": "matrix(0.9986, 0, 0, 0.9986, 0, 0)"
+        },
+        {
+          "scrollY": 667,
+          "value": "matrix(0.9736, 0, 0, 0.9736, 0, 0)"
+        },
+        {
+          "scrollY": 1000,
+          "value": "matrix(0.9487, 0, 0, 0.9487, 0, 0)"
+        },
+        {
+          "scrollY": 1333,
+          "value": "matrix(0.941, 0, 0, 0.941, 0, 0)"
+        },
+        {
+          "scrollY": 3000,
+          "value": "matrix(0.94, 0, 0, 0.94, 0, 0)"
+        }
+      ],
+      "from": "matrix(0.94, 0, 0, 0.94, 0, 0)",
+      "to": "matrix(0.94, 0, 0, 0.94, 0, 0)",
+      "fromScrollY": 3667,
+      "toScrollY": 3000,
+      "startFraction": 1,
+      "endFraction": 0.818,
+      "returnsToStart": true,
+      "distinctValues": 5,
+      "kind": "scroll"
+    },
+    {
+      "selector": "main.wrap > section.stack > article.card.flip",
+      "property": "transform",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "matrix(0.94, 0, 0, 0.94, 0, 0)"
+        },
+        {
+          "scrollY": 333,
+          "value": "none"
+        },
+        {
+          "scrollY": 1333,
+          "value": "matrix(0.9875, 0, 0, 0.9875, 0, 0)"
+        },
+        {
+          "scrollY": 1667,
+          "value": "matrix(0.9625, 0, 0, 0.9625, 0, 0)"
+        },
+        {
+          "scrollY": 2000,
+          "value": "matrix(0.941, 0, 0, 0.941, 0, 0)"
+        },
+        {
+          "scrollY": 3000,
+          "value": "matrix(0.94, 0, 0, 0.94, 0, 0)"
+        }
+      ],
+      "from": "matrix(0.94, 0, 0, 0.94, 0, 0)",
+      "to": "matrix(0.94, 0, 0, 0.94, 0, 0)",
+      "fromScrollY": 3667,
+      "toScrollY": 3000,
+      "startFraction": 1,
+      "endFraction": 0.818,
+      "returnsToStart": true,
+      "distinctValues": 5,
+      "kind": "scroll"
+    },
+    {
+      "selector": "section.stack > article.card.seen > div.card__dim",
+      "property": "opacity",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "0.28"
+        },
+        {
+          "scrollY": 333,
+          "value": "0.006"
+        },
+        {
+          "scrollY": 667,
+          "value": "0.123"
+        },
+        {
+          "scrollY": 1000,
+          "value": "0.24"
+        },
+        {
+          "scrollY": 1333,
+          "value": "0.275"
+        },
+        {
+          "scrollY": 3000,
+          "value": "0.28"
+        }
+      ],
+      "from": "0.28",
+      "to": "0.28",
+      "fromScrollY": 3667,
+      "toScrollY": 3000,
+      "startFraction": 1,
+      "endFraction": 0.818,
+      "returnsToStart": true,
+      "distinctValues": 5,
+      "kind": "scroll"
+    },
+    {
+      "selector": "section.stack > article.card.flip > div.card__dim",
+      "property": "opacity",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "0.28"
+        },
+        {
+          "scrollY": 333,
+          "value": "0"
+        },
+        {
+          "scrollY": 1333,
+          "value": "0.058"
+        },
+        {
+          "scrollY": 1667,
+          "value": "0.175"
+        },
+        {
+          "scrollY": 2000,
+          "value": "0.275"
+        },
+        {
+          "scrollY": 3000,
+          "value": "0.28"
+        }
+      ],
+      "from": "0.28",
+      "to": "0.28",
+      "fromScrollY": 3667,
+      "toScrollY": 3000,
+      "startFraction": 1,
+      "endFraction": 0.818,
+      "returnsToStart": true,
+      "distinctValues": 5,
+      "kind": "scroll"
+    },
+    {
+      "selector": "main.wrap > section.stack > article.card.seen",
+      "property": "transform",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "matrix(0.94, 0, 0, 0.94, 0, 0)"
+        },
+        {
+          "scrollY": 333,
+          "value": "none"
+        },
+        {
+          "scrollY": 2334,
+          "value": "matrix(0.9764, 0, 0, 0.9764, 0, 0)"
+        },
+        {
+          "scrollY": 2667,
+          "value": "matrix(0.9514, 0, 0, 0.9514, 0, 0)"
+        },
+        {
+          "scrollY": 3000,
+          "value": "matrix(0.94, 0, 0, 0.94, 0, 0)"
+        }
+      ],
+      "from": "matrix(0.94, 0, 0, 0.94, 0, 0)",
+      "to": "matrix(0.94, 0, 0, 0.94, 0, 0)",
+      "fromScrollY": 3667,
+      "toScrollY": 3000,
+      "startFraction": 1,
+      "endFraction": 0.818,
+      "returnsToStart": true,
+      "distinctValues": 4,
+      "kind": "scroll"
+    },
+    {
+      "selector": "section.stack > article.card.seen > div.card__dim",
+      "property": "opacity",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "0.28"
+        },
+        {
+          "scrollY": 333,
+          "value": "0"
+        },
+        {
+          "scrollY": 2334,
+          "value": "0.11"
+        },
+        {
+          "scrollY": 2667,
+          "value": "0.227"
+        },
+        {
+          "scrollY": 3000,
+          "value": "0.28"
+        }
+      ],
+      "from": "0.28",
+      "to": "0.28",
+      "fromScrollY": 3667,
+      "toScrollY": 3000,
+      "startFraction": 1,
+      "endFraction": 0.818,
+      "returnsToStart": true,
+      "distinctValues": 4,
+      "kind": "scroll"
+    },
+    {
+      "selector": "html > body > button.totop",
+      "property": "opacity",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "0"
+        },
+        {
+          "scrollY": 1000,
+          "value": "0.924818"
+        },
+        {
+          "scrollY": 1333,
+          "value": "1"
+        },
+        {
+          "scrollY": 3667,
+          "value": "0.102406"
+        }
+      ],
+      "from": "0",
+      "to": "0.102406",
+      "fromScrollY": 3667,
+      "toScrollY": 3667,
+      "startFraction": 1,
+      "endFraction": 1,
+      "returnsToStart": false,
+      "distinctValues": 4,
+      "kind": "scroll"
+    },
+    {
+      "selector": "html > body > button.totop",
+      "property": "transform",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "matrix(0.9, 0, 0, 0.9, 0, 12)"
+        },
+        {
+          "scrollY": 1000,
+          "value": "matrix(0.997568, 0, 0, 0.997568, 0, 0.291797)"
+        },
+        {
+          "scrollY": 1333,
+          "value": "none"
+        },
+        {
+          "scrollY": 3667,
+          "value": "matrix(0.903268, 0, 0, 0.903268, 0, 11.6079)"
+        }
+      ],
+      "from": "matrix(0.9, 0, 0, 0.9, 0, 12)",
+      "to": "matrix(0.903268, 0, 0, 0.903268, 0, 11.6079)",
+      "fromScrollY": 3667,
+      "toScrollY": 3667,
+      "startFraction": 1,
+      "endFraction": 1,
+      "returnsToStart": false,
+      "distinctValues": 4,
+      "kind": "scroll"
+    },
+    {
+      "selector": "html > body > button.totop",
+      "property": "visibility",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "hidden"
+        },
+        {
+          "scrollY": 1000,
+          "value": "visible"
+        }
+      ],
+      "from": "hidden",
+      "to": "visible",
+      "fromScrollY": 3667,
+      "toScrollY": 1000,
+      "startFraction": 1,
+      "endFraction": 0.273,
+      "returnsToStart": false,
+      "distinctValues": 2,
+      "kind": "scroll"
+    },
+    {
+      "selector": "body > button.totop > span.lbl",
+      "property": "visibility",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "hidden"
+        },
+        {
+          "scrollY": 1000,
+          "value": "visible"
+        }
+      ],
+      "from": "hidden",
+      "to": "visible",
+      "fromScrollY": 3667,
+      "toScrollY": 1000,
+      "startFraction": 1,
+      "endFraction": 0.273,
+      "returnsToStart": false,
+      "distinctValues": 2,
+      "kind": "scroll"
+    },
+    {
+      "selector": "button.totop > svg > circle",
+      "property": "visibility",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "hidden"
+        },
+        {
+          "scrollY": 1000,
+          "value": "visible"
+        }
+      ],
+      "from": "hidden",
+      "to": "visible",
+      "fromScrollY": 3667,
+      "toScrollY": 1000,
+      "startFraction": 1,
+      "endFraction": 0.273,
+      "returnsToStart": false,
+      "distinctValues": 2,
+      "kind": "scroll"
+    },
+    {
+      "selector": "body > button.totop > svg",
+      "property": "visibility",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "hidden"
+        },
+        {
+          "scrollY": 1000,
+          "value": "visible"
+        }
+      ],
+      "from": "hidden",
+      "to": "visible",
+      "fromScrollY": 3667,
+      "toScrollY": 1000,
+      "startFraction": 1,
+      "endFraction": 0.273,
+      "returnsToStart": false,
+      "distinctValues": 2,
+      "kind": "scroll"
+    },
+    {
+      "selector": "body > button.totop > svg",
+      "property": "visibility",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "hidden"
+        },
+        {
+          "scrollY": 1000,
+          "value": "visible"
+        }
+      ],
+      "from": "hidden",
+      "to": "visible",
+      "fromScrollY": 3667,
+      "toScrollY": 1000,
+      "startFraction": 1,
+      "endFraction": 0.273,
+      "returnsToStart": false,
+      "distinctValues": 2,
+      "kind": "scroll"
+    },
+    {
+      "selector": "button.totop > svg > path",
+      "property": "visibility",
+      "samples": [
+        {
+          "scrollY": 3667,
+          "value": "hidden"
+        },
+        {
+          "scrollY": 1000,
+          "value": "visible"
+        }
+      ],
+      "from": "hidden",
+      "to": "visible",
+      "fromScrollY": 3667,
+      "toScrollY": 1000,
+      "startFraction": 1,
+      "endFraction": 0.273,
+      "returnsToStart": false,
+      "distinctValues": 2,
+      "kind": "scroll"
+    }
+  ],
+  "frames": [
+    {
+      "scrollY": 3667,
+      "fraction": 1,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-00.png"
+    },
+    {
+      "scrollY": 333,
+      "fraction": 0.091,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-01.png"
+    },
+    {
+      "scrollY": 667,
+      "fraction": 0.182,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-02.png"
+    },
+    {
+      "scrollY": 1000,
+      "fraction": 0.273,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-03.png"
+    },
+    {
+      "scrollY": 1333,
+      "fraction": 0.364,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-04.png"
+    },
+    {
+      "scrollY": 1667,
+      "fraction": 0.455,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-05.png"
+    },
+    {
+      "scrollY": 2000,
+      "fraction": 0.545,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-06.png"
+    },
+    {
+      "scrollY": 2334,
+      "fraction": 0.636,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-07.png"
+    },
+    {
+      "scrollY": 2667,
+      "fraction": 0.727,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-08.png"
+    },
+    {
+      "scrollY": 3000,
+      "fraction": 0.818,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-09.png"
+    },
+    {
+      "scrollY": 3334,
+      "fraction": 0.909,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-10.png"
+    },
+    {
+      "scrollY": 3667,
+      "fraction": 1,
+      "path": "/captures/extract-1793620499347-z7iqufkk-motion-11.png"
+    }
+  ],
+  "counts": {
+    "elementsSampled": 215,
+    "scrollAnimated": 14,
+    "timeAnimated": 0,
+    "cssScrollDriven": 0
+  },
+  "scrollHijacked": false,
+  "wheelDriven": false
+}

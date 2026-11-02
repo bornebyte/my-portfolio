@@ -1,0 +1,195 @@
+{
+  "documentHeaders": {
+    "accept-ranges": "bytes",
+    "age": "0",
+    "cache-control": "public,max-age=0,must-revalidate",
+    "cache-status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "content-encoding": "br",
+    "content-security-policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval' 'sha256-+/EV9+z0Z42mObtDesrjNRcphpBtWnoT/IkFUj8WKjI=' 'sha256-3PbgTEy71OXphRdEdc4IVygaMu+FPmLvOy551TYI4WI=' 'sha256-5PJgwNZvchjjwItH+/YtTr1sepvDTV204GoXqkgGt5w=' 'sha256-5zVQ9ldA3d/b26EdfN4SNGLvkjDXn8VmrK+jiinyECE=' 'sha256-6noV1g7esgnY25C0uHUNmKNMF6OQUpByQORlbHtShtA=' 'sha256-7GLr5TMdaZfRxdNfbAaBkxZVYztWnmy0GuvSWodYqvk=' 'sha256-AGlVrCpZKsx/ZqHffDY5H1ArXCWlH2wuw+yg6hdGBs8=' 'sha256-DMfv4ofgj36G1KwPYPmvxLyjp9+Q7kHUVoPTUOSdX/0=' 'sha256-Eij0UBg6fPu5DjcGNUnqI/wdHIqsXvG+wnpE5uZ3gqw=' 'sha256-H+7vMl4vub/EGfQHb087fjIfCexlev+bmy72N0t1LNU=' 'sha256-IlOCuN+SUcr+jTO96YXk05EeP316Bse0pxLuHaAmXWc=' 'sha256-L60oZ78oTyfAOciSpu58bw041II57vF5oAvgehL34KY=' 'sha256-Ms3eIyQGkN8efERBuGL4WiZTZx3j4H2AHDB3T83uxkg=' 'sha256-TaObh9/qR/aFgVhTeDpWm+X8gUnt9JEMLpdbtoofiao=' 'sha256-WUOPd1Bhf4T3W1PEYVvcaRy2INTOLhz9NXE6y376RIk=' 'sha256-Y84lRiM+xrCz/htLW54C6lXQYJTFLNFWkJtISjFLSy4=' 'sha256-ZabMCQgZ3Bfi/NRxXuU++vvkA0BtDIyFGKOPywOrTVI=' 'sha256-cf487QPQhY/Ko/phExG/TGk79PjoqP919kqzxT7Yy+I=' 'sha256-elGq6T4+2Eb00PgsQV16FZgW7FxTkxYvNj63o4QosGQ=' 'sha256-fibvZ2QQImtpaoyOdCilX6fOBI0k7gOTFE+c4i88vwg=' 'sha256-fueBRhONRAFnCFYYFZzs2qCIcFENO42T1z85pXTd8nY=' 'sha256-gcHDbtILXuwhkWyNo6nveFnHVNNelzpyuzdNO9FhGqo=' 'sha256-iVubgVw5X/shN3GCyY/wvgPHfczLT6rNbwLa/7zIhMk=' 'sha256-ocD5a5EsizsBuxEGdvY9/wsbGLZiulDubXhMMNuohEg=' 'sha256-pWZKL6pDA/N65V+H/D2dd9HNcwFLrDy0HDpTvJyO1/0=' 'sha256-ssTg10XJ30irNvD4RDytQj+iiVviYKjdZ0a/6qxws58=' 'sha256-vDkQjiT00+MbHrOWbsBSpRjLoy+0qyEsl1SDwo0ynwc=' 'sha256-wR7I3apxTRjG5HlyR2+dnWGk7wAbpadptocA00+Qs2s=' 'sha256-wVMQHyImlVXncZhZfnaYwemFheOsRDPsdkDeql+QgtA=' 'sha256-xOqTtmWpAcE18v/siXCwb2ys7PMUX23mZ88ugXddMYg=' 'sha256-xmdYjITz3nIJLhUwIQLtI88prxqtUzXeJ7ldvcxghWo=' 'sha256-yW6eVBrpByImeRfqtZClUoiztf5XVTBFUhqsI5g6kKk=' 'sha256-zoC7g+M9mJo5Aj28pHEte90H9y6JqyVQE9677yAkXVg=' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://*.google-analytics.com https://*.googletagmanager.com; media-src 'self'; font-src 'self' data:; connect-src 'self' data: https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; frame-src 'self'; worker-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "cross-origin-opener-policy": "same-origin",
+    "date": "Mon, 02 Nov 2026 11:51:52 GMT",
+    "etag": "\"d195d249f9cf13aca9a43f663f753e3f-ssl-df\"",
+    "permissions-policy": "accelerometer=(self), autoplay=(self), camera=(), display-capture=(), fullscreen=(self), geolocation=(), gyroscope=(self), magnetometer=(), microphone=(), midi=(), payment=(), publickey-credentials-get=(), usb=(), interest-cohort=(), browsing-topics=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "Netlify",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-nf-request-id": "01M6E1M0SC1NN9RR85SR5X3BMK",
+    "x-permitted-cross-domain-policies": "none"
+  },
+  "documentStatus": 200,
+  "totalRequests": 14,
+  "totalBytes": 1816521,
+  "byType": {
+    "image": {
+      "count": 7,
+      "bytes": 656396
+    },
+    "document": {
+      "count": 1,
+      "bytes": 20619
+    },
+    "script": {
+      "count": 1,
+      "bytes": 10936
+    },
+    "font": {
+      "count": 1,
+      "bytes": 33923
+    },
+    "other": {
+      "count": 2,
+      "bytes": 21135
+    },
+    "media": {
+      "count": 2,
+      "bytes": 1073512
+    }
+  },
+  "assets": [
+    {
+      "url": "https://therishithakor.com/web-developer/project-2.mp4",
+      "method": "GET",
+      "resourceType": "media",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "sizeBytes": 1073512,
+      "fromCache": false,
+      "durationMs": 153,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/2-tax-pnl.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 163322,
+      "fromCache": false,
+      "durationMs": 169,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/3-capital-gains.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 147335,
+      "fromCache": false,
+      "durationMs": 153,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/1-zerodha.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 119828,
+      "fromCache": false,
+      "durationMs": 34,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/5-sandbox-cost.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 100596,
+      "fromCache": false,
+      "durationMs": 136,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/4-quicko-cg.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 88937,
+      "fromCache": false,
+      "durationMs": 180,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/fonts/onest-latin.woff2",
+      "method": "GET",
+      "resourceType": "font",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "sizeBytes": 33923,
+      "fromCache": false,
+      "durationMs": 62,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/project-2.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 24966,
+      "fromCache": false,
+      "durationMs": 29,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/web-developer/project-4.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 11412,
+      "fromCache": false,
+      "durationMs": 60,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10966,
+      "fromCache": false,
+      "durationMs": 12,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10936,
+      "fromCache": false,
+      "durationMs": 30,
+      "failed": false
+    },
+    {
+      "url": "https://therishithakor.com/icon-192.png",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "image/png",
+      "sizeBytes": 10169,
+      "fromCache": false,
+      "durationMs": 40,
+      "failed": false
+    }
+  ],
+  "apiCalls": [],
+  "thirdPartyHosts": [],
+  "sourceMapUrls": [],
+  "failedRequests": [
+    {
+      "url": "https://therishithakor.com/web-developer/project-4.mp4",
+      "resourceType": "media"
+    }
+  ]
+}

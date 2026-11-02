@@ -1,0 +1,202 @@
+{
+  "css": {
+    "animations": [
+      {
+        "kind": "css-animation",
+        "name": "out",
+        "target": "div.glow",
+        "durationMs": 800,
+        "delayMs": 150,
+        "iterations": 1,
+        "direction": "normal",
+        "fill": "forwards",
+        "easing": "ease",
+        "playState": "finished",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "replace",
+            "visibility": "visible",
+            "opacity": "1",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "visibility": "hidden",
+            "opacity": "0",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "kind": "css-animation",
+        "name": "sfPulse",
+        "target": "i",
+        "durationMs": 2200,
+        "delayMs": 0,
+        "iterations": "infinite",
+        "direction": "normal",
+        "fill": "none",
+        "easing": "ease-out",
+        "playState": "running",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease-out",
+            "composite": "replace",
+            "boxShadow": "rgba(143, 191, 122, 0.6) 0px 0px 0px 0px",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.7,
+            "easing": "ease-out",
+            "composite": "auto",
+            "boxShadow": "rgba(143, 191, 122, 0) 0px 0px 0px 8.8px",
+            "computedOffset": 0.7
+          },
+          {
+            "offset": 1,
+            "easing": "ease-out",
+            "composite": "auto",
+            "boxShadow": "rgba(143, 191, 122, 0) 0px 0px 0px 0px",
+            "computedOffset": 1
+          }
+        ]
+      }
+    ],
+    "declaredAnimations": [
+      {
+        "name": "out",
+        "count": 1,
+        "duration": "0.8s",
+        "delay": "0.15s",
+        "easing": "ease",
+        "iterations": "1",
+        "direction": "normal",
+        "fill": "forwards",
+        "playState": "running"
+      },
+      {
+        "name": "sfPulse",
+        "count": 1,
+        "duration": "2.2s",
+        "delay": "0s",
+        "easing": "ease-out",
+        "iterations": "infinite",
+        "direction": "normal",
+        "fill": "none",
+        "playState": "running"
+      }
+    ],
+    "keyframeRules": [
+      {
+        "name": "out",
+        "steps": [
+          {
+            "offset": "100%",
+            "declarations": {
+              "opacity": "0",
+              "visibility": "hidden"
+            }
+          }
+        ]
+      },
+      {
+        "name": "sfPulse",
+        "steps": [
+          {
+            "offset": "70%",
+            "declarations": {
+              "box-shadow": "rgba(143, 191, 122, 0) 0px 0px 0px 0.55rem"
+            }
+          },
+          {
+            "offset": "100%",
+            "declarations": {
+              "box-shadow": "rgba(143, 191, 122, 0) 0px 0px 0px 0px"
+            }
+          }
+        ]
+      },
+      {
+        "name": "skel",
+        "steps": [
+          {
+            "offset": "0%",
+            "declarations": {
+              "background-position-x": "120%",
+              "background-position-y": "0px"
+            }
+          },
+          {
+            "offset": "100%",
+            "declarations": {
+              "background-position-x": "-100%",
+              "background-position-y": "0px"
+            }
+          }
+        ]
+      }
+    ],
+    "inaccessibleSheets": [],
+    "transitionProperties": [
+      {
+        "property": "transform",
+        "count": 72
+      },
+      {
+        "property": "opacity",
+        "count": 68
+      },
+      {
+        "property": "color",
+        "count": 16
+      },
+      {
+        "property": "background",
+        "count": 5
+      },
+      {
+        "property": "box-shadow",
+        "count": 2
+      },
+      {
+        "property": "visibility",
+        "count": 2
+      },
+      {
+        "property": "padding",
+        "count": 1
+      },
+      {
+        "property": "border-color",
+        "count": 1
+      },
+      {
+        "property": "stroke-dashoffset",
+        "count": 1
+      }
+    ],
+    "counts": {
+      "cssAnimations": 2,
+      "cssTransitions": 0,
+      "scripted": 0,
+      "declared": 2
+    }
+  },
+  "gsap": {
+    "libraries": [],
+    "animationCount": 0,
+    "animations": [],
+    "keyframes": [],
+    "scrollTriggers": [],
+    "captured": [],
+    "screenshot": "/captures/extract-1793620312705-d6bs2sdf-layer2.png",
+    "timing": {
+      "durationMs": 6960
+    }
+  }
+}

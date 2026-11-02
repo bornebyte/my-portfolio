@@ -1,0 +1,19 @@
+{
+  "kind": "hard-navigation",
+  "from": "https://therishithakor.com/app-developer/",
+  "to": "https://therishithakor.com/work",
+  "linkSelector": "header#rn > div.rn__in > a.backd",
+  "linkText": "Back to the doors",
+  "durationMs": 3045,
+  "usedViewTransitionApi": false,
+  "viewTransitionNames": [
+    "root",
+    "cord",
+    "cal"
+  ],
+  "overlay": null,
+  "persisted": [],
+  "replaced": [],
+  "scrollReset": false,
+  "samples": []
+}

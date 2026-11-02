@@ -1,0 +1,792 @@
+{
+  "documentHeaders": {
+    "accept-ranges": "bytes",
+    "age": "1",
+    "cache-control": "public,max-age=0,must-revalidate",
+    "cache-status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "content-encoding": "br",
+    "content-security-policy": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval' 'sha256-+/EV9+z0Z42mObtDesrjNRcphpBtWnoT/IkFUj8WKjI=' 'sha256-3PbgTEy71OXphRdEdc4IVygaMu+FPmLvOy551TYI4WI=' 'sha256-5PJgwNZvchjjwItH+/YtTr1sepvDTV204GoXqkgGt5w=' 'sha256-5zVQ9ldA3d/b26EdfN4SNGLvkjDXn8VmrK+jiinyECE=' 'sha256-6noV1g7esgnY25C0uHUNmKNMF6OQUpByQORlbHtShtA=' 'sha256-7GLr5TMdaZfRxdNfbAaBkxZVYztWnmy0GuvSWodYqvk=' 'sha256-AGlVrCpZKsx/ZqHffDY5H1ArXCWlH2wuw+yg6hdGBs8=' 'sha256-DMfv4ofgj36G1KwPYPmvxLyjp9+Q7kHUVoPTUOSdX/0=' 'sha256-Eij0UBg6fPu5DjcGNUnqI/wdHIqsXvG+wnpE5uZ3gqw=' 'sha256-H+7vMl4vub/EGfQHb087fjIfCexlev+bmy72N0t1LNU=' 'sha256-IlOCuN+SUcr+jTO96YXk05EeP316Bse0pxLuHaAmXWc=' 'sha256-L60oZ78oTyfAOciSpu58bw041II57vF5oAvgehL34KY=' 'sha256-Ms3eIyQGkN8efERBuGL4WiZTZx3j4H2AHDB3T83uxkg=' 'sha256-TaObh9/qR/aFgVhTeDpWm+X8gUnt9JEMLpdbtoofiao=' 'sha256-WUOPd1Bhf4T3W1PEYVvcaRy2INTOLhz9NXE6y376RIk=' 'sha256-Y84lRiM+xrCz/htLW54C6lXQYJTFLNFWkJtISjFLSy4=' 'sha256-ZabMCQgZ3Bfi/NRxXuU++vvkA0BtDIyFGKOPywOrTVI=' 'sha256-cf487QPQhY/Ko/phExG/TGk79PjoqP919kqzxT7Yy+I=' 'sha256-elGq6T4+2Eb00PgsQV16FZgW7FxTkxYvNj63o4QosGQ=' 'sha256-fibvZ2QQImtpaoyOdCilX6fOBI0k7gOTFE+c4i88vwg=' 'sha256-fueBRhONRAFnCFYYFZzs2qCIcFENO42T1z85pXTd8nY=' 'sha256-gcHDbtILXuwhkWyNo6nveFnHVNNelzpyuzdNO9FhGqo=' 'sha256-iVubgVw5X/shN3GCyY/wvgPHfczLT6rNbwLa/7zIhMk=' 'sha256-ocD5a5EsizsBuxEGdvY9/wsbGLZiulDubXhMMNuohEg=' 'sha256-pWZKL6pDA/N65V+H/D2dd9HNcwFLrDy0HDpTvJyO1/0=' 'sha256-ssTg10XJ30irNvD4RDytQj+iiVviYKjdZ0a/6qxws58=' 'sha256-vDkQjiT00+MbHrOWbsBSpRjLoy+0qyEsl1SDwo0ynwc=' 'sha256-wR7I3apxTRjG5HlyR2+dnWGk7wAbpadptocA00+Qs2s=' 'sha256-wVMQHyImlVXncZhZfnaYwemFheOsRDPsdkDeql+QgtA=' 'sha256-xOqTtmWpAcE18v/siXCwb2ys7PMUX23mZ88ugXddMYg=' 'sha256-xmdYjITz3nIJLhUwIQLtI88prxqtUzXeJ7ldvcxghWo=' 'sha256-yW6eVBrpByImeRfqtZClUoiztf5XVTBFUhqsI5g6kKk=' 'sha256-zoC7g+M9mJo5Aj28pHEte90H9y6JqyVQE9677yAkXVg=' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://*.google-analytics.com https://*.googletagmanager.com; media-src 'self'; font-src 'self' data:; connect-src 'self' data: https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; frame-src 'self'; worker-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "cross-origin-opener-policy": "same-origin",
+    "date": "Sun, 01 Nov 2026 16:39:07 GMT",
+    "etag": "\"6778ca8eb9b57bce4d1ce66123be88c7-ssl-df\"",
+    "permissions-policy": "accelerometer=(self), autoplay=(self), camera=(), display-capture=(), fullscreen=(self), geolocation=(), gyroscope=(self), magnetometer=(), microphone=(), midi=(), payment=(), publickey-credentials-get=(), usb=(), interest-cohort=(), browsing-topics=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "Netlify",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-nf-request-id": "01M6BZN7YX2CHAGHBFXGZYN8BD",
+    "x-permitted-cross-domain-policies": "none"
+  },
+  "documentStatus": 200,
+  "totalRequests": 79,
+  "totalBytes": 2357812,
+  "byType": {
+    "document": {
+      "count": 6,
+      "bytes": 324415
+    },
+    "font": {
+      "count": 1,
+      "bytes": 36238
+    },
+    "script": {
+      "count": 8,
+      "bytes": 79415
+    },
+    "other": {
+      "count": 10,
+      "bytes": 96152
+    },
+    "image": {
+      "count": 44,
+      "bytes": 1821592
+    },
+    "media": {
+      "count": 10,
+      "bytes": 0
+    }
+  },
+  "assets": [
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/20.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 191668,
+      "fromCache": false,
+      "durationMs": 114,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/card/plate.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 148266,
+      "fromCache": false,
+      "durationMs": 196,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/1-zerodha.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 122106,
+      "fromCache": false,
+      "durationMs": 41,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/card/back.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 96597,
+      "fromCache": false,
+      "durationMs": 184,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/11.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 91073,
+      "fromCache": false,
+      "durationMs": 127,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/13.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 72450,
+      "fromCache": false,
+      "durationMs": 194,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-16.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 59860,
+      "fromCache": false,
+      "durationMs": 138,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/06.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 58636,
+      "fromCache": false,
+      "durationMs": 120,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/03.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 53251,
+      "fromCache": false,
+      "durationMs": 145,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/app-brick.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 49312,
+      "fromCache": false,
+      "durationMs": 200,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/ux-1.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 48768,
+      "fromCache": false,
+      "durationMs": 151,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-1.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 47018,
+      "fromCache": false,
+      "durationMs": 149,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/22.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 46352,
+      "fromCache": false,
+      "durationMs": 205,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/card/win_sub.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 42134,
+      "fromCache": false,
+      "durationMs": 124,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/08.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 40584,
+      "fromCache": false,
+      "durationMs": 197,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/ux-3.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 40390,
+      "fromCache": false,
+      "durationMs": 217,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-left.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 39710,
+      "fromCache": false,
+      "durationMs": 172,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-32.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 37574,
+      "fromCache": false,
+      "durationMs": 121,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/fonts/onest-latin.woff2",
+      "method": "GET",
+      "resourceType": "font",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "sizeBytes": 36238,
+      "fromCache": false,
+      "durationMs": 80,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/ux-2.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 34082,
+      "fromCache": false,
+      "durationMs": 200,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/17.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 33844,
+      "fromCache": false,
+      "durationMs": 168,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/15.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 30727,
+      "fromCache": false,
+      "durationMs": 188,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-26.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 30638,
+      "fromCache": false,
+      "durationMs": 129,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-17.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 29408,
+      "fromCache": false,
+      "durationMs": 184,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-31.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 28790,
+      "fromCache": false,
+      "durationMs": 163,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-center.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 27461,
+      "fromCache": false,
+      "durationMs": 191,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/app-expense.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 27366,
+      "fromCache": false,
+      "durationMs": 115,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/project-2.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 27248,
+      "fromCache": false,
+      "durationMs": 107,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/ux-cliq.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 26656,
+      "fromCache": false,
+      "durationMs": 165,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/graphic-designer/qod-27.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 26079,
+      "fromCache": false,
+      "durationMs": 155,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/12.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 25581,
+      "fromCache": false,
+      "durationMs": 171,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/18.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 24611,
+      "fromCache": false,
+      "durationMs": 184,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/10.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 20181,
+      "fromCache": false,
+      "durationMs": 174,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/app-vault.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 19179,
+      "fromCache": false,
+      "durationMs": 124,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/07.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 18325,
+      "fromCache": false,
+      "durationMs": 168,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/21.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 17463,
+      "fromCache": false,
+      "durationMs": 201,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/19.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 17113,
+      "fromCache": false,
+      "durationMs": 170,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/25.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 15273,
+      "fromCache": false,
+      "durationMs": 200,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/p/14.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 13697,
+      "fromCache": false,
+      "durationMs": 159,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/icon-brick.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 11385,
+      "fromCache": false,
+      "durationMs": 150,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10979,
+      "fromCache": false,
+      "durationMs": 99,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10972,
+      "fromCache": false,
+      "durationMs": 69,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10971,
+      "fromCache": false,
+      "durationMs": 11,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10971,
+      "fromCache": false,
+      "durationMs": 65,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10943,
+      "fromCache": false,
+      "durationMs": 17,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10943,
+      "fromCache": false,
+      "durationMs": 20,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10942,
+      "fromCache": false,
+      "durationMs": 15,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10940,
+      "fromCache": false,
+      "durationMs": 11,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10928,
+      "fromCache": false,
+      "durationMs": 45,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10765,
+      "fromCache": false,
+      "durationMs": 72,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/.netlify/scripts/hud?variant=public",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 10765,
+      "fromCache": false,
+      "durationMs": 81,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/icon-192.png",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "image/png",
+      "sizeBytes": 10174,
+      "fromCache": false,
+      "durationMs": 9,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/card/win_bg.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 9305,
+      "fromCache": false,
+      "durationMs": 153,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/project-4.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 9106,
+      "fromCache": false,
+      "durationMs": 119,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/icon-192.png",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "image/png",
+      "sizeBytes": 7879,
+      "fromCache": false,
+      "durationMs": 91,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/icon-192.png",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "image/png",
+      "sizeBytes": 7867,
+      "fromCache": false,
+      "durationMs": 9,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/icon-192.png",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "image/png",
+      "sizeBytes": 7819,
+      "fromCache": false,
+      "durationMs": 9,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/icon-192.png",
+      "method": "GET",
+      "resourceType": "other",
+      "status": 200,
+      "mimeType": "image/png",
+      "sizeBytes": 7813,
+      "fromCache": false,
+      "durationMs": 9,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/vendor/lenis.min.mjs",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 7590,
+      "fromCache": false,
+      "durationMs": 94,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/app-dice.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 7095,
+      "fromCache": false,
+      "durationMs": 179,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/Traveller/photos.js",
+      "method": "GET",
+      "resourceType": "script",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "sizeBytes": 6306,
+      "fromCache": false,
+      "durationMs": 127,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/icon-vault.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 2742,
+      "fromCache": false,
+      "durationMs": 152,
+      "failed": false
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/icon-expense.webp",
+      "method": "GET",
+      "resourceType": "image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "sizeBytes": 2488,
+      "fromCache": false,
+      "durationMs": 119,
+      "failed": false
+    }
+  ],
+  "apiCalls": [],
+  "thirdPartyHosts": [],
+  "sourceMapUrls": [],
+  "failedRequests": [
+    {
+      "url": "https://theBornebytethakor.com/app-developer/app-expense.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/app-vault.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/app-brick.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/ux-1.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/ux-3.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/ux-2.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/project-2.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/ui-ux-designer/ux-cliq.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/web-developer/project-4.mp4",
+      "resourceType": "media"
+    },
+    {
+      "url": "https://theBornebytethakor.com/app-developer/app-dice.mp4",
+      "resourceType": "media"
+    }
+  ]
+}

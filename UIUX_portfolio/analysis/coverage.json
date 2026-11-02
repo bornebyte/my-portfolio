@@ -1,0 +1,98 @@
+{
+  "totals": {
+    "cssTotalBytes": 31364,
+    "cssUsedBytes": 16693,
+    "cssUsedPercent": 53,
+    "jsTotalBytes": 58576,
+    "jsUsedBytes": 35337,
+    "jsUsedPercent": 60
+  },
+  "css": [
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 25067,
+      "usedBytes": 14559,
+      "usedPercent": 58
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    }
+  ],
+  "js": [
+    {
+      "url": "https://therishithakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20076,
+      "usedPercent": 56
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 9016,
+      "usedBytes": 7128,
+      "usedPercent": 79
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 4114,
+      "usedBytes": 3386,
+      "usedPercent": 82
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 3712,
+      "usedBytes": 1670,
+      "usedPercent": 45
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 1395,
+      "usedBytes": 1349,
+      "usedPercent": 97
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 1387,
+      "usedBytes": 120,
+      "usedPercent": 9
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 1136,
+      "usedBytes": 222,
+      "usedPercent": 20
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 1078,
+      "usedBytes": 1023,
+      "usedPercent": 95
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 818,
+      "usedBytes": 272,
+      "usedPercent": 33
+    },
+    {
+      "url": "https://therishithakor.com/ui-ux-designer/",
+      "totalBytes": 193,
+      "usedBytes": 91,
+      "usedPercent": 47
+    }
+  ]
+}

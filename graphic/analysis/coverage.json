@@ -1,0 +1,98 @@
+{
+  "totals": {
+    "cssTotalBytes": 31346,
+    "cssUsedBytes": 17059,
+    "cssUsedPercent": 54,
+    "jsTotalBytes": 63493,
+    "jsUsedBytes": 37848,
+    "jsUsedPercent": 60
+  },
+  "css": [
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 25049,
+      "usedBytes": 14925,
+      "usedPercent": 60
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 4729,
+      "usedBytes": 1338,
+      "usedPercent": 28
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 926,
+      "usedBytes": 796,
+      "usedPercent": 86
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 642,
+      "usedBytes": 0,
+      "usedPercent": 0
+    }
+  ],
+  "js": [
+    {
+      "url": "https://therishithakor.com/.netlify/scripts/hud?variant=public",
+      "totalBytes": 35727,
+      "usedBytes": 20076,
+      "usedPercent": 56
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 14134,
+      "usedBytes": 10105,
+      "usedPercent": 71
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 4114,
+      "usedBytes": 3442,
+      "usedPercent": 84
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 3712,
+      "usedBytes": 1670,
+      "usedPercent": 45
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 1395,
+      "usedBytes": 827,
+      "usedPercent": 59
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 1186,
+      "usedBytes": 120,
+      "usedPercent": 10
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 1136,
+      "usedBytes": 222,
+      "usedPercent": 20
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 1078,
+      "usedBytes": 1023,
+      "usedPercent": 95
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 818,
+      "usedBytes": 272,
+      "usedPercent": 33
+    },
+    {
+      "url": "https://therishithakor.com/graphic-designer/",
+      "totalBytes": 193,
+      "usedBytes": 91,
+      "usedPercent": 47
+    }
+  ]
+}

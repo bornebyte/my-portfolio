@@ -1,0 +1,238 @@
+{
+  "motion": [
+    {
+      "name": "p5.js",
+      "detected": true,
+      "evidence": "window.p5"
+    }
+  ],
+  "vitals": {
+    "lcp": 336,
+    "fcp": 232,
+    "cls": 0.0007335243931523076,
+    "ttfb": 58.70000076293945,
+    "dcl": 172.5,
+    "load": 297.29999923706055,
+    "longTasks": 0,
+    "longTaskMs": 0
+  },
+  "platform": {
+    "serviceWorkers": [],
+    "webWorkers": [],
+    "wasmModules": [],
+    "manifest": null,
+    "manifestUrl": null,
+    "storage": {
+      "localStorageKeys": [],
+      "sessionStorageKeys": [],
+      "indexedDbs": []
+    },
+    "features": [
+      "ServiceWorker API",
+      "WebGPU available",
+      "IntersectionObserver",
+      "ResizeObserver",
+      "Custom elements",
+      "MediaSource (MSE)"
+    ]
+  },
+  "accessibility": {
+    "landmarks": [
+      {
+        "role": "header",
+        "name": ""
+      },
+      {
+        "role": "nav",
+        "name": "Primary"
+      },
+      {
+        "role": "main",
+        "name": ""
+      },
+      {
+        "role": "section",
+        "name": "Projects"
+      },
+      {
+        "role": "footer",
+        "name": "sfTitle"
+      },
+      {
+        "role": "region",
+        "name": "Analytics choice"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Web Development"
+      },
+      {
+        "level": 2,
+        "text": "Hostello"
+      },
+      {
+        "level": 2,
+        "text": "Personal portfolio"
+      },
+      {
+        "level": 2,
+        "text": "P&L Page for Zerodha"
+      },
+      {
+        "level": 2,
+        "text": "Capital Gains Tax Calculator"
+      },
+      {
+        "level": 2,
+        "text": "Tax API Cost Calculator"
+      },
+      {
+        "level": 2,
+        "text": "Tax P&L Report, explained"
+      },
+      {
+        "level": 2,
+        "text": "Capital Gains Statement, explained"
+      },
+      {
+        "level": 2,
+        "text": "Got a project?Let's build it together."
+      },
+      {
+        "level": 3,
+        "text": "Work"
+      },
+      {
+        "level": 3,
+        "text": "Navigate"
+      },
+      {
+        "level": 3,
+        "text": "Status"
+      }
+    ],
+    "controls": [
+      {
+        "role": "button",
+        "name": "Home",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Web Development",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "App Developer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "DevOpsDesign",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "BlockChain Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "My story",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Menu",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Close menu",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Home",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Web Development",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "App Developer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "DevOpsDesign",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "BlockChain Engineer",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "My story",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Start a project",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Contact",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Back to top ↑",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Back to top",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "No thanks",
+        "tag": "button"
+      },
+      {
+        "role": "button",
+        "name": "Allow",
+        "tag": "button"
+      }
+    ],
+    "imagesMissingAlt": 0,
+    "totalNodes": 319,
+    "language": "en"
+  },
+  "counts": {
+    "motionTechDetected": 1,
+    "serviceWorkers": 0,
+    "webWorkers": 0,
+    "wasmModules": 0
+  }
+}
