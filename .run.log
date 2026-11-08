@@ -1,0 +1,47 @@
+Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/fonts/4db55ed39c-onest-latin.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/images/Bornebyte-portrait.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] code 404, message File not found
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /fonts/onest-latin.woff2 HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/js/d22aba5433-hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/js/c5b02e1f1e-lenis.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/images/6bd58decad-favicon.ico HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/images/1fb19b3185-icon-192.png HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/images/4c7752569d-win_bg.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/images/970419499e-win_sub.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/images/183b31d617-back.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:47] "GET /assets/images/0a478980cc-plate.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:54:53] code 404, message File not found
+127.0.0.1 - - [08/Nov/2026 23:54:53] "GET /card/sheen.webp HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2026 23:54:53] code 404, message File not found
+127.0.0.1 - - [08/Nov/2026 23:54:53] "GET /card/body.webp HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2026 23:55:15] "GET /webdev_portfolio/index.live.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:15] "GET /webdev_portfolio/assets/fonts/4db55ed39c-onest-latin.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:15] "GET /webdev_portfolio/assets/images/9192857dfc-project-2.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:15] "GET /webdev_portfolio/assets/images/b32a0bac2e-project-4.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:16] "GET /webdev_portfolio/assets/images/6388140fc5-1-zerodha.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:16] "GET /webdev_portfolio/assets/media/5d8ee86c25-project-2.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:16] "GET /webdev_portfolio/assets/media/3a9d5a171c-project-4.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:16] "GET /webdev_portfolio/assets/js/d22aba5433-hud.js HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:16] "GET /webdev_portfolio/assets/images/bornebyte-mark.svg HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:17] "GET /webdev_portfolio/assets/images/0fd7d64385-4-quicko-cg.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:18] "GET /webdev_portfolio/assets/images/579100a513-5-sandbox-cost.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:18] "GET /webdev_portfolio/assets/images/9911322a3c-2-tax-pnl.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:19] "GET /index.live.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:19] code 404, message File not found
+127.0.0.1 - - [08/Nov/2026 23:55:19] "GET /fonts/onest-latin.woff2 HTTP/1.1" 404 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/index.live.html HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/fonts/4db55ed39c-onest-latin.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/images/3bab4de2cf-app-expense.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/images/96627dd6db-app-vault.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/images/42f632f617-icon-expense.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/images/ab419f6a4c-app-dice.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/images/5b0830eef6-app-brick.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/images/0c8fa292b1-icon-vault.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/images/632f05aa89-icon-brick.webp HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/media/3a61c453d1-app-expense.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/media/27892ebb9e-app-brick.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/media/c3ec15be64-app-vault.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/media/8c35ef514f-app-dice.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 23:55:26] "GET /appdev_portfolio/assets/images/6bd58decad-favicon.ico HTTP/1.1" 200 -
