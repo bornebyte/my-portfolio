@@ -1,0 +1,16 @@
+# Local runtime files
+.run.pid
+.run.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependency/build directories (not used, kept for tooling compatibility)
+node_modules/
+dist/
+build/
